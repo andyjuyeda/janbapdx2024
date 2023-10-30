@@ -1,6 +1,13 @@
 import styles from "./hero.module.css";
 import Rellax from "rellax";
 import { useEffect } from "react";
+import treeDarkImg from "@/assets/tree-dark.png";
+import treeBlueImg from "@/assets/tree-blue.png";
+import fieldImg from "@/assets/field.png";
+import mountainBaseImg from "@/assets/mountain-base.png";
+import mountainPeakImg from "@/assets/mountain-peak.png"
+import skyImg from "@/assets/sky.png"
+import janbaLogoTextImg from "@/assets/janba-logo-text-only.png";
 
 export default function Hero() {
   useEffect(() => {
@@ -46,46 +53,42 @@ export default function Hero() {
       </a>
       <div className={styles.heroImages}>
         <img
-          src="src/assets/sky.png"
+          src={skyImg}
           alt="sky"
           className={`${styles.heroImg} rellax`}
           data-rellax-speed="-12"
         />
         <img
-          src="src/assets/mountain-peak.png"
+          src={mountainPeakImg}
           alt="mountain-peak"
           className={`${styles.heroImg} rellax`}
           data-rellax-speed="-12"
         />
         <img
-          src="src/assets/janba-logo-text-only.png"
+          src={janbaLogoTextImg}
           alt="JANBA logo text only"
           className={`${styles.heroImg} rellax ${styles.logo}`}
           data-rellax-speed="-12"
         />
         <img
-          src="src/assets/mountain-base.png"
+          src={mountainBaseImg}
           alt="mountain-base"
           className={`${styles.heroImg} rellax`}
           data-rellax-speed="-8"
         />
         <img
-          src="src/assets/field.png"
+          src={fieldImg}
           alt="field"
           className={`${styles.heroImg} rellax`}
           data-rellax-speed="-6"
         />
         <img
-          src="src/assets/tree-blue.png"
-          alt="tree-blue"
+          src={treeBlueImg}
+          alt="treeblue"
           className={`${styles.heroImg} rellax`}
           data-rellax-speed="-4"
         />
-        <img
-          src="src/assets/tree-dark.png"
-          alt="treedark"
-          className={styles.heroImg}
-        />
+        <img src={treeDarkImg} alt="treedark" className={styles.heroImg} />
       </div>
     </div>
   );

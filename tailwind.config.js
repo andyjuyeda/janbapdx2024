@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   darkMode: ["class"],
   content: [
@@ -9,11 +10,11 @@ module.exports = {
   ],
   theme: {
     backgroundImage: {
-      "park-lanes": "url('src/assets/parklanes.jpeg')",
-      "storm-logo": "url('src/assets/storm-logo.png')",
-      "roto-grip-logo": "url('src/assets/roto-grip-logo.png')",
-      "master-logo": "url('src/assets/master-logo.png')",
-      "900g-logo": "url('src/assets/900_Global_ball_listing_icon.png')",
+      "park-lanes": "url('./src/assets/parklanes.jpeg')",
+      "storm-logo": "url('./src/assets/storm-logo.png')",
+      "roto-grip-logo": "url('./src/assets/roto-grip-logo.png')",
+      "master-logo": "url('./src/assets/master-logo.png')",
+      "900g-logo": "url('./src/assets/900_Global_ball_listing_icon.png')",
     },
     container: {
       center: true,
