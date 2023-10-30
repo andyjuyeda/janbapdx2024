@@ -68,7 +68,7 @@ type Bowler = {
   average: number;
 };
 
-const EditCell = ({ row, table }) => {
+const EditCell = ({ row, table }: any) => {
   const meta = table.options.meta;
   const setEditedRows = (e: MouseEvent<HTMLButtonElement>) => {
     const elName = e.currentTarget.name;
