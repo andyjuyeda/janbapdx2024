@@ -1,0 +1,17 @@
+.header {
+    height: var(--header-height);
+}
+
+.button {
+    justify-self: end;
+    margin: 0px 20px;
+    background-color: hsl(var(--primary-color));
+    padding: 5px 10px;
+    border-radius: var(--radius);
+    color: hsl(var(--background));
+}
+
+.logo,
+.nav {
+    color: hsl(var(--foreground));
+}

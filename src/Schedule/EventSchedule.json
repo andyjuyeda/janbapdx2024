@@ -1,0 +1,256 @@
+{
+  "days": [
+    {
+      "name": "sunday",
+      "abbrev": "SUN",
+      "agenda": [
+        {
+          "event": "Ragtime Doubles",
+          "divisions": null,
+          "time": "5:00 p.m.",
+          "key": "sunday-Ragtime Doubles-5:00 p.m.-0"
+        },
+        {
+          "event": "Ragtime Doubles",
+          "divisions": null,
+          "time": "7:00 p.m.",
+          "key": "sunday-Ragtime Doubles-7:00 p.m.-1"
+        },
+        {
+          "event": "Ragtime Doubles",
+          "divisions": null,
+          "time": "9:00 p.m.",
+          "key": "sunday-Ragtime Doubles-9:00 p.m.-2"
+        }
+      ]
+    },
+    {
+      "name": "monday",
+      "abbrev": "MON",
+      "agenda": [
+        {
+          "event": "Men's Classic",
+          "divisions": ["1", "2"],
+          "time": "9:00 a.m.",
+          "key": "monday-Men's Classic-9:00 a.m.-0"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "12:00 p.m.",
+          "key": "monday-Oiling-12:00 p.m.-1"
+        },
+        {
+          "event": "Women's Classic",
+          "divisions": ["1", "2"],
+          "time": "1:30 p.m.",
+          "key": "monday-Women's Classic-1:30 p.m.-2"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "4:00 p.m.",
+          "key": "monday-Oiling-4:00 p.m.-3"
+        },
+        {
+          "event": "Men's Classic",
+          "divisions": ["3", "4"],
+          "time": "5:00 p.m.",
+          "key": "monday-Men's Classic-5:00 p.m.-4"
+        }
+      ]
+    },
+    {
+      "name": "tuesday",
+      "abbrev": "TUE",
+      "agenda": [
+        {
+          "event": "Mixed Doubles",
+          "divisions": ["1", "2"],
+          "time": "11:00 a.m.",
+          "key": "tuesday-Mixed Doubles-11:00 a.m.-0"
+        },
+        {
+          "event": "Mixed Doubles",
+          "divisions": ["3", "4"],
+          "time": "12:30 p.m.",
+          "key": "tuesday-Mixed Doubles-12:30 p.m.-1"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "2:00 p.m.",
+          "key": "tuesday-Oiling-2:00 p.m.-2"
+        },
+        {
+          "event": "Mixed Doubles",
+          "divisions": ["5", "6"],
+          "time": "3:30 p.m.",
+          "key": "tuesday-Mixed Doubles-3:30 p.m.-3"
+        },
+        {
+          "event": "Mixed Doubles",
+          "divisions": ["7", "8"],
+          "time": "5:00 p.m.",
+          "key": "tuesday-Mixed Doubles-5:00 p.m.-4"
+        }
+      ]
+    },
+    {
+      "name": "wednesday",
+      "abbrev": "WED",
+      "agenda": [
+        {
+          "event": "Men's Team",
+          "divisions": ["1"],
+          "time": "9:00 a.m.",
+          "key": "wednesday-Men's Team-9:00 a.m.-0"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "12:30 p.m.",
+          "key": "wednesday-Oiling-12:30 p.m.-1"
+        },
+        {
+          "event": "Women's Team",
+          "divisions": ["1", "2"],
+          "time": "2:00 p.m.",
+          "key": "wednesday-Women's Team-2:00 p.m.-2"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "5:30 p.m.",
+          "key": "wednesday-Oiling-5:30 p.m.-3"
+        },
+        {
+          "event": "Men's Team",
+          "divisions": ["2", "3"],
+          "time": "7:00 p.m.",
+          "key": "wednesday-Men's Team-7:00 p.m.-4"
+        }
+      ]
+    },
+    {
+      "name": "thursday",
+      "abbrev": "THU",
+      "agenda": [
+        {
+          "event": "Men's Doubles",
+          "divisions": ["1", "2"],
+          "time": "9:00 a.m.",
+          "key": "thursday-Men's Doubles-9:00 a.m.-0"
+        },
+        {
+          "event": "Women's Doubles",
+          "divisions": ["1", "2"],
+          "time": "10:30 a.m.",
+          "key": "thursday-Women's Doubles-10:30 a.m.-1"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "12:00 p.m.",
+          "key": "thursday-Oiling-12:00 p.m.-2"
+        },
+        {
+          "event": "Men's Doubles",
+          "divisions": ["3", "4"],
+          "time": "1:30 p.m.",
+          "key": "thursday-Men's Doubles-1:30 p.m.-3"
+        },
+        {
+          "event": "Women's Doubles",
+          "divisions": ["3", "4"],
+          "time": "3:00 p.m.",
+          "key": "thursday-Women's Doubles-3:00 p.m.-4"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "4:30 p.m.",
+          "key": "thursday-Oiling-4:30 p.m.-5"
+        },
+        {
+          "event": "Men's Doubles",
+          "divisions": ["5", "6"],
+          "time": "6:00 p.m.",
+          "key": "thursday-Men's Doubles-6:00 p.m.-6"
+        },
+        {
+          "event": "150 & Over No-Tap Trio",
+          "divisions": null,
+          "time": "8:00 p.m.",
+          "key": "thursday-150 & Over No-Tap Trio-8:00 p.m.-7"
+        }
+      ]
+    },
+    {
+      "name": "friday",
+      "abbrev": "FRI",
+      "agenda": [
+        {
+          "event": "Men's Singles",
+          "divisions": ["1", "2"],
+          "time": "9:00 a.m.",
+          "key": "friday-Men's Singles-9:00 a.m.-0"
+        },
+        {
+          "event": "Women's Singles",
+          "divisions": ["1", "2"],
+          "time": "10:30 a.m.",
+          "key": "friday-Women's Singles-10:30 a.m.-1"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "12:00 p.m.",
+          "key": "friday-Oiling-12:00 p.m.-2"
+        },
+        {
+          "event": "Men's Singles",
+          "divisions": ["3", "4"],
+          "time": "1:30 p.m.",
+          "key": "friday-Men's Singles-1:30 p.m.-3"
+        },
+        {
+          "event": "Women's Singles",
+          "divisions": ["3", "4"],
+          "time": "3:00 p.m.",
+          "key": "friday-Women's Singles-3:00 p.m.-4"
+        },
+        {
+          "event": "Oiling",
+          "divisions": null,
+          "time": "4:30 p.m.",
+          "key": "friday-Oiling-4:30 p.m.-5"
+        },
+        {
+          "event": "Men's Singles",
+          "divisions": ["5", "6"],
+          "time": "6:00 p.m.",
+          "key": "friday-Men's Singles-6:00 p.m.-6"
+        }
+      ]
+    },
+    {
+      "name": "saturday",
+      "abbrev": "SAT",
+      "agenda": [
+        {
+          "event": "Cocktails",
+          "divisions": null,
+          "time": "12:30 p.m.",
+          "key": "saturday-Cocktails-12:30 p.m.-0"
+        },
+        {
+          "event": "Awards Banquet",
+          "divisions": null,
+          "time": "1:30 p.m.",
+          "key": "saturday-Awards Banquet-1:30 p.m.-1"
+        }
+      ]
+    }
+  ]
+}
