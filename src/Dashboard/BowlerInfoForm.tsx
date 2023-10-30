@@ -7,6 +7,7 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
+import { Checkbox } from "@/components/ui/checkbox";
 import { z } from "zod";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -39,7 +40,6 @@ export default function BowlerInfoForm() {
     resolver: zodResolver(BowlerFormSchema),
     defaultValues: {
       name: "",
-      gender: "",
       average: 0,
       is_senior: false,
       is_vet: false,
@@ -61,7 +61,7 @@ export default function BowlerInfoForm() {
   }
   return (
     <>
-      <Form {...form} className="">
+      <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)}>
           <FormField
             control={form.control}
@@ -129,7 +129,7 @@ export default function BowlerInfoForm() {
                     JANBA Vet
                   </FormLabel>
                   <FormControl>
-                    <input type="checkbox" id="vet" {...field} />
+                    <Checkbox id="vet" checked={field.value} onCheckedChange={field.onChange} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -144,7 +144,7 @@ export default function BowlerInfoForm() {
                     Senior
                   </FormLabel>
                   <FormControl>
-                    <input type="checkbox" id="senior" {...field} />
+                    <Checkbox id="senior" checked={field.value} onCheckedChange={field.onChange} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -159,7 +159,7 @@ export default function BowlerInfoForm() {
                     All Events
                   </FormLabel>
                   <FormControl>
-                    <input type="checkbox" id="all_events" {...field} />
+                    <Checkbox id="all_events" checked={field.value} onCheckedChange={field.onChange} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>
@@ -174,12 +174,7 @@ export default function BowlerInfoForm() {
                     Senior All Events
                   </FormLabel>
                   <FormControl>
-                    <input
-                      type="checkbox"
-                      id="senior_all_events"
-                      className=""
-                      {...field}
-                    />
+                    <Checkbox id="senior_all_events" checked={field.value} onCheckedChange={field.onChange} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>

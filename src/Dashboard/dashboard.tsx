@@ -8,7 +8,7 @@ const EventData = ({
   divisions,
   gender,
 }: {
-  event: string;
+  event?: string;
   divisions?: number[];
   gender?: string;
 }) => {
@@ -98,7 +98,7 @@ function DashboardTabsContent() {
         <AllBowlers />
       </TabsContent>
       <TabsContent value="events" className="">
-        Events
+        <EventData />
       </TabsContent>
     </>
   );
