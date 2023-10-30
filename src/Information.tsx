@@ -14,6 +14,8 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
+import parkLanesImg from "@/assets/parklanes.jpeg"
+
 import { Button } from "./components/ui/button";
 
 function detectDevice() {
@@ -36,7 +38,7 @@ function MapsCard() {
         <CardTitle>Park Lanes</CardTitle>
         <CardDescription>Hillsboro, OR</CardDescription>
       </CardHeader>
-      <CardContent className="mx-5 mb-5 hidden flex-1 rounded-md bg-park-lanes bg-cover md:block"></CardContent>
+      <CardContent style={{ backgroundImage: `url(${parkLanesImg})` }} className="mx-5 mb-5 hidden flex-1 rounded-md bg-cover md:block"></CardContent>
       <CardFooter className="">
         <div className="space-y-4">
           <div className="flex items-center gap-4">
