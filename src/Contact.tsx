@@ -10,7 +10,7 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
+// import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea"; // Make sure to import or define a Textarea component
 
 const formSchema = z.object({
@@ -90,11 +90,23 @@ function ContactForm() {
               </FormItem>
             )}
           />
-          <Button type="submit" className="col-span-2 mt-3 w-full bg-primary">
+          {/* <Button type="submit" className="col-span-2 mt-3 w-full bg-primary">
             Submit
-          </Button>
+          </Button> */}
         </form>
       </Form>
+      <div className="mt-5">
+        <span>
+          The above form is currently disabled. Please send any inquries to{" "}
+          <a
+            href="mailto:janbapdx2024@gmail.com"
+            className="text-sm font-bold underline md:text-base"
+          >
+            janbapdx2024@gmail.com
+          </a>{" "}
+          for the time being. Thank you!
+        </span>
+      </div>
     </div>
   );
 }
