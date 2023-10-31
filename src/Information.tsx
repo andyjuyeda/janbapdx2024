@@ -14,7 +14,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
-import parkLanesImg from "@/assets/parklanes.jpeg"
+import parkLanesImg from "@/assets/img/parklanes.jpeg"
 
 import { Button } from "./components/ui/button";
 
