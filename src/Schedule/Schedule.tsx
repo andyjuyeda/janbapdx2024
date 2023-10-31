@@ -256,7 +256,7 @@ function ScheduleTabsContent({
             <h2 className="mb-0 text-xl md:text-3xl md:relative md:left-0 md:right-0 md:mx-auto font-bold uppercase">
               {day.name}
             </h2>
-            <DropdownMenu>
+            {/* <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -279,7 +279,7 @@ function ScheduleTabsContent({
                   Get Your Personal Schedule
                 </DropdownMenuItem>
               </DropdownMenuContent>
-            </DropdownMenu>
+            </DropdownMenu> */}
           </div>
           <h3 className="md:text-center mb-8 md:mt-[-10px] mt-[-5px] font-semibold md:text-lg">{day.mainevent}</h3>
 
