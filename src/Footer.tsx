@@ -1,6 +1,6 @@
-import stormLogo from "@/assets/storm-logo.png"
-import rotoGripLogo from "@/assets/roto-grip-logo.png"
-import globalLogo from "@/assets/900_Global_ball_listing_icon.png"
+import stormLogo from "@/assets/img/storm-logo.png"
+import rotoGripLogo from "@/assets/img/roto-grip-logo.png"
+import globalLogo from "@/assets/img/900_Global_ball_listing_icon.png"
 
 export default function Footer() {
   return (

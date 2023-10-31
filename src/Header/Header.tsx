@@ -7,6 +7,12 @@ import {
   DropdownMenuItem,
 } from "@/components/ui/dropdown-menu";
 import styles from "./header.module.css";
+
+import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
+import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
+import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
+import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
+
 type NavLinkProps = {
   link: string;
 };
@@ -26,14 +32,46 @@ function NavLink({ link, onClick }: NavLinkProps & { onClick: () => void }) {
 function FormsMenu() {
   return (
     <DropdownMenuContent>
-      <DropdownMenuItem>Men's Entry</DropdownMenuItem>
-      <DropdownMenuItem>Women's Entry</DropdownMenuItem>
-      <DropdownMenuItem>Senior Event Info</DropdownMenuItem>
-      <DropdownMenuItem>Tournament Rules</DropdownMenuItem>
-      <DropdownMenuItem>Average Verification</DropdownMenuItem>
-      <DropdownMenuItem>Substitute/Replacement</DropdownMenuItem>
-      <DropdownMenuItem>Dress Code</DropdownMenuItem>
-      <DropdownMenuItem>Advertising</DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={mensEntryForm} target="_blank" rel="noopener noreferrer">
+          Men's Entry
+        </a>
+      </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={womensEntryForm} target="_blank" rel="noopener noreferrer">
+          Women's Entry
+        </a>
+      </DropdownMenuItem>
+      {/* <DropdownMenuItem>
+        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
+          Senior Event Info
+        </a>
+      </DropdownMenuItem> */}
+      <DropdownMenuItem>
+        <a href={rulesForm} target="_blank" rel="noopener noreferrer">
+          Tournament Rules
+        </a>
+      </DropdownMenuItem>
+      {/* <DropdownMenuItem>
+        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
+          Average Verification
+        </a>
+      </DropdownMenuItem> */}
+      {/* <DropdownMenuItem>
+        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
+          Substitute/Replacement
+        </a>
+      </DropdownMenuItem> */}
+      {/* <DropdownMenuItem>
+        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
+          Dress Code
+        </a>
+      </DropdownMenuItem> */}
+      <DropdownMenuItem>
+        <a href={advertisingForm} target="_blank" rel="noopener noreferrer">
+          Advertising
+        </a>
+      </DropdownMenuItem>
     </DropdownMenuContent>
   );
 }

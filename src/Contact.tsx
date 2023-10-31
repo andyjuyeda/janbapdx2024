@@ -33,7 +33,6 @@ function ContactForm() {
       name: "",
       email: "",
       phone: "",
-      address: "",
       subject: "",
       message: "",
     },
@@ -50,36 +49,34 @@ function ContactForm() {
           onSubmit={form.handleSubmit(onSubmit)}
           className="gap-x-3 md:grid"
         >
-          {(["name", "email", "phone", "address", "subject"] as const).map(
-            (fieldKey) => (
-              <FormField
-                key={fieldKey}
-                control={form.control}
-                name={fieldKey}
-                render={({ field }) => (
-                  <FormItem
-                    className={`mb-3 space-y-0 ${
-                      fieldKey === "name" || fieldKey === "email"
-                        ? "col-span-1"
-                        : "col-span-2"
-                    }`}
-                  >
-                    <FormLabel className="px-2 capitalize text-dark-blue">
-                      {fieldKey}
-                    </FormLabel>
-                    <FormControl className="">
-                      <Input
-                        placeholder={fieldKey}
-                        {...field}
-                        className="capitalize"
-                      />
-                    </FormControl>
-                    <FormMessage className="text-danger" />
-                  </FormItem>
-                )}
-              />
-            )
-          )}
+          {(["name", "email", "phone", "subject"] as const).map((fieldKey) => (
+            <FormField
+              key={fieldKey}
+              control={form.control}
+              name={fieldKey}
+              render={({ field }) => (
+                <FormItem
+                  className={`mb-3 space-y-0 ${
+                    fieldKey === "name" || fieldKey === "email"
+                      ? "col-span-1"
+                      : "col-span-2"
+                  }`}
+                >
+                  <FormLabel className="px-2 capitalize text-dark-blue">
+                    {fieldKey}
+                  </FormLabel>
+                  <FormControl className="">
+                    <Input
+                      placeholder={fieldKey}
+                      {...field}
+                      className="capitalize"
+                    />
+                  </FormControl>
+                  <FormMessage className="text-danger" />
+                </FormItem>
+              )}
+            />
+          ))}
           <FormField
             control={form.control}
             name="message"
@@ -111,24 +108,7 @@ function ContactCard() {
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
             fill="currentColor"
-            className="h-7 w-7 text-primary md:h-12 md:w-12"
-          >
-            <path
-              fillRule="evenodd"
-              d="M11.54 22.351l.07.04.028.016a.76.76 0 00.723 0l.028-.015.071-.041a16.975 16.975 0 001.144-.742 19.58 19.58 0 002.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 00-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 002.682 2.282 16.975 16.975 0 001.145.742zM12 13.5a3 3 0 100-6 3 3 0 000 6z"
-              clipRule="evenodd"
-            />
-          </svg>
-          <p className="text-sm font-bold text-slate-50 md:text-base">
-            5927 NW Snowlily Dr. Portland, OR 97229
-          </p>
-        </div>
-        <div className="flex items-center gap-4 md:flex-col">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="currentColor"
-            className="h-7 w-7 text-primary md:h-12 md:w-12"
+            className="h-9 w-9 text-primary md:h-14 md:w-14"
           >
             <path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z" />
             <path d="M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" />
@@ -145,7 +125,7 @@ function ContactCard() {
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
             fill="currentColor"
-            className="h-7 w-7 text-primary md:h-12 md:w-12"
+            className="h-9 w-9 text-primary md:h-14 md:w-14"
           >
             <path
               fillRule="evenodd"
@@ -154,10 +134,10 @@ function ContactCard() {
             />
           </svg>
           <a
-            href="tel:+15035932870"
+            href="tel:+15037083894"
             className="text-sm font-bold text-slate-50 md:text-base"
           >
-            503-593-2870
+            503-708-3894
           </a>
         </div>
       </div>

@@ -1,13 +1,13 @@
 import styles from "./hero.module.css";
 import Rellax from "rellax";
 import { useEffect } from "react";
-import treeDarkImg from "@/assets/tree-dark.png";
-import treeBlueImg from "@/assets/tree-blue.png";
-import fieldImg from "@/assets/field.png";
-import mountainBaseImg from "@/assets/mountain-base.png";
-import mountainPeakImg from "@/assets/mountain-peak.png"
-import skyImg from "@/assets/sky.png"
-import janbaLogoTextImg from "@/assets/janba-logo-text-only.png";
+import treeDarkImg from "@/assets/img/tree-dark.png";
+import treeBlueImg from "@/assets/img/tree-blue.png";
+import fieldImg from "@/assets/img/field.png";
+import mountainBaseImg from "@/assets/img/mountain-base.png";
+import mountainPeakImg from "@/assets/img/mountain-peak.png"
+import skyImg from "@/assets/img/sky.png"
+import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
 
 export default function Hero() {
   useEffect(() => {
