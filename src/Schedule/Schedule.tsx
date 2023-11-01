@@ -74,7 +74,7 @@ function EventDetails({
               </DropdownMenuTrigger>
               <DropdownMenuContent className="mr-10 bg-slate-50">
                 <DropdownMenuItem className="">
-                  <a href="#" className="text-lg font-bold flex gap-2">
+                  <a href="#" className="flex gap-2 text-lg font-bold">
                     <span>Download PDF</span>
                     <span>
                       <svg
@@ -181,7 +181,11 @@ function EventDetails({
           <Separator className="mx-6 w-auto bg-slate-200" />
         </div>
       ))}
-      {bowlers.length === 0 && <div className="mt-5 text-lg font-semibold">Lane assignments are currently unavailable.</div>}
+      {bowlers.length === 0 && (
+        <div className="mt-5 text-lg font-semibold">
+          Lane assignments are currently unavailable.
+        </div>
+      )}
     </div>
   );
 }
@@ -253,7 +257,7 @@ function ScheduleTabsContent({
           className="row-span-5 row-start-1 px-4"
         >
           <div className="flex justify-between md:py-5">
-            <h2 className="mb-0 text-xl md:text-3xl md:relative md:left-0 md:right-0 md:mx-auto font-bold uppercase">
+            <h2 className="mb-0 text-xl font-bold uppercase md:relative md:left-0 md:right-0 md:mx-auto md:text-3xl">
               {day.name}
             </h2>
             {/* <DropdownMenu>
@@ -281,7 +285,9 @@ function ScheduleTabsContent({
               </DropdownMenuContent>
             </DropdownMenu> */}
           </div>
-          <h3 className="md:text-center mb-8 md:mt-[-10px] mt-[-5px] font-semibold md:text-lg">{day.mainevent}</h3>
+          <h3 className="mb-8 mt-[-5px] font-semibold md:mt-[-10px] md:text-center md:text-lg">
+            {day.mainevent}
+          </h3>
 
           {day.agenda.map((event, index) => (
             <React.Fragment key={event.key}>
@@ -386,14 +392,16 @@ export default function Schedule() {
   };
 
   return (
-    <div className="h-screen">
+    <div className="h-[700px] md:h-screen">
       <h1
         id="schedule"
         className="mt-10 text-center text-2xl font-bold uppercase text-slate-50 xl:text-5xl"
       >
         Schedule*
       </h1>
-      <h3 className="text-center mt-3 mb-10 text-slate-50 text-sm">*schedule is unofficial and will likely change</h3>
+      <h3 className="mb-10 mt-3 text-center text-sm text-slate-50">
+        *below schedule is an unofficial general outline and will change
+      </h3>
       <div
         className={`mt-5 h-3/4 rounded-xl bg-slate-50 text-sm lg:px-20 ${
           showEventDetails ? "overflow-y-auto" : "overflow-hidden"

@@ -14,7 +14,8 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
-import parkLanesImg from "@/assets/img/parklanes.jpeg"
+import parkLanesImg from "@/assets/img/parklanes.jpeg";
+import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 
 import { Button } from "./components/ui/button";
 
@@ -38,7 +39,10 @@ function MapsCard() {
         <CardTitle>Park Lanes</CardTitle>
         <CardDescription>Hillsboro, OR</CardDescription>
       </CardHeader>
-      <CardContent style={{ backgroundImage: `url(${parkLanesImg})` }} className="mx-5 mb-5 hidden flex-1 rounded-md bg-cover md:block"></CardContent>
+      <CardContent
+        style={{ backgroundImage: `url(${parkLanesImg})` }}
+        className="mx-5 mb-5 hidden flex-1 rounded-md bg-cover md:block"
+      ></CardContent>
       <CardFooter className="">
         <div className="space-y-4">
           <div className="flex items-center gap-4">
@@ -111,26 +115,44 @@ function FAQ() {
         Frequently Asked Questions
       </h1>
       <Accordion type="single" collapsible className="">
-        <AccordionItem value="eligibility" className="">
-          <AccordionTrigger className="bg-transparent rounded-tl-lg rounded-tr-lg text-white">
-            Am I eligible to bowl?
-          </AccordionTrigger>
-          <AccordionContent className="bg-transparent text-white">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus
-            sit quaerat dignissimos nesciunt magnam rerum eveniet modi, velit
-            omnis ipsam quibusdam corporis repellendus amet maiores temporibus
-            veritatis, esse mollitia id!
-          </AccordionContent>
-        </AccordionItem>
         <AccordionItem value="average" className="">
           <AccordionTrigger className="bg-transparent text-white">
             How is my average determined?
           </AccordionTrigger>
           <AccordionContent className="bg-transparent text-white">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus
-            sit quaerat dignissimos nesciunt magnam rerum eveniet modi, velit
-            omnis ipsam quibusdam corporis repellendus amet maiores temporibus
-            veritatis, esse mollitia id!
+            <p>
+              Highest USBC standard composite or sport composite average of
+              2021-2022 or 2022-2023 season (min. 21 games).
+            </p>
+            <br />
+            <p>
+              If none, then JANBA tournament average from 2017-2023 (min. 15
+              games). Hardship cases may be submitted to the JANBA tournament
+              manager and the JANBA Board average committee.
+            </p>
+            <br />
+            <p>
+              If none of the above, the highest known current league average, 21
+              games or more as of December 31, 2023.
+            </p>
+            <br />
+            <p>
+              If none of the above applies, men will enter at 190 and women will
+              enter at 175.
+            </p>
+            <br />
+            <p>
+              For more information, see{" "}
+              <a
+                href={rulesForm}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold underline"
+              >
+                Tournament Rules
+              </a>
+              .
+            </p>
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="check-in" className="">
@@ -138,21 +160,11 @@ function FAQ() {
             How early should I check in?
           </AccordionTrigger>
           <AccordionContent className="bg-transparent text-white">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus
-            sit quaerat dignissimos nesciunt magnam rerum eveniet modi, velit
-            omnis ipsam quibusdam corporis repellendus amet maiores temporibus
-            veritatis, esse mollitia id!
-          </AccordionContent>
-        </AccordionItem>
-        <AccordionItem value="dress-code" className="">
-          <AccordionTrigger className="bg-transparent text-white data-[state=closed]:rounded-bl-lg data-[state=closed]:rounded-br-lg">
-            What is the dress code?
-          </AccordionTrigger>
-          <AccordionContent className="bg-transparent rounded-bl-lg rounded-br-lg text-white">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus
-            sit quaerat dignissimos nesciunt magnam rerum eveniet modi, velit
-            omnis ipsam quibusdam corporis repellendus amet maiores temporibus
-            veritatis, esse mollitia id!
+            <p>
+              Bowlers must report 15 minutes before their squad time. Tardy
+              bowlers will begin from the frame in progress on their assigned
+              lanes.
+            </p>
           </AccordionContent>
         </AccordionItem>
       </Accordion>
@@ -176,7 +188,7 @@ function HotelInfo() {
         rel="noopener noreferrer"
         className="row-start-3 mx-auto mb-4"
       >
-        <Button variant="secondary" className="flex gap-3 items-center">
+        <Button variant="secondary" className="flex items-center gap-3">
           <span>Staybridge Suites</span>
           <span>
             <svg
@@ -202,7 +214,7 @@ function HotelInfo() {
 
 export default function Information() {
   return (
-    <div className="h-screen">
+    <div className="min-h-screen">
       <h1
         id="information"
         className="my-10 text-center text-2xl font-bold uppercase text-slate-50 xl:text-5xl"
