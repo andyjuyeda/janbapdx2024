@@ -29,11 +29,11 @@ function App() {
                 <Contact />
                 <Footer />
               </div>
+              <Analytics />
             </>
           }
         />
       </Routes>
-      <Analytics />
     </Router>
   );
 }
