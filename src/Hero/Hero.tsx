@@ -8,6 +8,9 @@ import mountainBaseImg from "@/assets/img/mountain-base.png";
 import mountainPeakImg from "@/assets/img/mountain-peak.png"
 import skyImg from "@/assets/img/sky.png"
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
+// import { buttonVariants } from "@/components/ui/button";
+// import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf"
+// import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf"
 
 export default function Hero() {
   useEffect(() => {
@@ -37,6 +40,19 @@ export default function Hero() {
   });
   return (
     <div className={styles.hero}>
+      <div className="fixed md:absolute z-[-2] mx-4 mt-10 md:m-5 text-dark-blue">
+        {/* <h3 className="md:text-xl font-bold">Portland, Oregon</h3> */}
+        <h3 className="md:text-xl font-bold">March 3 - March 9, 2024</h3>
+      </div>
+      {/* <div className="absolute w-screen h-screen grid grid-rows-[2.4fr_2fr] md:grid-rows-[2.8fr_2fr] rellax z-[-6]" data-rellax-speed="-8">
+        <div className="row-start-2 justify-self-center flex flex-col items-center gap-3">
+          <h3 className="text-xl md:text-3xl uppercase font-semibold text-dark-blue">March 3 - 9</h3>
+          <div className="flex flex-col md:flex-row gap-3">
+            <a href={mensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-44 shadow-md hover:shadow-none`}>Men's Entry Form</a>
+            <a href={womensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-44 shadow-md hover:shadow-none`}>Women's Entry Form</a>
+          </div>
+        </div>
+      </div> */}
       <a href="#information" id="bouncingArrow">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -55,37 +71,37 @@ export default function Hero() {
         <img
           src={skyImg}
           alt="sky"
-          className={`${styles.heroImg} rellax`}
+          className={`${styles.heroImg} rellax z-[-10]`}
           data-rellax-speed="-12"
         />
         <img
           src={mountainPeakImg}
           alt="mountain-peak"
-          className={`${styles.heroImg} rellax`}
+          className={`${styles.heroImg} rellax z-[-9]`}
           data-rellax-speed="-12"
         />
         <img
           src={janbaLogoTextImg}
           alt="JANBA logo text only"
-          className={`${styles.heroImg} rellax ${styles.logo}`}
+          className={`${styles.heroImg} rellax ${styles.logo} z-[-9]`}
           data-rellax-speed="-12"
         />
         <img
           src={mountainBaseImg}
           alt="mountain-base"
-          className={`${styles.heroImg} rellax`}
+          className={`${styles.heroImg} rellax z-[-8]`}
           data-rellax-speed="-8"
         />
         <img
           src={fieldImg}
           alt="field"
-          className={`${styles.heroImg} rellax`}
+          className={`${styles.heroImg} rellax z-[-7]`}
           data-rellax-speed="-6"
         />
         <img
           src={treeBlueImg}
           alt="treeblue"
-          className={`${styles.heroImg} rellax`}
+          className={`${styles.heroImg} rellax z-[-6]`}
           data-rellax-speed="-4"
         />
         <img src={treeDarkImg} alt="treedark" className={styles.heroImg} />

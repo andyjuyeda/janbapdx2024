@@ -36,7 +36,7 @@ function MapsCard() {
   return (
     <Card className="col-start-1 col-end-4 flex flex-col md:row-span-6 lg:col-span-4">
       <CardHeader className="">
-        <CardTitle>Park Lanes</CardTitle>
+        <CardTitle className="text-xl md:text-2xl">Park Lanes Family Entertainment Center</CardTitle>
         <CardDescription>Hillsboro, OR</CardDescription>
       </CardHeader>
       <CardContent
