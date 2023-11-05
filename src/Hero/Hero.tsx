@@ -8,9 +8,9 @@ import mountainBaseImg from "@/assets/img/mountain-base.png";
 import mountainPeakImg from "@/assets/img/mountain-peak.png"
 import skyImg from "@/assets/img/sky.png"
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
-// import { buttonVariants } from "@/components/ui/button";
-// import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf"
-// import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf"
+import { buttonVariants } from "@/components/ui/button";
+import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf"
+import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf"
 
 export default function Hero() {
   useEffect(() => {
@@ -40,19 +40,15 @@ export default function Hero() {
   });
   return (
     <div className={styles.hero}>
-      <div className="fixed md:absolute z-[-2] mx-4 mt-10 md:m-5 text-dark-blue">
-        {/* <h3 className="md:text-xl font-bold">Portland, Oregon</h3> */}
-        <h3 className="md:text-xl font-bold">March 3 - March 9, 2024</h3>
-      </div>
-      {/* <div className="absolute w-screen h-screen grid grid-rows-[2.4fr_2fr] md:grid-rows-[2.8fr_2fr] rellax z-[-6]" data-rellax-speed="-8">
+      <div className="absolute w-screen h-screen grid grid-rows-[1.75fr_2fr] md:grid-rows-[4fr_2fr] z-10">
         <div className="row-start-2 justify-self-center flex flex-col items-center gap-3">
-          <h3 className="text-xl md:text-3xl uppercase font-semibold text-dark-blue">March 3 - 9</h3>
-          <div className="flex flex-col md:flex-row gap-3">
-            <a href={mensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-44 shadow-md hover:shadow-none`}>Men's Entry Form</a>
-            <a href={womensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-44 shadow-md hover:shadow-none`}>Women's Entry Form</a>
+          <h3 className="text-3xl md:text-5xl uppercase font-bold text-dark-blue">March 3 - 9</h3>
+          <div className="flex gap-3 flex-col md:flex-row">
+            <a href={mensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue`}>Men's Entry Form</a>
+            <a href={womensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue`}>Women's Entry Form</a>
           </div>
         </div>
-      </div> */}
+      </div>
       <a href="#information" id="bouncingArrow">
         <svg
           xmlns="http://www.w3.org/2000/svg"
