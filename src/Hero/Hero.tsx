@@ -44,8 +44,8 @@ export default function Hero() {
         <div className="row-start-2 justify-self-center flex flex-col items-center gap-3">
           <h3 className="text-3xl md:text-5xl uppercase font-bold text-dark-blue">March 3 - 9</h3>
           <div className="flex gap-3 flex-col md:flex-row">
-            <a href={mensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue`}>Men's Entry Form</a>
-            <a href={womensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue`}>Women's Entry Form</a>
+            <a href={mensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} min-w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue font-semibold`}>Men's Entry Form</a>
+            <a href={womensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} min-w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue font-semibold`}>Women's Entry Form</a>
           </div>
         </div>
       </div>
