@@ -9,9 +9,9 @@ import {
 import styles from "./header.module.css";
 
 import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
-// import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
+import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
-// import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
+import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
 
 type NavLinkProps = {
   link: string;
@@ -37,11 +37,11 @@ function FormsMenu() {
           Men's Entry
         </a>
       </DropdownMenuItem>
-      {/* <DropdownMenuItem>
+      <DropdownMenuItem>
         <a href={womensEntryForm} target="_blank" rel="noopener noreferrer">
           Women's Entry
         </a>
-      </DropdownMenuItem> */}
+      </DropdownMenuItem>
       {/* <DropdownMenuItem>
         <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
           Senior Event Info
@@ -67,11 +67,11 @@ function FormsMenu() {
           Dress Code
         </a>
       </DropdownMenuItem> */}
-      {/* <DropdownMenuItem>
+      <DropdownMenuItem>
         <a href={advertisingForm} target="_blank" rel="noopener noreferrer">
           Advertising
         </a>
-      </DropdownMenuItem> */}
+      </DropdownMenuItem>
     </DropdownMenuContent>
   );
 }
