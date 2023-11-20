@@ -10,7 +10,6 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-// import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
 
 const formSchema = z.object({
@@ -25,8 +24,10 @@ const formSchema = z.object({
   }),
 });
 
+type FormData = z.infer<typeof formSchema>;
+
 function ContactForm() {
-  const form = useForm<z.infer<typeof formSchema>>({
+  const form = useForm<FormData>({
     resolver: zodResolver(formSchema),
     defaultValues: {
       name: "",
@@ -37,8 +38,7 @@ function ContactForm() {
     },
   });
 
-  const onSubmit = async (data, event) => {
-    event.preventDefault(); // Prevent default form submission
+  const onSubmit = async (data: FormData) => {
     try {
       const response = await fetch("http://192.168.4.134:8000/api/mail", {
         method: "POST",
