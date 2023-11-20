@@ -10,16 +10,15 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-// import { Button } from "@/components/ui/button";
-import { Textarea } from "@/components/ui/textarea"; // Make sure to import or define a Textarea component
+import { Button } from "@/components/ui/button";
+import { Textarea } from "@/components/ui/textarea";
 
 const formSchema = z.object({
   name: z.string().min(2, {
     message: "Name must be at least 2 characters.",
   }),
   email: z.string().email("Invalid email address."),
-  phone: z.string(),
-  address: z.string(),
+  phone: z.optional(z.string()),
   subject: z.string(),
   message: z.string().min(10, {
     message: "Message must be at least 10 characters.",
@@ -38,9 +37,27 @@ function ContactForm() {
     },
   });
 
-  function onSubmit(values: z.infer<typeof formSchema>) {
-    console.log(values);
-  }
+  const onSubmit = async (data, event) => {
+    event.preventDefault(); // Prevent default form submission
+    try {
+      const response = await fetch("http://192.168.4.134:8000/api/mail", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json", // Make sure to set the content type as JSON
+        },
+        body: JSON.stringify(data), // Convert the React state or form data to a JSON string
+      });
+
+      if (response.ok) {
+        console.log("Email sent successfully");
+        // You might want to clear the form or redirect the user to a thank you page
+      } else {
+        console.error("Failed to send email");
+      }
+    } catch (error) {
+      console.error("There was an error sending the email", error);
+    }
+  };
 
   return (
     <div className="col-span-12 rounded-md bg-slate-50 p-1 md:col-span-8 md:p-5">
@@ -66,11 +83,7 @@ function ContactForm() {
                     {fieldKey}
                   </FormLabel>
                   <FormControl className="">
-                    <Input
-                      placeholder={fieldKey}
-                      {...field}
-                      className="capitalize"
-                    />
+                    <Input placeholder={fieldKey} {...field} className="" />
                   </FormControl>
                   <FormMessage className="text-danger" />
                 </FormItem>
@@ -90,9 +103,9 @@ function ContactForm() {
               </FormItem>
             )}
           />
-          {/* <Button type="submit" className="col-span-2 mt-3 w-full bg-primary">
+          <Button type="submit" className="col-span-2 mt-3 w-full bg-primary">
             Submit
-          </Button> */}
+          </Button>
         </form>
       </Form>
       <div className="mt-5">

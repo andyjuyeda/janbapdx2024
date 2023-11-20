@@ -213,20 +213,20 @@
     {
       "name": "friday",
       "abbrev": "FRI",
-      "mainevent": "Singles",
+      "mainevent": "Doubles & Singles",
       "agenda": [
         {
-          "event": "Singles",
-          "divisions": ["1", "2"],
+          "event": "Doubles",
+          "divisions": ["7", "8"],
           "time": "9:00 a.m.",
-          "key": "friday-Men's Singles-9:00 a.m.-0",
+          "key": "thursday-Men's Doubles-9:00 a.m.-4",
           "gender": "Men's"
         },
         {
-          "event": "Singles",
-          "divisions": ["1", "2"],
+          "event": "Doubles",
+          "divisions": ["7", "8"],
           "time": "10:30 a.m.",
-          "key": "friday-Women's Singles-10:30 a.m.-1",
+          "key": "thursday-Women's Doubles-10:30 a.m.-4",
           "gender": "Women's"
         },
         {
@@ -238,29 +238,43 @@
         },
         {
           "event": "Singles",
-          "divisions": ["3", "4"],
+          "divisions": ["1", "2"],
           "time": "1:30 p.m.",
-          "key": "friday-Men's Singles-1:30 p.m.-3",
+          "key": "friday-Men's Singles-1:30 p.m.-0",
+          "gender": "Men's"
+        },
+        {
+          "event": "Singles",
+          "divisions": ["1", "2"],
+          "time": "3:00 p.m.",
+          "key": "friday-Women's Singles-3:00 p.m.-1",
+          "gender": "Women's"
+        },
+        {
+          "event": "Singles",
+          "divisions": ["3", "4"],
+          "time": "4:30 p.m.",
+          "key": "friday-Men's Singles-4:30 p.m.-3",
           "gender": "Men's"
         },
         {
           "event": "Singles",
           "divisions": ["3", "4"],
-          "time": "3:00 p.m.",
-          "key": "friday-Women's Singles-3:00 p.m.-4",
+          "time": "6:00 p.m.",
+          "key": "friday-Women's Singles-6:00 p.m.-4",
           "gender": "Women's"
         },
         {
           "event": "Oiling",
           "divisions": null,
-          "time": "4:30 p.m.",
+          "time": "7:30 p.m.",
           "key": "friday-Oiling-4:30 p.m.-5",
           "gender": null
         },
         {
           "event": "Singles",
           "divisions": ["5", "6"],
-          "time": "6:00 p.m.",
+          "time": "9:00 p.m.",
           "key": "friday-Men's Singles-6:00 p.m.-6",
           "gender": "Men's"
         }
@@ -272,17 +286,24 @@
       "mainevent": "Awards Banquet",
       "agenda": [
         {
-          "event": "Cocktails",
-          "divisions": null,
-          "time": "12:30 p.m.",
-          "key": "saturday-Cocktails-12:30 p.m.-0",
-          "gender": null
+          "event": "Singles",
+          "divisions": ["7", "8"],
+          "time": "9:00 a.m.",
+          "key": "saturday-Men's Singles-9:00 a.m.-7",
+          "gender": "Men's"
+        },
+        {
+          "event": "Singles",
+          "divisions": ["5", "6"],
+          "time": "10:30 a.m.",
+          "key": "Saturday-Women's Singles-10:30 a.m.-8",
+          "gender": "Women's"
         },
         {
           "event": "Awards Banquet",
           "divisions": null,
-          "time": "1:30 p.m.",
-          "key": "saturday-Awards Banquet-1:30 p.m.-1",
+          "time": "6:00 p.m.",
+          "key": "saturday-Awards Banquet-6:00 p.m.-1",
           "gender": null
         }
       ]
