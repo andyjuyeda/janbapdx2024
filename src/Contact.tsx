@@ -10,7 +10,7 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
+// import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
 
 const formSchema = z.object({
@@ -103,9 +103,9 @@ function ContactForm() {
               </FormItem>
             )}
           />
-          <Button type="submit" className="col-span-2 mt-3 w-full bg-primary">
+          {/* <Button type="submit" className="col-span-2 mt-3 w-full bg-primary">
             Submit
-          </Button>
+          </Button> */}
         </form>
       </Form>
       <div className="mt-5">
