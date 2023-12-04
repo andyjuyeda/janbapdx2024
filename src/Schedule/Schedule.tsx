@@ -392,7 +392,7 @@ export default function Schedule() {
   };
 
   return (
-    <div className="h-[700px] md:h-screen">
+    <div className="h-[800px] md:h-screen md:min-h-[900px]">
       <h1
         id="schedule"
         className="mt-10 text-center text-2xl font-bold uppercase text-slate-50 xl:text-5xl"
