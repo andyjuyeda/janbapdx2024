@@ -233,21 +233,23 @@ function ScheduleTabsContent({
   setShowEventDetails,
   setSelectedEvent,
 }: ScheduleTabsContentProps) {
-  // const renderDivisions = (divisions: string[] | null) => {
-  //   if (divisions === null || divisions.length === 0) {
-  //     return null;
-  //   }
+  const renderDivisions = (divisions: string[] | null) => {
+    if (divisions === null || divisions.length === 0) {
+      return null;
+    }
 
-  //   if (divisions.length === 1) {
-  //     return <p className="text-sm">Division {divisions[0]}</p>;
-  //   }
+    if (divisions.length === 1) {
+      return <p className="text-sm">Division {divisions[0]}</p>;
+    }
 
-  //   return (
-  //     <p className="text-sm">
-  //       Divisions {divisions[0]} and {divisions[1]}
-  //     </p>
-  //   );
-  // };
+    return (
+      <p className="text-sm">
+        Divisions {divisions[0]} and {divisions[1]}
+      </p>
+    );
+  };
+
+
   return (
     <>
       {eventSchedule.days.map((day) => (
@@ -289,9 +291,9 @@ function ScheduleTabsContent({
             {day.mainevent}
           </h3> */}
 
-          {/* {day.agenda.map((event, index) => (
+          {day.agenda.map((event, index) => (
             <React.Fragment key={event.key}>
-              <div className="my-1 grid grid-cols-3 items-center">
+              <div className="my-1 grid-cols-3 items-center hidden"> // change display mode from hidden to grid when ready // 
                 <span>{event.time}</span>
                 <div className="col-start-2 col-end-4 row-start-1 md:col-end-3 md:justify-self-center md:text-center">
                   {event.event === "Oiling" ? (
@@ -354,10 +356,10 @@ function ScheduleTabsContent({
                 )}
               </div>
               {index < day.agenda.length - 1 && (
-                <Separator className="bg-slate-300" />
+                <Separator className="bg-slate-300 hidden" />
               )}
             </React.Fragment>
-          ))} */}
+          ))}
 
           <div className="grid h-full place-items-center">
             <div className="flex flex-col text-center">
