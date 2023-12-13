@@ -3,7 +3,7 @@
     {
       "name": "sunday",
       "abbrev": "SUN",
-      "mainevent": "Ragtime Doubles",
+      "mainevent": ["Ragtime Doubles"],
       "agenda": [
         {
           "event": "Ragtime Doubles",
@@ -24,7 +24,7 @@
     {
       "name": "monday",
       "abbrev": "MON",
-      "mainevent": "Classic",
+      "mainevent": ["Men's Classic", "Women's Classic"],
       "agenda": [
         {
           "event": "Classic",
@@ -66,7 +66,7 @@
     {
       "name": "tuesday",
       "abbrev": "TUE",
-      "mainevent": "Mixed Doubles",
+      "mainevent": ["Mixed Doubles", "Monte Carlo", "Mixer"],
       "agenda": [
         {
           "event": "Mixed Doubles",
@@ -108,7 +108,7 @@
     {
       "name": "wednesday",
       "abbrev": "WED",
-      "mainevent": "Team",
+      "mainevent": ["Men's Team", "Women's Team"],
       "agenda": [
         {
           "event": "Team",
@@ -150,7 +150,7 @@
     {
       "name": "thursday",
       "abbrev": "THU",
-      "mainevent": "Doubles",
+      "mainevent": ["Men's Doubles", "Women's Doubles", "150 and Over No-Tap Trio"],
       "agenda": [
         {
           "event": "Doubles",
@@ -213,7 +213,7 @@
     {
       "name": "friday",
       "abbrev": "FRI",
-      "mainevent": "Doubles & Singles",
+      "mainevent": ["Men's Doubles", "Women's Doubles", "Men's Singles", "Women's Singles"],
       "agenda": [
         {
           "event": "Doubles",
@@ -269,7 +269,7 @@
     {
       "name": "saturday",
       "abbrev": "SAT",
-      "mainevent": "Awards Banquet",
+      "mainevent": ["Men's Singles", "Women's Singles", "Awards Banquet"],
       "agenda": [
         {
           "event": "Singles",

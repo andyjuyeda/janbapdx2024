@@ -285,11 +285,11 @@ function ScheduleTabsContent({
               </DropdownMenuContent>
             </DropdownMenu> */}
           </div>
-          <h3 className="mb-8 mt-[-5px] font-semibold md:mt-[-10px] md:text-center md:text-lg">
+          {/* <h3 className="mb-8 mt-[-5px] font-semibold md:mt-[-10px] md:text-center md:text-lg">
             {day.mainevent}
-          </h3>
+          </h3> */}
 
-          {day.agenda.map((event, index) => (
+          {/* {day.agenda.map((event, index) => (
             <React.Fragment key={event.key}>
               <div className="my-1 grid grid-cols-3 items-center">
                 <span>{event.time}</span>
@@ -357,7 +357,16 @@ function ScheduleTabsContent({
                 <Separator className="bg-slate-300" />
               )}
             </React.Fragment>
-          ))}
+          ))} */}
+
+          <div className="grid h-full place-items-center">
+            <div className="flex flex-col text-center">
+              {day.mainevent.map((event) => ( 
+                <h3 className="text-xl md:text-2xl font-semibold">{event}</h3>
+              ))}
+            </div>
+          </div>
+          <div className="text-center font-semibold"><span>Event times have not yet been determined.</span></div>
         </TabsContent>
       ))}
     </>
@@ -397,11 +406,8 @@ export default function Schedule() {
         id="schedule"
         className="mt-10 text-center text-2xl font-bold uppercase text-slate-50 xl:text-5xl"
       >
-        Schedule*
+        Schedule
       </h1>
-      <h3 className="mb-10 mt-3 text-center text-sm text-slate-50">
-        *below schedule is an unofficial general outline and will change
-      </h3>
       <div
         className={`mt-5 h-3/4 rounded-xl bg-slate-50 text-sm lg:px-20 ${
           showEventDetails ? "overflow-y-auto" : "overflow-hidden"
