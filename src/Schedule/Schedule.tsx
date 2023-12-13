@@ -233,21 +233,21 @@ function ScheduleTabsContent({
   setShowEventDetails,
   setSelectedEvent,
 }: ScheduleTabsContentProps) {
-  const renderDivisions = (divisions: string[] | null) => {
-    if (divisions === null || divisions.length === 0) {
-      return null;
-    }
+  // const renderDivisions = (divisions: string[] | null) => {
+  //   if (divisions === null || divisions.length === 0) {
+  //     return null;
+  //   }
 
-    if (divisions.length === 1) {
-      return <p className="text-sm">Division {divisions[0]}</p>;
-    }
+  //   if (divisions.length === 1) {
+  //     return <p className="text-sm">Division {divisions[0]}</p>;
+  //   }
 
-    return (
-      <p className="text-sm">
-        Divisions {divisions[0]} and {divisions[1]}
-      </p>
-    );
-  };
+  //   return (
+  //     <p className="text-sm">
+  //       Divisions {divisions[0]} and {divisions[1]}
+  //     </p>
+  //   );
+  // };
   return (
     <>
       {eventSchedule.days.map((day) => (
