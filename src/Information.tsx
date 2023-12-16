@@ -15,6 +15,8 @@ import {
 } from "@/components/ui/accordion";
 
 import parkLanesImg from "@/assets/img/parklanes.jpeg";
+import jerseyPink from "@/assets/img/janba_2024pinksleeve_front_opt.webp";
+import jerseyGray from "@/assets/img/janba_2024graysleeve_front_opt.webp";
 import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 
 import { Button } from "./components/ui/button";
@@ -110,7 +112,7 @@ function MapsCard() {
 
 function FAQ() {
   return (
-    <div className="bg-transparent col-start-5 col-end-12 row-span-4 row-start-1 rounded-lg p-2 md:px-5">
+    <div className="bg-transparent col-start-5 col-end-9 row-span-4 row-start-1 rounded-lg p-2 md:px-5">
       <h1 className="m-5 text-center text-lg font-bold text-primary">
         Frequently Asked Questions
       </h1>
@@ -174,7 +176,7 @@ function FAQ() {
 
 function HotelInfo() {
   return (
-    <div className="col-start-5 col-end-12 row-span-2 row-start-5 grid grid-cols-1 grid-rows-[1fr_2fr_1fr] items-center rounded-lg bg-primary">
+    <div className="col-start-5 col-end-9 row-span-2 row-start-5 grid grid-cols-1 grid-rows-[1fr_2fr_1fr] items-center rounded-lg bg-primary">
       <h1 className="row-start-1 m-3 text-center text-lg font-bold text-dark-blue">
         Hotel Information
       </h1>
@@ -212,6 +214,30 @@ function HotelInfo() {
   );
 }
 
+function JerseyInfo() {
+  return (
+    <div className="col-start-10 md:row-span-6 lg:col-span-4 items-center rounded-lg">
+      <Card className="border-none shadow-none h-full">
+        <CardHeader className="">
+          <CardTitle className="">
+            Janba 2024 Jersey
+          </CardTitle>
+        </CardHeader>
+        <CardContent className="flex">
+          <div><img src={jerseyPink}></img></div>
+          <div><img src={jerseyGray}></img></div>
+        </CardContent>
+        <CardFooter className="flex flex-col">
+          <div className="mb-8">
+            <p>H5G is the official jersey provider for JANBA. The links below will take you to the H5G website where you can purchase your own JANBA 2024 jersey!</p>
+          </div>
+          <div className="flex gap-5"><a href="https://h5gbrands.com/janba-2024-pink.html" target="_blank" rel="noopener roreferrer"><Button className="font-bold w-28">Pink</Button></a><a href="https://h5gbrands.com/janba-2024-grey.html" target="_blank" rel="noopener noreferrer"><Button className="font-bold bg-slate-600 text-slate-50 hover:bg-slate-700 w-28">Grey</Button></a></div>
+        </CardFooter>
+      </Card>
+    </div>
+  )
+}
+
 export default function Information() {
   return (
     <div className="min-h-screen">
@@ -225,6 +251,7 @@ export default function Information() {
         <MapsCard />
         <FAQ />
         <HotelInfo />
+        <JerseyInfo />
       </div>
     </div>
   );

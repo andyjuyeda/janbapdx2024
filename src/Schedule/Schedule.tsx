@@ -249,7 +249,6 @@ function ScheduleTabsContent({
     );
   };
 
-
   return (
     <>
       {eventSchedule.days.map((day) => (
@@ -293,7 +292,9 @@ function ScheduleTabsContent({
 
           {day.agenda.map((event, index) => (
             <React.Fragment key={event.key}>
-              <div className="my-1 grid-cols-3 items-center hidden"> // change display mode from hidden to grid when ready // 
+              <div className="my-1 hidden grid-cols-3 items-center">
+                {" "}
+                // change display mode from hidden to grid when ready //
                 <span>{event.time}</span>
                 <div className="col-start-2 col-end-4 row-start-1 md:col-end-3 md:justify-self-center md:text-center">
                   {event.event === "Oiling" ? (
@@ -356,19 +357,21 @@ function ScheduleTabsContent({
                 )}
               </div>
               {index < day.agenda.length - 1 && (
-                <Separator className="bg-slate-300 hidden" />
+                <Separator className="hidden bg-slate-300" />
               )}
             </React.Fragment>
           ))}
 
           <div className="grid h-full place-items-center">
             <div className="flex flex-col text-center">
-              {day.mainevent.map((event) => ( 
-                <h3 className="text-xl md:text-2xl font-semibold">{event}</h3>
+              {day.mainevent.map((event) => (
+                <h3 className="text-xl font-semibold md:text-2xl">{event}</h3>
               ))}
             </div>
           </div>
-          <div className="text-center font-semibold"><span>Event times have not yet been determined.</span></div>
+          <div className="text-center font-semibold">
+            <span>Event times have not yet been determined.</span>
+          </div>
         </TabsContent>
       ))}
     </>
