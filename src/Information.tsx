@@ -38,7 +38,9 @@ function MapsCard() {
   return (
     <Card className="col-start-1 col-end-4 flex flex-col md:row-span-6 lg:col-span-4">
       <CardHeader className="">
-        <CardTitle className="text-xl md:text-2xl">Park Lanes Family Entertainment Center</CardTitle>
+        <CardTitle className="text-xl md:text-2xl">
+          Park Lanes Family Entertainment Center
+        </CardTitle>
         <CardDescription>Hillsboro, OR</CardDescription>
       </CardHeader>
       <CardContent
@@ -216,26 +218,49 @@ function HotelInfo() {
 
 function JerseyInfo() {
   return (
-    <div className="col-start-10 md:row-span-6 lg:col-span-4 items-center rounded-lg">
-      <Card className="border-none shadow-none h-full">
+    <div className="col-start-10 items-center rounded-lg md:row-span-6 lg:col-span-4">
+      <Card className="h-full border-none shadow-none">
         <CardHeader className="">
-          <CardTitle className="">
-            Janba 2024 Jersey
-          </CardTitle>
+          <CardTitle className="">Janba 2024 Jersey</CardTitle>
         </CardHeader>
         <CardContent className="flex">
-          <div><img src={jerseyPink}></img></div>
-          <div><img src={jerseyGray}></img></div>
+          <div>
+            <img src={jerseyPink}></img>
+          </div>
+          <div>
+            <img src={jerseyGray}></img>
+          </div>
         </CardContent>
         <CardFooter className="flex flex-col">
           <div className="mb-8">
-            <p>H5G is the official jersey provider for JANBA. The links below will take you to the H5G website where you can purchase your own JANBA 2024 jersey!</p>
+            <p>
+              H5G is the official jersey provider for JANBA. The links below
+              will take you to the H5G website where you can purchase your own
+              JANBA 2024 jersey!
+            </p>
           </div>
-          <div className="flex gap-5"><a href="https://h5gbrands.com/janba-2024-pink.html" target="_blank" rel="noopener roreferrer"><Button className="font-bold w-28">Pink</Button></a><a href="https://h5gbrands.com/janba-2024-grey.html" target="_blank" rel="noopener noreferrer"><Button className="font-bold bg-slate-600 text-slate-50 hover:bg-slate-700 w-28">Grey</Button></a></div>
+          <div className="flex gap-5">
+            <a
+              href="https://h5gbrands.com/janba-2024-pink.html"
+              target="_blank"
+              rel="noopener roreferrer"
+            >
+              <Button className="w-28 font-bold">Pink</Button>
+            </a>
+            <a
+              href="https://h5gbrands.com/janba-2024-grey.html"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button className="w-28 bg-slate-600 font-bold text-slate-50 hover:bg-slate-700">
+                Grey
+              </Button>
+            </a>
+          </div>
         </CardFooter>
       </Card>
     </div>
-  )
+  );
 }
 
 export default function Information() {
