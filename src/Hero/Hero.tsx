@@ -1,16 +1,44 @@
 import styles from "./hero.module.css";
 import Rellax from "rellax";
 import { useEffect } from "react";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import treeDarkImg from "@/assets/img/tree-dark.png";
 import treeBlueImg from "@/assets/img/tree-blue.png";
 import fieldImg from "@/assets/img/field.png";
 import mountainBaseImg from "@/assets/img/mountain-base.png";
-import mountainPeakImg from "@/assets/img/mountain-peak.png"
-import skyImg from "@/assets/img/sky.png"
+import mountainPeakImg from "@/assets/img/mountain-peak.png";
+import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
 import { buttonVariants } from "@/components/ui/button";
-import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf"
-import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf"
+import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
+import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
+
+function DeadlineAlert() {
+  return (
+    <Alert className="max-w-[200px] md:max-w-[410px] border-md">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        strokeWidth={1.5}
+        stroke="currentColor"
+        className="h-4 w-4"
+      >
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"
+        />
+      </svg>
+
+      <AlertTitle>Deadline Moved!</AlertTitle>
+      <AlertDescription>
+        The deadline to submit entry forms has been pushed back to Monday,
+        January 22.
+      </AlertDescription>
+    </Alert>
+  );
+}
 
 export default function Hero() {
   useEffect(() => {
@@ -40,13 +68,34 @@ export default function Hero() {
   });
   return (
     <div className={styles.hero}>
-      <div className="absolute w-screen h-screen grid grid-rows-[1.75fr_2fr] md:grid-rows-[4fr_2fr] z-10">
-        <div className="row-start-2 justify-self-center flex flex-col items-center gap-3">
-          <h3 className="text-3xl md:text-5xl uppercase font-bold text-dark-blue">March 3 - 9</h3>
-          <div className="flex gap-3 flex-col md:flex-row">
-            <a href={mensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} min-w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue font-semibold`}>Men's Entry Form</a>
-            <a href={womensEntryForm} target="_blank" rel="noopener noreferrer" className={`${buttonVariants({ variant: "default" })} min-w-[200px] shadow-md hover:shadow-none border-2 border-dark-blue font-semibold`}>Women's Entry Form</a>
+      <div className="absolute z-10 grid h-screen w-screen grid-rows-[1.75fr_2fr] md:grid-rows-[4fr_2fr]">
+        <div className="row-start-2 flex flex-col items-center gap-3 justify-self-center">
+          <h3 className="text-3xl font-bold uppercase text-dark-blue md:text-5xl">
+            March 3 - 9
+          </h3>
+          <div className="flex flex-col gap-3 md:flex-row">
+            <a
+              href={mensEntryForm}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`${buttonVariants({
+                variant: "default",
+              })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
+            >
+              Men's Entry Form
+            </a>
+            <a
+              href={womensEntryForm}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`${buttonVariants({
+                variant: "default",
+              })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
+            >
+              Women's Entry Form
+            </a>
           </div>
+          <DeadlineAlert />
         </div>
       </div>
       <a href="#information" id="bouncingArrow">
