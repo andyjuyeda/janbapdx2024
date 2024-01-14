@@ -187,7 +187,7 @@ function HotelInfo() {
         JANBA bowlers! Click the link below to view available rates.
       </p>
       <a
-        href="https://www.staybridge.com/redirect?path=asearch&brandCode=SB&localeCode=en&regionCode=1&hotelCode=PDXHS&checkInDate=03&checkInMonthYear=022024&checkOutDate=09&checkOutMonthYear=022024&rateCode=6CBARC&_PMID=99801505&GPC=JBT&cn=no&viewfullsite=true"
+        href="https://www.staybridge.com/redirect?path=asearch&brandCode=SB&localeCode=en&regionCode=1&hotelCode=PDXHS&checkInDate=03&checkInMonthYear=022024&checkOutDate=09&checkOutMonthYear=022024&rateCode=6CBARC&_PMID=99801505&GPC=JGB&cn=no&viewfullsite=true"
         target="_blank"
         rel="noopener noreferrer"
         className="row-start-3 mx-auto mb-4"
