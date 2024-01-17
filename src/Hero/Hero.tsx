@@ -15,7 +15,7 @@ import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 
 function DeadlineAlert() {
   return (
-    <Alert className="max-w-[200px] md:max-w-[410px] border-md">
+    <Alert className="border-md max-w-[200px] md:max-w-[410px]">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"

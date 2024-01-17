@@ -21,6 +21,10 @@ import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 
 import { Button } from "./components/ui/button";
 
+import stormLogo from "@/assets/img/storm-logo.png";
+import rotoGripLogo from "@/assets/img/roto-grip-logo.png";
+import globalLogo from "@/assets/img/900_Global_ball_listing_icon.png";
+
 function detectDevice() {
   const userAgent = navigator.userAgent || navigator.vendor;
 
@@ -36,7 +40,7 @@ function detectDevice() {
 function MapsCard() {
   const device = detectDevice();
   return (
-    <Card className="col-start-1 col-end-4 flex flex-col md:row-span-6 lg:col-span-4">
+    <Card className="col-start-1 col-end-4 flex flex-col md:row-span-4 lg:col-span-4">
       <CardHeader className="">
         <CardTitle className="text-xl md:text-2xl">
           Park Lanes Family Entertainment Center
@@ -114,7 +118,7 @@ function MapsCard() {
 
 function FAQ() {
   return (
-    <div className="bg-transparent col-start-5 col-end-9 row-span-4 row-start-1 rounded-lg p-2 md:px-5">
+    <div className="bg-transparent col-start-5 col-end-9 row-span-4 row-start-3 rounded-lg p-2 md:px-5">
       <h1 className="m-5 text-center text-lg font-bold text-primary">
         Frequently Asked Questions
       </h1>
@@ -133,16 +137,6 @@ function FAQ() {
               If none, then JANBA tournament average from 2017-2023 (min. 15
               games). Hardship cases may be submitted to the JANBA tournament
               manager and the JANBA Board average committee.
-            </p>
-            <br />
-            <p>
-              If none of the above, the highest known current league average, 21
-              games or more as of December 31, 2023.
-            </p>
-            <br />
-            <p>
-              If none of the above applies, men will enter at 190 and women will
-              enter at 175.
             </p>
             <br />
             <p>
@@ -178,47 +172,101 @@ function FAQ() {
 
 function HotelInfo() {
   return (
-    <div className="col-start-5 col-end-9 row-span-2 row-start-5 grid grid-cols-1 grid-rows-[1fr_2fr_1fr] items-center rounded-lg bg-primary">
+    <div className="col-start-5 col-end-9 row-span-2 row-start-1 grid grid-cols-1 grid-rows-[1fr_1fr_3fr] items-center rounded-lg bg-primary">
       <h1 className="row-start-1 m-3 text-center text-lg font-bold text-dark-blue">
         Hotel Information
       </h1>
       <p className="row-start-2 px-5">
-        Staybridge Suites in Orenco Station has special rates available for
-        JANBA bowlers! Click the link below to view available rates.
+        The following Hillsboro hotels have provided discounted rates for JANBA
+        bowlers.
       </p>
-      <a
-        href="https://www.staybridge.com/redirect?path=asearch&brandCode=SB&localeCode=en&regionCode=1&hotelCode=PDXHS&checkInDate=03&checkInMonthYear=022024&checkOutDate=09&checkOutMonthYear=022024&rateCode=6CBARC&_PMID=99801505&GPC=JGB&cn=no&viewfullsite=true"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="row-start-3 mx-auto mb-4"
-      >
-        <Button variant="secondary" className="flex items-center gap-3">
-          <span>Staybridge Suites</span>
-          <span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              strokeWidth={1.5}
-              stroke="currentColor"
-              className="h-6 w-6"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
-              />
-            </svg>
-          </span>
-        </Button>
-      </a>
+      <div className="row-start-3 mx-auto mb-4 flex flex-col gap-3">
+        <a
+          href="https://www.staybridge.com/redirect?path=asearch&brandCode=SB&localeCode=en&regionCode=1&hotelCode=PDXHS&checkInDate=03&checkInMonthYear=022024&checkOutDate=09&checkOutMonthYear=022024&rateCode=6CBARC&_PMID=99801505&GPC=JGB&cn=no&viewfullsite=true"
+          target="_blank"
+          rel="noopener noreferrer"
+          className=""
+        >
+          <Button variant="secondary" className="flex items-center gap-3 w-[200px]">
+            <span>Staybridge Suites</span>
+            <span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                className="h-6 w-6"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+                />
+              </svg>
+            </span>
+          </Button>
+        </a>
+        <a
+          href="https://www.marriott.com/events/start.mi?id=1705090769176&key=GRP"
+          target="_blank"
+          rel="noopener noreferrer"
+          className=""
+        >
+          <Button variant="secondary" className="flex items-center gap-3 w-[200px]">
+            <span>Courtyard</span>
+            <span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                className="h-6 w-6"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+                />
+              </svg>
+            </span>
+          </Button>
+        </a>
+        <a
+          href="https://www.holidayinn.com/redirect?path=hd&brandCode=HI&localeCode=en&regionCode=1&hotelCode=HIOHO&_PMID=99801505&GPC=JAN&cn=no&viewfullsite=true"
+          target="_blank"
+          rel="noopener noreferrer"
+          className=""
+        >
+          <Button variant="secondary" className="flex items-center gap-3 w-[200px]">
+            <span>Holiday Inn</span>
+            <span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                className="h-6 w-6"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+                />
+              </svg>
+            </span>
+          </Button>
+        </a>
+      </div>
     </div>
   );
 }
 
 function JerseyInfo() {
   return (
-    <div className="col-start-10 items-center rounded-lg md:row-span-6 lg:col-span-4">
+    <div className="col-start-10 items-center rounded-lg md:row-span-3 lg:col-span-4">
       <Card className="h-full border-none shadow-none">
         <CardHeader className="">
           <CardTitle className="">Janba 2024 Jersey</CardTitle>
@@ -263,6 +311,43 @@ function JerseyInfo() {
   );
 }
 
+function SponsorInfo() {
+  return (
+    <div className="col-start-10 row-start-3 items-center rounded-lg md:row-span-3 lg:col-span-4">
+      <Card>
+        <CardHeader>
+          <CardTitle>Tournament Sponsors</CardTitle>
+        </CardHeader>
+        <CardContent className="">
+          <div className="mx-auto flex items-center gap-3 lg:flex-row">
+            <div className="flex-1">
+              <img
+                src={stormLogo}
+                alt="Storm Logo"
+                className="h-auto max-w-full"
+              />
+            </div>
+            <div className="flex-1">
+              <img
+                src={rotoGripLogo}
+                alt="Roto Grip Logo"
+                className="h-auto max-w-full"
+              />
+            </div>
+            <div className="flex-1">
+              <img
+                src={globalLogo}
+                alt="Global Logo"
+                className="h-auto max-w-full"
+              />
+            </div>
+          </div>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}
+
 export default function Information() {
   return (
     <div className="min-h-screen">
@@ -272,11 +357,12 @@ export default function Information() {
       >
         Event Information
       </h1>
-      <div className="flex h-full grid-cols-12 grid-rows-6 flex-col gap-5 md:grid md:h-3/4">
+      <div className="md:min-h-3/4 flex h-full grid-cols-12 grid-rows-6 flex-col gap-5 md:grid">
         <MapsCard />
         <FAQ />
         <HotelInfo />
         <JerseyInfo />
+        <SponsorInfo />
       </div>
     </div>
   );
