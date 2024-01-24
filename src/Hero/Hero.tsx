@@ -1,7 +1,7 @@
 import styles from "./hero.module.css";
 import Rellax from "rellax";
 import { useEffect } from "react";
-import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+// import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import treeDarkImg from "@/assets/img/tree-dark.png";
 import treeBlueImg from "@/assets/img/tree-blue.png";
 import fieldImg from "@/assets/img/field.png";
@@ -9,36 +9,36 @@ import mountainBaseImg from "@/assets/img/mountain-base.png";
 import mountainPeakImg from "@/assets/img/mountain-peak.png";
 import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
-import { buttonVariants } from "@/components/ui/button";
-import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
-import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
+// import { buttonVariants } from "@/components/ui/button";
+// import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
+// import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 
-function DeadlineAlert() {
-  return (
-    <Alert className="border-md max-w-[200px] md:max-w-[410px]">
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        fill="none"
-        viewBox="0 0 24 24"
-        strokeWidth={1.5}
-        stroke="currentColor"
-        className="h-4 w-4"
-      >
-        <path
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"
-        />
-      </svg>
+// function DeadlineAlert() {
+//   return (
+//     <Alert className="border-md max-w-[200px] md:max-w-[410px]">
+//       <svg
+//         xmlns="http://www.w3.org/2000/svg"
+//         fill="none"
+//         viewBox="0 0 24 24"
+//         strokeWidth={1.5}
+//         stroke="currentColor"
+//         className="h-4 w-4"
+//       >
+//         <path
+//           strokeLinecap="round"
+//           strokeLinejoin="round"
+//           d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"
+//         />
+//       </svg>
 
-      <AlertTitle>Deadline Moved!</AlertTitle>
-      <AlertDescription>
-        The deadline to submit entry forms has been pushed back to Monday,
-        January 22.
-      </AlertDescription>
-    </Alert>
-  );
-}
+//       <AlertTitle>Deadline Moved!</AlertTitle>
+//       <AlertDescription>
+//         The deadline to submit entry forms has been pushed back to Monday,
+//         January 22.
+//       </AlertDescription>
+//     </Alert>
+//   );
+// }
 
 export default function Hero() {
   useEffect(() => {
@@ -73,7 +73,7 @@ export default function Hero() {
           <h3 className="text-3xl font-bold uppercase text-dark-blue md:text-5xl">
             March 3 - 9
           </h3>
-          <div className="flex flex-col gap-3 md:flex-row">
+          {/* <div className="flex flex-col gap-3 md:flex-row">
             <a
               href={mensEntryForm}
               target="_blank"
@@ -95,7 +95,7 @@ export default function Hero() {
               Women's Entry Form
             </a>
           </div>
-          <DeadlineAlert />
+          <DeadlineAlert /> */}
         </div>
       </div>
       <a href="#information" id="bouncingArrow">
