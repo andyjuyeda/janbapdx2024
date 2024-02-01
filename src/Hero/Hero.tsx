@@ -1,7 +1,7 @@
 import styles from "./hero.module.css";
 import Rellax from "rellax";
 import { useEffect } from "react";
-// import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import treeDarkImg from "@/assets/img/tree-dark.png";
 import treeBlueImg from "@/assets/img/tree-blue.png";
 import fieldImg from "@/assets/img/field.png";
@@ -9,36 +9,38 @@ import mountainBaseImg from "@/assets/img/mountain-base.png";
 import mountainPeakImg from "@/assets/img/mountain-peak.png";
 import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
-// import { buttonVariants } from "@/components/ui/button";
-// import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
-// import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
+import { buttonVariants } from "@/components/ui/button";
+import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer.pdf";
+import proAmForm from "@/assets/doc/CV LH Pro Am Flyer.pdf";
+import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024.pdf";
 
-// function DeadlineAlert() {
-//   return (
-//     <Alert className="border-md max-w-[200px] md:max-w-[410px]">
-//       <svg
-//         xmlns="http://www.w3.org/2000/svg"
-//         fill="none"
-//         viewBox="0 0 24 24"
-//         strokeWidth={1.5}
-//         stroke="currentColor"
-//         className="h-4 w-4"
-//       >
-//         <path
-//           strokeLinecap="round"
-//           strokeLinejoin="round"
-//           d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"
-//         />
-//       </svg>
+function HeroAlert() {
+  return (
+    <Alert className="border-md max-w-[90%] bg-slate-50 text-dark-blue md:max-w-[800px]">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        strokeWidth={1.5}
+        stroke="currentColor"
+        className="h-5 w-5"
+      >
+        <path
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z"
+        />
+      </svg>
 
-//       <AlertTitle>Deadline Moved!</AlertTitle>
-//       <AlertDescription>
-//         The deadline to submit entry forms has been pushed back to Monday,
-//         January 22.
-//       </AlertDescription>
-//     </Alert>
-//   );
-// }
+      <AlertTitle className="hidden md:block">Specials and Events!</AlertTitle>
+      <AlertDescription>
+        During the tournament there will be fun extra events including Monte
+        Carlo and a Pro-Am with Chris Via and Leanne Hulsenburg, along with some
+        extra discounts in the pro shop!
+      </AlertDescription>
+    </Alert>
+  );
+}
 
 export default function Hero() {
   useEffect(() => {
@@ -68,37 +70,47 @@ export default function Hero() {
   });
   return (
     <div className={styles.hero}>
-      <div className="absolute z-10 grid h-screen w-screen grid-rows-[1.75fr_2fr] md:grid-rows-[4fr_2fr]">
-        <div className="row-start-2 flex flex-col items-center gap-3 justify-self-center">
+      <div className="absolute z-10 grid min-h-screen w-screen grid-rows-[1.2fr_2fr] md:grid-rows-[3.5fr_2fr]">
+        <div className="row-start-2 flex flex-col items-center gap-3 justify-self-center md:gap-6">
           <h3 className="text-3xl font-bold uppercase text-dark-blue md:text-5xl">
             March 3 - 9
           </h3>
-          {/* <div className="flex flex-col gap-3 md:flex-row">
+          <HeroAlert />
+          <div className="flex flex-col gap-3 md:flex-row md:gap-3">
             <a
-              href={mensEntryForm}
+              href={monteCarloForm}
               target="_blank"
               rel="noopener noreferrer"
               className={`${buttonVariants({
                 variant: "default",
               })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
             >
-              Men's Entry Form
+              Monte Carlo
             </a>
             <a
-              href={womensEntryForm}
+              href={proAmForm}
               target="_blank"
               rel="noopener noreferrer"
               className={`${buttonVariants({
                 variant: "default",
               })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
             >
-              Women's Entry Form
+              Pro-Am
+            </a>
+            <a
+              href={proShopForm}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`${buttonVariants({
+                variant: "default",
+              })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
+            >
+              Pro Shop Specials
             </a>
           </div>
-          <DeadlineAlert /> */}
         </div>
       </div>
-      <a href="#information" id="bouncingArrow">
+      {/* <a href="#information" id="bouncingArrow">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24"
@@ -111,7 +123,7 @@ export default function Hero() {
             clipRule="evenodd"
           />
         </svg>
-      </a>
+      </a> */}
       <div className={styles.heroImages}>
         <img
           src={skyImg}

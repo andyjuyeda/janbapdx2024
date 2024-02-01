@@ -22,8 +22,14 @@
 }
 
 .logo {
-    object-position: 50% 25%;
+    object-position: 50% 15%;
     object-fit: contain;
     max-width: 1000px;
     place-self: center;
+}
+
+@media (min-width: 768px) {
+    .logo {
+        object-position: 50% 25%;
+    }
 }

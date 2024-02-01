@@ -293,8 +293,8 @@ function ScheduleTabsContent({
           {day.agenda.map((event, index) => (
             <React.Fragment key={event.key}>
               <div className="my-1 hidden grid-cols-3 items-center">
-                {" "}
-                // change display mode from hidden to grid when ready //
+                {/* CHANGE HIDDEN TO GRID WHEN READY */}
+
                 <span>{event.time}</span>
                 <div className="col-start-2 col-end-4 row-start-1 md:col-end-3 md:justify-self-center md:text-center">
                   {event.event === "Oiling" ? (

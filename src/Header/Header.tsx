@@ -8,10 +8,13 @@ import {
 } from "@/components/ui/dropdown-menu";
 import styles from "./header.module.css";
 
-import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
-import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
+
 import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
+import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer.pdf";
+import proAmForm from "@/assets/doc/CV LH Pro Am Flyer.pdf";
+import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024.pdf";
+
 
 type NavLinkProps = {
   link: string;
@@ -33,40 +36,25 @@ function FormsMenu() {
   return (
     <DropdownMenuContent>
       <DropdownMenuItem>
-        <a href={mensEntryForm} target="_blank" rel="noopener noreferrer">
-          Men's Entry
-        </a>
-      </DropdownMenuItem>
-      <DropdownMenuItem>
-        <a href={womensEntryForm} target="_blank" rel="noopener noreferrer">
-          Women's Entry
-        </a>
-      </DropdownMenuItem>
-      {/* <DropdownMenuItem>
-        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
-          Senior Event Info
-        </a>
-      </DropdownMenuItem> */}
-      <DropdownMenuItem>
         <a href={rulesForm} target="_blank" rel="noopener noreferrer">
           Tournament Rules
         </a>
       </DropdownMenuItem>
-      {/* <DropdownMenuItem>
-        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
-          Average Verification
+      <DropdownMenuItem>
+        <a href={monteCarloForm} target="_blank" rel="noopener noreferrer" aria-disabled>
+          Monte Carlo
         </a>
-      </DropdownMenuItem> */}
-      {/* <DropdownMenuItem>
-        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
-          Substitute/Replacement
+      </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={proAmForm} target="_blank" rel="noopener noreferrer" aria-disabled>
+          Pro-Am
         </a>
-      </DropdownMenuItem> */}
-      {/* <DropdownMenuItem>
-        <a href="" target="_blank" rel="noopener noreferrer" aria-disabled>
-          Dress Code
+      </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={proShopForm} target="_blank" rel="noopener noreferrer" aria-disabled>
+          Pro Shop Specials
         </a>
-      </DropdownMenuItem> */}
+      </DropdownMenuItem>
       <DropdownMenuItem>
         <a href={advertisingForm} target="_blank" rel="noopener noreferrer">
           Advertising
@@ -112,7 +100,7 @@ export default function Header() {
           <NavLink link="contact" onClick={closeMenu} />
           <DropdownMenu>
             <DropdownMenuTrigger className="text-lg font-bold uppercase text-slate-50">
-              Forms
+              Resources
             </DropdownMenuTrigger>
             <FormsMenu />
           </DropdownMenu>
@@ -146,7 +134,7 @@ export default function Header() {
         <div className="col-start-3 mx-3 hidden justify-self-end md:block">
           <DropdownMenu>
             <DropdownMenuTrigger className="font-semibold uppercase text-slate-50">
-              Forms
+              Resources
             </DropdownMenuTrigger>
             <FormsMenu />
           </DropdownMenu>

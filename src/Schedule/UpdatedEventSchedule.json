@@ -269,7 +269,7 @@
     {
       "name": "saturday",
       "abbrev": "SAT",
-      "mainevent": ["Men's Singles", "Women's Singles", "Awards Banquet"],
+      "mainevent": ["Men's Singles", "Awards Banquet"],
       "agenda": [
         {
           "event": "Singles",
