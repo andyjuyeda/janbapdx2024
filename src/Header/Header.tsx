@@ -14,6 +14,8 @@ import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
 import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer.pdf";
 import proAmForm from "@/assets/doc/CV LH Pro Am Flyer.pdf";
 import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024.pdf";
+import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf"
+import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf"
 
 
 type NavLinkProps = {
@@ -60,6 +62,16 @@ function FormsMenu() {
           Advertising
         </a>
       </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={mensEntryForm} target="_blank" rel="noopener noreferrer">
+          Men's Entry Form
+        </a>
+      </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={womensEntryForm} target="_blank" rel="noopener noreferrer">
+          Women's Entry Form
+        </a>
+      </DropdownMenuItem>
     </DropdownMenuContent>
   );
 }
@@ -100,7 +112,7 @@ export default function Header() {
           <NavLink link="contact" onClick={closeMenu} />
           <DropdownMenu>
             <DropdownMenuTrigger className="text-lg font-bold uppercase text-slate-50">
-              Resources
+              Resources & Forms
             </DropdownMenuTrigger>
             <FormsMenu />
           </DropdownMenu>
@@ -134,7 +146,7 @@ export default function Header() {
         <div className="col-start-3 mx-3 hidden justify-self-end md:block">
           <DropdownMenu>
             <DropdownMenuTrigger className="font-semibold uppercase text-slate-50">
-              Resources
+              Resources & Forms
             </DropdownMenuTrigger>
             <FormsMenu />
           </DropdownMenu>

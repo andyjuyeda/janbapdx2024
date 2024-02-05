@@ -24,7 +24,7 @@
     {
       "name": "monday",
       "abbrev": "MON",
-      "mainevent": ["Men's Classic", "Women's Classic"],
+      "mainevent": ["Men's Classic", "Women's Classic", "Pro-Am"],
       "agenda": [
         {
           "event": "Classic",
@@ -213,7 +213,7 @@
     {
       "name": "friday",
       "abbrev": "FRI",
-      "mainevent": ["Men's Doubles", "Women's Doubles", "Men's Singles", "Women's Singles"],
+      "mainevent": ["Men's Singles", "Women's Singles"],
       "agenda": [
         {
           "event": "Doubles",
