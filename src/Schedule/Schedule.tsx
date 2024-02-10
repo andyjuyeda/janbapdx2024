@@ -58,7 +58,7 @@ function EventDetails({
           <div className="flex justify-between">
             <BackButton setShowEventDetails={setShowEventDetails} />
             <DropdownMenu>
-              <DropdownMenuTrigger asChild>
+              <DropdownMenuTrigger asChild className="hidden">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -128,35 +128,19 @@ function EventDetails({
   useEffect(() => {
     async function fetchData() {
       setIsLoading(true);
-      try {
-        const queryParams = new URLSearchParams();
-        queryParams.append("event", event);
 
-        // Extract only the numbers and append them to 'queryParams'
-        divisions.split(" and ").forEach((division) => {
-          const divisionNumber = division.match(/\d+/); // Extract just the number part
-          if (divisionNumber) {
-            queryParams.append("div", divisionNumber[0]);
-          }
-        });
-
-        if (gender) {
-          if (gender === "Men's") {
-            queryParams.append("gender", "M");
-          } else if (gender === "Women's") {
-            queryParams.append("gender", "W");
-          }
+      // Simulate API call delay
+      setTimeout(() => {
+        try {
+          // Simulate fetching data by setting bowlers to an empty array
+          // or predefined data structure to test UI components
+          setBowlers([]);
+          setIsLoading(false);
+        } catch (error) {
+          console.error("Error simulating fetch:", error);
+          setIsLoading(false);
         }
-
-        const response = await fetch(
-          `http://192.168.4.134:5001/api/event?${queryParams.toString()}`
-        );
-        const data = await response.json();
-        setBowlers(data);
-      } catch (error) {
-        console.error("Error fetching event details:", error);
-      }
-      setIsLoading(false);
+      }, 2000); // Adjust this delay as needed
     }
 
     fetchData();
@@ -258,7 +242,7 @@ function ScheduleTabsContent({
           className="row-span-5 row-start-1 px-4"
         >
           <div className="flex justify-between md:py-5">
-            <h2 className="mb-0 text-xl font-bold uppercase md:relative md:left-0 md:right-0 md:mx-auto md:text-3xl">
+            <h2 className="mb-8 text-3xl font-bold uppercase md:relative md:left-0 md:right-0 md:mx-auto md:text-3xl">
               {day.name}
             </h2>
             {/* <DropdownMenu>
@@ -287,17 +271,19 @@ function ScheduleTabsContent({
             </DropdownMenu> */}
           </div>
           {/* <h3 className="mb-8 mt-[-5px] font-semibold md:mt-[-10px] md:text-center md:text-lg">
-            {day.mainevent}
+            {day.mainevent.map((event, index) => (
+              <div key={index}>{event}</div>
+            ))}
           </h3> */}
 
           {day.agenda.map((event, index) => (
             <React.Fragment key={event.key}>
-              <div className="my-1 hidden grid-cols-3 items-center">
+              <div className="my-1 grid grid-cols-3 items-center">
                 {/* CHANGE HIDDEN TO GRID WHEN READY */}
 
                 <span>{event.time}</span>
                 <div className="col-start-2 col-end-4 row-start-1 md:col-end-3 md:justify-self-center md:text-center">
-                  {event.event === "Oiling" ? (
+                  {event.event === "Lane Oiling" ? (
                     <span className="text-center text-sm">{event.event}</span>
                   ) : (
                     <span
@@ -357,12 +343,12 @@ function ScheduleTabsContent({
                 )}
               </div>
               {index < day.agenda.length - 1 && (
-                <Separator className="hidden bg-slate-300" />
+                <Separator className="bg-slate-300" />
               )}
             </React.Fragment>
           ))}
 
-          <div className="grid h-full place-items-center">
+          {/* <div className="grid h-full place-items-center">
             <div className="flex flex-col text-center">
               {day.mainevent.map((event) => (
                 <h3 className="text-xl font-semibold md:text-2xl">{event}</h3>
@@ -371,7 +357,7 @@ function ScheduleTabsContent({
           </div>
           <div className="text-center font-semibold">
             <span>Event times have not yet been determined.</span>
-          </div>
+          </div> */}
         </TabsContent>
       ))}
     </>
