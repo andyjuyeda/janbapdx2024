@@ -10,6 +10,8 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
+import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
+import { Button } from "@/components/ui/button";
 
 function BackButton({
   setShowEventDetails,
@@ -42,6 +44,7 @@ interface EventDetailsProps {
   gender: string | null;
   event: string;
   divisions: string;
+  time: string;
   setShowEventDetails: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
@@ -49,6 +52,7 @@ function EventDetails({
   gender,
   event,
   divisions,
+  time,
   setShowEventDetails,
 }: EventDetailsProps) {
   function EventDetailsHeader() {
@@ -74,8 +78,13 @@ function EventDetails({
               </DropdownMenuTrigger>
               <DropdownMenuContent className="mr-10 bg-slate-50">
                 <DropdownMenuItem className="">
-                  <a href="#" className="flex gap-2 text-lg font-bold">
-                    <span>Download PDF</span>
+                  <a
+                    href={schedulePdf}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex gap-2 text-lg font-bold"
+                  >
+                    <span>Download Full Schedule</span>
                     <span>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -105,9 +114,11 @@ function EventDetails({
               ? `Divisions ${divisions}`
               : `Division ${divisions}`}
           </p>
-          <div className="flex justify-between border-b-2 border-dark-blue text-lg font-semibold">
-            <span>Name</span>
-            <span>Lane</span>
+          <p>{time}</p>
+          <div className="mt-4 grid grid-cols-[4fr_1fr_1fr] border-b-2 border-dark-blue text-lg font-semibold">
+            <span className="place-self-start">Name</span>
+            <span className="">Lane</span>
+            <span className="place-self-end">Div.</span>
           </div>
         </div>
       </>
@@ -118,8 +129,8 @@ function EventDetails({
     average: number;
     lane: number;
     division: number;
-    gender: string;
-    instance_id: number;
+    event: string;
+    _id: string;
   }
 
   const [bowlers, setBowlers] = useState<Bowler[]>([]);
@@ -129,22 +140,35 @@ function EventDetails({
     async function fetchData() {
       setIsLoading(true);
 
-      // Simulate API call delay
-      setTimeout(() => {
-        try {
-          // Simulate fetching data by setting bowlers to an empty array
-          // or predefined data structure to test UI components
-          setBowlers([]);
-          setIsLoading(false);
-        } catch (error) {
-          console.error("Error simulating fetch:", error);
-          setIsLoading(false);
+      try {
+        const response = await fetch(
+          "https://janba2024-api.vercel.app/api/scores"
+        ); // Update with your actual endpoint
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
         }
-      }, 2000); // Adjust this delay as needed
+        const data = await response.json();
+        setBowlers(data); // Assuming the API returns an array of bowlers
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      } finally {
+        setIsLoading(false);
+      }
     }
 
     fetchData();
-  }, [event, divisions, gender]);
+  }, []);
+
+  const divisionNumbers = divisions.includes("and")
+    ? divisions.split(" and ").map(Number) // For "2 and 3" => [2, 3]
+    : [Number(divisions)]; // For "1" => [1]
+
+  const filteredBowlers = bowlers.filter((bowler) => {
+    const eventCheck = gender ? `${gender} ${event}` : event;
+    return (
+      bowler.event === eventCheck && divisionNumbers.includes(bowler.division)
+    );
+  });
 
   if (isLoading) {
     return <div>Loading...</div>;
@@ -153,19 +177,18 @@ function EventDetails({
   return (
     <div className="pb-2 text-center">
       <EventDetailsHeader />
-      {bowlers.map((bowler) => (
-        <div className="mb-1 space-y-1">
-          <div
-            key={bowler.instance_id}
-            className="flex justify-between px-6 text-lg"
-          >
-            <span className="font-bold">{bowler.name}</span>
-            <span>{bowler.lane}</span>
+      {filteredBowlers.length > 0 ? (
+        filteredBowlers.map((bowler) => (
+          <div key={bowler._id} className="mb-1 space-y-1">
+            <div className="grid grid-cols-[4fr_1fr_1fr] px-6 text-base">
+              <span className="place-self-start font-bold">{bowler.name}</span>
+              <span className="">{bowler.lane}</span>
+              <span className="place-self-end">{bowler.division}</span>
+            </div>
+            <Separator className="mx-6 w-auto bg-slate-200" />
           </div>
-          <Separator className="mx-6 w-auto bg-slate-200" />
-        </div>
-      ))}
-      {bowlers.length === 0 && (
+        ))
+      ) : (
         <div className="mt-5 text-lg font-semibold">
           Lane assignments are currently unavailable.
         </div>
@@ -245,13 +268,13 @@ function ScheduleTabsContent({
             <h2 className="mb-8 text-3xl font-bold uppercase md:relative md:left-0 md:right-0 md:mx-auto md:text-3xl">
               {day.name}
             </h2>
-            {/* <DropdownMenu>
+            <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
                   fill="currentColor"
-                  className="h-8 w-8 cursor-pointer md:fixed md:right-10"
+                  className="hidden h-8 w-8 cursor-pointer md:fixed md:right-10"
                 >
                   <path
                     fillRule="evenodd"
@@ -262,13 +285,36 @@ function ScheduleTabsContent({
               </DropdownMenuTrigger>
               <DropdownMenuContent className="mr-10 bg-slate-50">
                 <DropdownMenuItem className="text-lg font-bold">
-                  Printable Schedule
+                  <a
+                    href={schedulePdf}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex gap-2 text-lg font-bold"
+                  >
+                    <span>Download Full Schedule</span>
+                    <span>
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        strokeWidth={1.5}
+                        stroke="currentColor"
+                        className="h-6 w-6"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"
+                        />
+                      </svg>
+                    </span>
+                  </a>
                 </DropdownMenuItem>
                 <DropdownMenuItem className="text-lg font-bold">
                   Get Your Personal Schedule
                 </DropdownMenuItem>
               </DropdownMenuContent>
-            </DropdownMenu> */}
+            </DropdownMenu>
           </div>
           {/* <h3 className="mb-8 mt-[-5px] font-semibold md:mt-[-10px] md:text-center md:text-lg">
             {day.mainevent.map((event, index) => (
@@ -298,6 +344,7 @@ function ScheduleTabsContent({
                                 divisions: event.divisions
                                   ? event.divisions.join(" and ")
                                   : "N/A",
+                                time: event.time,
                                 setShowEventDetails: setShowEventDetails,
                               });
                             }
@@ -323,6 +370,7 @@ function ScheduleTabsContent({
                         divisions: event.divisions
                           ? event.divisions.join(" and ")
                           : "N/A",
+                        time: event.time,
                         setShowEventDetails: setShowEventDetails,
                       });
                     }}
@@ -392,7 +440,7 @@ export default function Schedule() {
   };
 
   return (
-    <div className="h-[800px] md:h-screen md:min-h-[900px]">
+    <div className="h-[800px] md:h-screen md:min-h-[900px] max-w-[800px] mx-auto">
       <h1
         id="schedule"
         className="mt-10 text-center text-2xl font-bold uppercase text-slate-50 xl:text-5xl"
@@ -433,6 +481,34 @@ export default function Schedule() {
             )}
           </motion.div>
         </AnimatePresence>
+      </div>
+      <div className="mt-5">
+        <a
+          href={schedulePdf}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex gap-2 text-lg font-bold"
+        >
+          <Button className="mx-auto flex w-[60%] gap-2 p-2 font-bold">
+            <span>Download Full Schedule</span>
+            <span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                className="h-6 w-6"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"
+                />
+              </svg>
+            </span>
+          </Button>
+        </a>
       </div>
     </div>
   );

@@ -8,15 +8,14 @@ import {
 } from "@/components/ui/dropdown-menu";
 import styles from "./header.module.css";
 
-
 import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
 import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer.pdf";
 import proAmForm from "@/assets/doc/CV LH Pro Am Flyer.pdf";
 import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024.pdf";
-import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf"
-import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf"
-
+import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
+import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
+import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
 
 type NavLinkProps = {
   link: string;
@@ -43,17 +42,37 @@ function FormsMenu() {
         </a>
       </DropdownMenuItem>
       <DropdownMenuItem>
-        <a href={monteCarloForm} target="_blank" rel="noopener noreferrer" aria-disabled>
+        <a href={schedulePdf} target="_blank" rel="noopener noreferrer">
+          Event Schedule
+        </a>
+      </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a
+          href={monteCarloForm}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-disabled
+        >
           Monte Carlo
         </a>
       </DropdownMenuItem>
       <DropdownMenuItem>
-        <a href={proAmForm} target="_blank" rel="noopener noreferrer" aria-disabled>
+        <a
+          href={proAmForm}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-disabled
+        >
           Pro-Am
         </a>
       </DropdownMenuItem>
       <DropdownMenuItem>
-        <a href={proShopForm} target="_blank" rel="noopener noreferrer" aria-disabled>
+        <a
+          href={proShopForm}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-disabled
+        >
           Pro Shop Specials
         </a>
       </DropdownMenuItem>
