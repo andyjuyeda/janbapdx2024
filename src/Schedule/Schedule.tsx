@@ -115,9 +115,10 @@ function EventDetails({
               : `Division ${divisions}`}
           </p>
           <p>{time}</p>
-          <div className="mt-4 grid grid-cols-[4fr_1fr_1fr] border-b-2 border-dark-blue text-lg font-semibold">
-            <span className="place-self-start">Name</span>
-            <span className="">Lane</span>
+          <div className="mt-4 grid grid-cols-[1fr_4fr_1fr_1fr] border-b-2 border-dark-blue font-semibold">
+            <span className="place-self-start">Ln.</span>
+            <span className="place-self-start font-bold">Name</span>
+            <span>Avg.</span>
             <span className="place-self-end">Div.</span>
           </div>
         </div>
@@ -180,9 +181,10 @@ function EventDetails({
       {filteredBowlers.length > 0 ? (
         filteredBowlers.map((bowler) => (
           <div key={bowler._id} className="mb-1 space-y-1">
-            <div className="grid grid-cols-[4fr_1fr_1fr] px-6 text-base">
+            <div className="grid grid-cols-[1fr_4fr_1fr_1fr] px-6">
+              <span className="place-self-start">{bowler.lane}</span>
               <span className="place-self-start font-bold">{bowler.name}</span>
-              <span className="">{bowler.lane}</span>
+              <span>{bowler.average}</span>
               <span className="place-self-end">{bowler.division}</span>
             </div>
             <Separator className="mx-6 w-auto bg-slate-200" />
