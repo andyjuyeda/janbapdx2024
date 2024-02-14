@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Separator } from "@/components/ui/separator";
 import "./schedule.module.css";
+import janbaScores from "@/data/janbaScores.json";
 import eventSchedule from "./UpdatedEventSchedule.json";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -125,76 +126,143 @@ function EventDetails({
       </>
     );
   }
-  interface Bowler {
-    name: string;
-    average: number;
-    lane: number;
-    division: number;
-    event: string;
-    _id: string;
-  }
-
-  const [bowlers, setBowlers] = useState<Bowler[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    async function fetchData() {
-      setIsLoading(true);
-
-      try {
-        const response = await fetch(
-          "https://janba2024-api.vercel.app/api/scores"
-        ); // Update with your actual endpoint
-        if (!response.ok) {
-          throw new Error("Network response was not ok");
-        }
-        const data = await response.json();
-        setBowlers(data); // Assuming the API returns an array of bowlers
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      } finally {
-        setIsLoading(false);
-      }
-    }
-
-    fetchData();
-  }, []);
 
   const divisionNumbers = divisions.includes("and")
     ? divisions.split(" and ").map(Number) // For "2 and 3" => [2, 3]
     : [Number(divisions)]; // For "1" => [1]
 
-  const filteredBowlers = bowlers.filter((bowler) => {
-    const eventCheck = gender ? `${gender} ${event}` : event;
-    return (
-      bowler.event === eventCheck && divisionNumbers.includes(bowler.division)
-    );
-  });
+  const isDoubles = event.toLowerCase().includes("doubles");
+  const isTeam = event.toLowerCase().includes("team");
 
-  if (isLoading) {
-    return <div>Loading...</div>;
+  const renderBowlers = () => {
+    const filteredBowlers = janbaScores.filter((bowler) => {
+      const eventCheck = gender ? `${gender} ${event}` : event;
+      return (
+        bowler.Event === eventCheck && divisionNumbers.includes(bowler.Division)
+      );
+    });
+
+    if (isDoubles) {
+      // Render for doubles
+      // Group bowlers and render with a shared attribute
+      return renderDoublesBowlers(filteredBowlers);
+    } else if (isTeam) {
+      // Render for team events
+      // Implement grouping and rendering for teams
+      return renderTeamBowlers(filteredBowlers);
+    } else {
+      // Render for singles or any other types
+      return renderSinglesBowlers(filteredBowlers);
+    }
+  };
+
+  interface Bowler {
+    _id: string;
+    Lane: number;
+    Name: string;
+    Average: number;
+    Division: number;
   }
+
+  const renderSinglesBowlers = (bowlers: Bowler[]) =>
+    bowlers.map((bowler) => (
+      <div key={bowler._id} className="mb-1 space-y-1">
+        <div className="grid grid-cols-[1fr_4fr_1fr_1fr] px-6">
+          <span className="place-self-start">{bowler.Lane}</span>
+          <span className="place-self-start font-bold">{bowler.Name}</span>
+          <span>{bowler.Average}</span>
+          <span className="place-self-end">{bowler.Division}</span>
+        </div>
+        <Separator className="mx-6 w-auto bg-slate-200" />
+      </div>
+    ));
+
+  const renderDoublesBowlers = (bowlers: Bowler[]) => {
+    const pairs = [];
+    for (let i = 0; i < bowlers.length; i += 2) {
+      pairs.push(
+        <div key={i} className="mt-1">
+          <div className="grid grid-cols-[1fr_4fr_1fr_1fr] grid-rows-2 gap-y-0 px-6 pt-0">
+            <span className="row-span-2 place-self-center justify-self-start">
+              {bowlers[i].Lane}
+            </span>
+            <span className="col-start-2 place-self-center justify-self-start font-bold">
+              {bowlers[i].Name}
+            </span>
+            <span className="col-start-2 row-start-2 place-self-center justify-self-start font-bold">
+              {bowlers[i + 1].Name}
+            </span>
+            <span className="col-start-3 row-start-1">
+              {bowlers[i].Average}
+            </span>
+            <span className="col-start-3 row-start-2">
+              {bowlers[i + 1].Average}
+            </span>
+            <span className="row-span-2 place-self-center justify-self-end">
+              {bowlers[i].Division}
+            </span>
+          </div>
+          <Separator className="mx-6 mt-1 w-auto bg-slate-200" />
+        </div>
+      );
+    }
+    return pairs;
+  };
+
+  const renderTeamBowlers = (bowlers: Bowler[]) => {
+    const teams = [];
+    for (let i = 0; i < bowlers.length; i += 5) {
+      teams.push(
+        <div key={i} className="mt-1">
+          <div className="grid grid-cols-[1fr_4fr_1fr_1fr] grid-rows-5 gap-y-0 px-6 pt-0">
+            <span className="row-span-5 place-self-center justify-self-start">
+              {bowlers[i].Lane}
+            </span>
+            <span className="col-start-2 place-self-center justify-self-start font-bold">
+              {bowlers[i].Name}
+            </span>
+            <span className="col-start-2 row-start-2 place-self-center justify-self-start font-bold">
+              {bowlers[i + 1].Name}
+            </span>
+            <span className="col-start-2 row-start-3 place-self-center justify-self-start font-bold">
+              {bowlers[i + 2].Name}
+            </span>
+            <span className="col-start-2 row-start-4 place-self-center justify-self-start font-bold">
+              {bowlers[i + 3].Name}
+            </span>
+            <span className="col-start-2 row-start-5 place-self-center justify-self-start font-bold">
+              {bowlers[i + 4].Name}
+            </span>
+            <span className="col-start-3 row-start-1">
+              {bowlers[i].Average}
+            </span>
+            <span className="col-start-3 row-start-2">
+              {bowlers[i + 1].Average}
+            </span>
+            <span className="col-start-3 row-start-3">
+              {bowlers[i + 2].Average}
+            </span>
+            <span className="col-start-3 row-start-4">
+              {bowlers[i + 3].Average}
+            </span>
+            <span className="col-start-3 row-start-5">
+              {bowlers[i + 4].Average}
+            </span>
+            <span className="row-span-5 place-self-center justify-self-end">
+              {bowlers[i].Division}
+            </span>
+          </div>
+          <Separator className="mx-6 mt-1 w-auto bg-slate-200" />
+        </div>
+      );
+    }
+    return teams;
+  };
 
   return (
     <div className="pb-2 text-center">
       <EventDetailsHeader />
-      {filteredBowlers.length > 0 ? (
-        filteredBowlers.map((bowler) => (
-          <div key={bowler._id} className="mb-1 space-y-1">
-            <div className="grid grid-cols-[1fr_4fr_1fr_1fr] px-6">
-              <span className="place-self-start">{bowler.lane}</span>
-              <span className="place-self-start font-bold">{bowler.name}</span>
-              <span>{bowler.average}</span>
-              <span className="place-self-end">{bowler.division}</span>
-            </div>
-            <Separator className="mx-6 w-auto bg-slate-200" />
-          </div>
-        ))
-      ) : (
-        <div className="mt-5 text-lg font-semibold">
-          Lane assignments are currently unavailable.
-        </div>
-      )}
+      {renderBowlers()}
     </div>
   );
 }
@@ -442,7 +510,7 @@ export default function Schedule() {
   };
 
   return (
-    <div className="h-[800px] md:h-screen md:min-h-[900px] max-w-[800px] mx-auto">
+    <div className="mx-auto h-[800px] max-w-[800px] md:h-screen md:min-h-[900px]">
       <h1
         id="schedule"
         className="mt-10 text-center text-2xl font-bold uppercase text-slate-50 xl:text-5xl"
