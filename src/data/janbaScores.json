@@ -334,21 +334,21 @@
     },
     {
         "Lane": 19,
-        "Name": "Kyle Ortiz",
-        "Average": 186,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kyle Ortiz"
-    },
-    {
-        "Lane": 20,
         "Name": "Gary Nishikawa",
         "Average": 186,
         "Division": 2,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Gary Nishikawa"
+    },
+    {
+        "Lane": 20,
+        "Name": "Richard Ho",
+        "Average": 189,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Richard Ho"
     },
     {
         "Lane": 20,
@@ -361,15 +361,6 @@
     },
     {
         "Lane": 21,
-        "Name": "Richard Ho",
-        "Average": 189,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Richard Ho"
-    },
-    {
-        "Lane": 21,
         "Name": "Bruce Akau",
         "Average": 189,
         "Division": 2,
@@ -378,13 +369,22 @@
         "_id": "Men's Classic_Bruce Akau"
     },
     {
-        "Lane": 22,
+        "Lane": 21,
         "Name": "Rob Yano",
         "Average": 189,
         "Division": 2,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Rob Yano"
+    },
+    {
+        "Lane": 22,
+        "Name": "Craig Sumida",
+        "Average": 190,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Craig Sumida"
     },
     {
         "Lane": 22,
@@ -397,15 +397,6 @@
     },
     {
         "Lane": 23,
-        "Name": "Craig Sumida",
-        "Average": 190,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Craig Sumida"
-    },
-    {
-        "Lane": 23,
         "Name": "Lincoln Hirata",
         "Average": 190,
         "Division": 2,
@@ -414,7 +405,7 @@
         "_id": "Men's Classic_Lincoln Hirata"
     },
     {
-        "Lane": 24,
+        "Lane": 23,
         "Name": "Kris Kato",
         "Average": 190,
         "Division": 2,
@@ -432,13 +423,22 @@
         "_id": "Men's Classic_Robert Wada"
     },
     {
-        "Lane": 25,
+        "Lane": 24,
         "Name": "Jason Mayeda",
         "Average": 190,
         "Division": 2,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Jason Mayeda"
+    },
+    {
+        "Lane": 25,
+        "Name": "Richard Uyeda",
+        "Average": 191,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Richard Uyeda"
     },
     {
         "Lane": 25,
@@ -451,12 +451,12 @@
     },
     {
         "Lane": 26,
-        "Name": "Richard Uyeda",
-        "Average": 191,
+        "Name": "Stan Eshima",
+        "Average": 194,
         "Division": 2,
         "Score": [],
         "Event": "Men's Classic",
-        "_id": "Men's Classic_Richard Uyeda"
+        "_id": "Men's Classic_Stan Eshima"
     },
     {
         "Lane": 26,
@@ -469,21 +469,30 @@
     },
     {
         "Lane": 27,
-        "Name": "Stan Eshima",
-        "Average": 194,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Stan Eshima"
-    },
-    {
-        "Lane": 27,
         "Name": "Kay Yamanaka",
         "Average": 194,
         "Division": 2,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Kay Yamanaka"
+    },
+    {
+        "Lane": 27,
+        "Name": "Kevin Kawaoka",
+        "Average": 194,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Kevin Kawaoka"
+    },
+    {
+        "Lane": 28,
+        "Name": "Kevin Quan",
+        "Average": 196,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Kevin Quan"
     },
     {
         "Lane": 28,
@@ -495,24 +504,6 @@
         "_id": "Men's Classic_Waimun Yee"
     },
     {
-        "Lane": 28,
-        "Name": "Kevin Kawaoka",
-        "Average": 194,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kevin Kawaoka"
-    },
-    {
-        "Lane": 29,
-        "Name": "Kevin Quan",
-        "Average": 196,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kevin Quan"
-    },
-    {
         "Lane": 29,
         "Name": "Mike Smith",
         "Average": 196,
@@ -522,13 +513,22 @@
         "_id": "Men's Classic_Mike Smith"
     },
     {
-        "Lane": 30,
+        "Lane": 29,
         "Name": "Harold Ogata Jr",
         "Average": 196,
         "Division": 2,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Harold Ogata Jr"
+    },
+    {
+        "Lane": 30,
+        "Name": "Jeff Okumura",
+        "Average": 197,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Jeff Okumura"
     },
     {
         "Lane": 30,
@@ -541,15 +541,6 @@
     },
     {
         "Lane": 31,
-        "Name": "Jeff Okumura",
-        "Average": 197,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jeff Okumura"
-    },
-    {
-        "Lane": 31,
         "Name": "T.J. Yanuska",
         "Average": 198,
         "Division": 2,
@@ -558,7 +549,7 @@
         "_id": "Men's Classic_T.J. Yanuska"
     },
     {
-        "Lane": 32,
+        "Lane": 31,
         "Name": "Mikel Onaka",
         "Average": 198,
         "Division": 2,
@@ -569,11 +560,20 @@
     {
         "Lane": 32,
         "Name": "Brian Uchino",
-        "Average": 198,
+        "Average": 199,
         "Division": 2,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Brian Uchino"
+    },
+    {
+        "Lane": 32,
+        "Name": "Gordon Terakami",
+        "Average": 198,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Gordon Terakami"
     },
     {
         "Lane": 1,
@@ -586,21 +586,21 @@
     },
     {
         "Lane": 1,
-        "Name": "Gordon Terakami",
-        "Average": 198,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Gordon Terakami"
-    },
-    {
-        "Lane": 2,
         "Name": "Chad Itami",
         "Average": 199,
         "Division": 3,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Chad Itami"
+    },
+    {
+        "Lane": 2,
+        "Name": "Craig Kitaoka",
+        "Average": 200,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Craig Kitaoka"
     },
     {
         "Lane": 2,
@@ -613,15 +613,6 @@
     },
     {
         "Lane": 3,
-        "Name": "Craig Kitaoka",
-        "Average": 200,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Craig Kitaoka"
-    },
-    {
-        "Lane": 3,
         "Name": "Corey Taniguchi",
         "Average": 201,
         "Division": 3,
@@ -630,7 +621,7 @@
         "_id": "Men's Classic_Corey Taniguchi"
     },
     {
-        "Lane": 4,
+        "Lane": 3,
         "Name": "Jeffrey Hirata",
         "Average": 201,
         "Division": 3,
@@ -648,13 +639,22 @@
         "_id": "Men's Classic_Brian Hara"
     },
     {
-        "Lane": 5,
+        "Lane": 4,
         "Name": "Jonathan Kajihara",
         "Average": 201,
         "Division": 3,
         "Score": [],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Jonathan Kajihara"
+    },
+    {
+        "Lane": 5,
+        "Name": "Kyle Ortiz",
+        "Average": 201,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Classic",
+        "_id": "Men's Classic_Kyle Ortiz"
     },
     {
         "Lane": 5,
@@ -2899,24 +2899,6 @@
     },
     {
         "Lane": 3,
-        "Name": "Christalynn Ortiz",
-        "Average": 201,
-        "Division": 6,
-        "Score": [],
-        "Event": "Mixed Doubles",
-        "_id": "Mixed Doubles_Christalynn Ortiz"
-    },
-    {
-        "Lane": 3,
-        "Name": "Kyle Ortiz",
-        "Average": 186,
-        "Division": 6,
-        "Score": [],
-        "Event": "Mixed Doubles",
-        "_id": "Mixed Doubles_Kyle Ortiz"
-    },
-    {
-        "Lane": 4,
         "Name": "Cindi Kaneshige",
         "Average": 177,
         "Division": 6,
@@ -2925,7 +2907,7 @@
         "_id": "Mixed Doubles_Cindi Kaneshige"
     },
     {
-        "Lane": 4,
+        "Lane": 3,
         "Name": "Brian Kaneshige",
         "Average": 211,
         "Division": 6,
@@ -2934,7 +2916,7 @@
         "_id": "Mixed Doubles_Brian Kaneshige"
     },
     {
-        "Lane": 5,
+        "Lane": 4,
         "Name": "Kelly Leger",
         "Average": 189,
         "Division": 6,
@@ -2943,7 +2925,7 @@
         "_id": "Mixed Doubles_Kelly Leger"
     },
     {
-        "Lane": 5,
+        "Lane": 4,
         "Name": "Jaaycob Okumura",
         "Average": 202,
         "Division": 6,
@@ -2952,7 +2934,7 @@
         "_id": "Mixed Doubles_Jaaycob Okumura"
     },
     {
-        "Lane": 6,
+        "Lane": 5,
         "Name": "Kimberly Walker",
         "Average": 179,
         "Division": 6,
@@ -2961,7 +2943,7 @@
         "_id": "Mixed Doubles_Kimberly Walker"
     },
     {
-        "Lane": 6,
+        "Lane": 5,
         "Name": "Kevin Nagasawa",
         "Average": 214,
         "Division": 6,
@@ -2970,7 +2952,7 @@
         "_id": "Mixed Doubles_Kevin Nagasawa"
     },
     {
-        "Lane": 7,
+        "Lane": 6,
         "Name": "Sherri Schmaling",
         "Average": 176,
         "Division": 6,
@@ -2979,7 +2961,7 @@
         "_id": "Mixed Doubles_Sherri Schmaling"
     },
     {
-        "Lane": 7,
+        "Lane": 6,
         "Name": "Andy Warren",
         "Average": 217,
         "Division": 6,
@@ -2988,7 +2970,7 @@
         "_id": "Mixed Doubles_Andy Warren"
     },
     {
-        "Lane": 8,
+        "Lane": 7,
         "Name": "Erin Ohta",
         "Average": 197,
         "Division": 6,
@@ -2997,7 +2979,7 @@
         "_id": "Mixed Doubles_Erin Ohta"
     },
     {
-        "Lane": 8,
+        "Lane": 7,
         "Name": "Anthony Madrona",
         "Average": 197,
         "Division": 6,
@@ -3006,7 +2988,7 @@
         "_id": "Mixed Doubles_Anthony Madrona"
     },
     {
-        "Lane": 9,
+        "Lane": 8,
         "Name": "Kristi Thompson",
         "Average": 166,
         "Division": 6,
@@ -3015,7 +2997,7 @@
         "_id": "Mixed Doubles_Kristi Thompson"
     },
     {
-        "Lane": 9,
+        "Lane": 8,
         "Name": "Ashton Yamasaki",
         "Average": 229,
         "Division": 6,
@@ -3024,7 +3006,7 @@
         "_id": "Mixed Doubles_Ashton Yamasaki"
     },
     {
-        "Lane": 10,
+        "Lane": 9,
         "Name": "Diane Fujii",
         "Average": 179,
         "Division": 6,
@@ -3033,13 +3015,31 @@
         "_id": "Mixed Doubles_Diane Fujii"
     },
     {
-        "Lane": 10,
+        "Lane": 9,
         "Name": "Wesley Fujii",
         "Average": 218,
         "Division": 6,
         "Score": [],
         "Event": "Mixed Doubles",
         "_id": "Mixed Doubles_Wesley Fujii"
+    },
+    {
+        "Lane": 10,
+        "Name": "Casey Mori",
+        "Average": 162,
+        "Division": 6,
+        "Score": [],
+        "Event": "Mixed Doubles",
+        "_id": "Mixed Doubles_Casey Mori"
+    },
+    {
+        "Lane": 10,
+        "Name": "Ronnie Fujita",
+        "Average": 237,
+        "Division": 6,
+        "Score": [],
+        "Event": "Mixed Doubles",
+        "_id": "Mixed Doubles_Ronnie Fujita"
     },
     {
         "Lane": 11,
@@ -3259,24 +3259,6 @@
     },
     {
         "Lane": 23,
-        "Name": "Casey Mori",
-        "Average": 162,
-        "Division": 7,
-        "Score": [],
-        "Event": "Mixed Doubles",
-        "_id": "Mixed Doubles_Casey Mori"
-    },
-    {
-        "Lane": 23,
-        "Name": "Ronnie Fujita",
-        "Average": 237,
-        "Division": 7,
-        "Score": [],
-        "Event": "Mixed Doubles",
-        "_id": "Mixed Doubles_Ronnie Fujita"
-    },
-    {
-        "Lane": 24,
         "Name": "Jodi Hiraoka",
         "Average": 197,
         "Division": 7,
@@ -3285,7 +3267,7 @@
         "_id": "Mixed Doubles_Jodi Hiraoka"
     },
     {
-        "Lane": 24,
+        "Lane": 23,
         "Name": "Goodman Ng",
         "Average": 203,
         "Division": 7,
@@ -3294,7 +3276,7 @@
         "_id": "Mixed Doubles_Goodman Ng"
     },
     {
-        "Lane": 25,
+        "Lane": 24,
         "Name": "Lauren Takahashi",
         "Average": 201,
         "Division": 7,
@@ -3303,13 +3285,31 @@
         "_id": "Mixed Doubles_Lauren Takahashi"
     },
     {
-        "Lane": 25,
+        "Lane": 24,
         "Name": "Glenn Tsuchiya",
         "Average": 199,
         "Division": 7,
         "Score": [],
         "Event": "Mixed Doubles",
         "_id": "Mixed Doubles_Glenn Tsuchiya"
+    },
+    {
+        "Lane": 25,
+        "Name": "Christalynn Ortiz",
+        "Average": 201,
+        "Division": 7,
+        "Score": [],
+        "Event": "Mixed Doubles",
+        "_id": "Mixed Doubles_Christalynn Ortiz"
+    },
+    {
+        "Lane": 25,
+        "Name": "Kyle Ortiz",
+        "Average": 201,
+        "Division": 7,
+        "Score": [],
+        "Event": "Mixed Doubles",
+        "_id": "Mixed Doubles_Kyle Ortiz"
     },
     {
         "Lane": 26,
@@ -3628,141 +3628,6 @@
     },
     {
         "Lane": 2,
-        "Name": "Kyle Uno",
-        "Average": 186,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Kyle Uno"
-    },
-    {
-        "Lane": 2,
-        "Name": "Ben I Yamamoto",
-        "Average": 180,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Ben I Yamamoto"
-    },
-    {
-        "Lane": 2,
-        "Name": "Ben E Yamamoto",
-        "Average": 146,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Ben E Yamamoto"
-    },
-    {
-        "Lane": 2,
-        "Name": "Daron Sugiyama",
-        "Average": 176,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Daron Sugiyama"
-    },
-    {
-        "Lane": 2,
-        "Name": "Jeff Uno",
-        "Average": 182,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Jeff Uno"
-    },
-    {
-        "Lane": 3,
-        "Name": "Gary Sato",
-        "Average": 176,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Gary Sato"
-    },
-    {
-        "Lane": 3,
-        "Name": "Terry Matsumoto",
-        "Average": 173,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Terry Matsumoto"
-    },
-    {
-        "Lane": 3,
-        "Name": "Uriel Engle",
-        "Average": 164,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Uriel Engle"
-    },
-    {
-        "Lane": 3,
-        "Name": "Mike Nakamura",
-        "Average": 181,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Mike Nakamura"
-    },
-    {
-        "Lane": 3,
-        "Name": "Scott Watanabe - SJ",
-        "Average": 184,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Scott Watanabe - SJ"
-    },
-    {
-        "Lane": 4,
-        "Name": "Andy Uyeda",
-        "Average": 183,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Andy Uyeda"
-    },
-    {
-        "Lane": 4,
-        "Name": "Lucas Erickson",
-        "Average": 159,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Lucas Erickson"
-    },
-    {
-        "Lane": 4,
-        "Name": "Kris Kato",
-        "Average": 190,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Kris Kato"
-    },
-    {
-        "Lane": 4,
-        "Name": "Kyle Lee",
-        "Average": 175,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Kyle Lee"
-    },
-    {
-        "Lane": 4,
-        "Name": "Wayne Wakabayashi",
-        "Average": 174,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Wayne Wakabayashi"
-    },
-    {
-        "Lane": 5,
         "Name": "Jeff Hasegawa",
         "Average": 179,
         "Division": 1,
@@ -3771,7 +3636,7 @@
         "_id": "Men's Team_Jeff Hasegawa"
     },
     {
-        "Lane": 5,
+        "Lane": 2,
         "Name": "Ed Kajitsu",
         "Average": 157,
         "Division": 1,
@@ -3780,16 +3645,16 @@
         "_id": "Men's Team_Ed Kajitsu"
     },
     {
-        "Lane": 5,
+        "Lane": 2,
         "Name": "Dan Nakamura",
-        "Average": 190,
+        "Average": 166,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
         "_id": "Men's Team_Dan Nakamura"
     },
     {
-        "Lane": 5,
+        "Lane": 2,
         "Name": "Gordon Kiyokawa",
         "Average": 173,
         "Division": 1,
@@ -3798,13 +3663,148 @@
         "_id": "Men's Team_Gordon Kiyokawa"
     },
     {
-        "Lane": 5,
+        "Lane": 2,
         "Name": "Stuart Kawachi",
         "Average": 183,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
         "_id": "Men's Team_Stuart Kawachi"
+    },
+    {
+        "Lane": 3,
+        "Name": "Kyle Uno",
+        "Average": 186,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Kyle Uno"
+    },
+    {
+        "Lane": 3,
+        "Name": "Ben I Yamamoto",
+        "Average": 180,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Ben I Yamamoto"
+    },
+    {
+        "Lane": 3,
+        "Name": "Ben E Yamamoto",
+        "Average": 146,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Ben E Yamamoto"
+    },
+    {
+        "Lane": 3,
+        "Name": "Daron Sugiyama",
+        "Average": 176,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Daron Sugiyama"
+    },
+    {
+        "Lane": 3,
+        "Name": "Jeff Uno",
+        "Average": 182,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Jeff Uno"
+    },
+    {
+        "Lane": 4,
+        "Name": "Gary Sato",
+        "Average": 176,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Gary Sato"
+    },
+    {
+        "Lane": 4,
+        "Name": "Terry Matsumoto",
+        "Average": 173,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Terry Matsumoto"
+    },
+    {
+        "Lane": 4,
+        "Name": "Uriel Engle",
+        "Average": 164,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Uriel Engle"
+    },
+    {
+        "Lane": 4,
+        "Name": "Mike Nakamura",
+        "Average": 181,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Mike Nakamura"
+    },
+    {
+        "Lane": 4,
+        "Name": "Scott Watanabe - SJ",
+        "Average": 184,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Scott Watanabe - SJ"
+    },
+    {
+        "Lane": 5,
+        "Name": "Andy Uyeda",
+        "Average": 183,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Andy Uyeda"
+    },
+    {
+        "Lane": 5,
+        "Name": "Lucas Erickson",
+        "Average": 159,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Lucas Erickson"
+    },
+    {
+        "Lane": 5,
+        "Name": "Kris Kato",
+        "Average": 190,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Kris Kato"
+    },
+    {
+        "Lane": 5,
+        "Name": "Kyle Lee",
+        "Average": 175,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Kyle Lee"
+    },
+    {
+        "Lane": 5,
+        "Name": "Wayne Wakabayashi",
+        "Average": 174,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Wayne Wakabayashi"
     },
     {
         "Lane": 6,
@@ -4078,48 +4078,48 @@
     },
     {
         "Lane": 12,
-        "Name": "Aki Kim",
-        "Average": 166,
+        "Name": "Kevin Nishikawa",
+        "Average": 203,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Aki Kim"
+        "_id": "Men's Team_Kevin Nishikawa"
     },
     {
         "Lane": 12,
-        "Name": "Steve Doi",
-        "Average": 184,
+        "Name": "Marcelo Mitre",
+        "Average": 149,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Steve Doi"
+        "_id": "Men's Team_Marcelo Mitre"
     },
     {
         "Lane": 12,
-        "Name": "Mike Uyekubo",
-        "Average": 198,
+        "Name": "Jeff Komatsu",
+        "Average": 185,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Mike Uyekubo"
+        "_id": "Men's Team_Jeff Komatsu"
     },
     {
         "Lane": 12,
-        "Name": "Brian Uchino",
-        "Average": 198,
+        "Name": "Kevin Nagasawa",
+        "Average": 214,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Brian Uchino"
+        "_id": "Men's Team_Kevin Nagasawa"
     },
     {
         "Lane": 12,
-        "Name": "Dale Ando",
-        "Average": 189,
+        "Name": "Jeff Mitre",
+        "Average": 190,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Dale Ando"
+        "_id": "Men's Team_Jeff Mitre"
     },
     {
         "Lane": 13,
@@ -4142,7 +4142,7 @@
     {
         "Lane": 13,
         "Name": "Kevin Sato",
-        "Average": 190,
+        "Average": 120,
         "Division": 1,
         "Score": [],
         "Event": "Men's Team",
@@ -4843,48 +4843,48 @@
     },
     {
         "Lane": 13,
-        "Name": "Kevin Nishikawa",
-        "Average": 203,
+        "Name": "Aki Kim",
+        "Average": 171,
         "Division": 2,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Kevin Nishikawa"
+        "_id": "Men's Team_Aki Kim"
     },
     {
         "Lane": 13,
-        "Name": "Marcelo Mitre",
-        "Average": 149,
+        "Name": "Steve Doi",
+        "Average": 184,
         "Division": 2,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Marcelo Mitre"
+        "_id": "Men's Team_Steve Doi"
     },
     {
         "Lane": 13,
-        "Name": "Jeff Komatsu",
-        "Average": 185,
+        "Name": "Mike Uyekubo",
+        "Average": 199,
         "Division": 2,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Jeff Komatsu"
+        "_id": "Men's Team_Mike Uyekubo"
     },
     {
         "Lane": 13,
-        "Name": "Kevin Nagasawa",
-        "Average": 214,
+        "Name": "Brian Uchino",
+        "Average": 199,
         "Division": 2,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Kevin Nagasawa"
+        "_id": "Men's Team_Brian Uchino"
     },
     {
         "Lane": 13,
-        "Name": "Jeff Mitre",
-        "Average": 190,
+        "Name": "Dale Ando",
+        "Average": 189,
         "Division": 2,
         "Score": [],
         "Event": "Men's Team",
-        "_id": "Men's Team_Jeff Mitre"
+        "_id": "Men's Team_Dale Ando"
     },
     {
         "Lane": 14,
@@ -5158,51 +5158,6 @@
     },
     {
         "Lane": 21,
-        "Name": "Bernard Factora",
-        "Average": 211,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Bernard Factora"
-    },
-    {
-        "Lane": 21,
-        "Name": "Kyle Ortiz",
-        "Average": 186,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Kyle Ortiz"
-    },
-    {
-        "Lane": 21,
-        "Name": "Ken Hayase-Fong",
-        "Average": 233,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Ken Hayase-Fong"
-    },
-    {
-        "Lane": 21,
-        "Name": "Joshua Tajiri",
-        "Average": 213,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Joshua Tajiri"
-    },
-    {
-        "Lane": 21,
-        "Name": "Dallas Leong",
-        "Average": 233,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Team",
-        "_id": "Men's Team_Dallas Leong"
-    },
-    {
-        "Lane": 22,
         "Name": "Brian Davis",
         "Average": 219,
         "Division": 3,
@@ -5211,7 +5166,7 @@
         "_id": "Men's Team_Brian Davis"
     },
     {
-        "Lane": 22,
+        "Lane": 21,
         "Name": "Derek Lee",
         "Average": 201,
         "Division": 3,
@@ -5220,7 +5175,7 @@
         "_id": "Men's Team_Derek Lee"
     },
     {
-        "Lane": 22,
+        "Lane": 21,
         "Name": "Mike Tratnik",
         "Average": 225,
         "Division": 3,
@@ -5229,7 +5184,7 @@
         "_id": "Men's Team_Mike Tratnik"
     },
     {
-        "Lane": 22,
+        "Lane": 21,
         "Name": "Jason Jones",
         "Average": 227,
         "Division": 3,
@@ -5238,13 +5193,58 @@
         "_id": "Men's Team_Jason Jones"
     },
     {
-        "Lane": 22,
+        "Lane": 21,
         "Name": "Dan Sasaki",
         "Average": 205,
         "Division": 3,
         "Score": [],
         "Event": "Men's Team",
         "_id": "Men's Team_Dan Sasaki"
+    },
+    {
+        "Lane": 22,
+        "Name": "Bernard Factora",
+        "Average": 211,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Bernard Factora"
+    },
+    {
+        "Lane": 22,
+        "Name": "Kyle Ortiz",
+        "Average": 201,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Kyle Ortiz"
+    },
+    {
+        "Lane": 22,
+        "Name": "Ken Hayase-Fong",
+        "Average": 233,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Ken Hayase-Fong"
+    },
+    {
+        "Lane": 22,
+        "Name": "Joshua Tajiri",
+        "Average": 213,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Joshua Tajiri"
+    },
+    {
+        "Lane": 22,
+        "Name": "Dallas Leong",
+        "Average": 233,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Team",
+        "_id": "Men's Team_Dallas Leong"
     },
     {
         "Lane": 23,
@@ -6563,7 +6563,7 @@
     {
         "Lane": 23,
         "Name": "Monica Tajiri",
-        "Average": 170,
+        "Average": 172,
         "Division": 2,
         "Score": [],
         "Event": "Women's Team",
@@ -6572,7 +6572,7 @@
     {
         "Lane": 23,
         "Name": "Tarika Onishi",
-        "Average": 167,
+        "Average": 175,
         "Division": 2,
         "Score": [],
         "Event": "Women's Team",
@@ -6643,6 +6643,24 @@
     },
     {
         "Lane": 15,
+        "Name": "Garrick Shishido",
+        "Average": 136,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Garrick Shishido"
+    },
+    {
+        "Lane": 15,
+        "Name": "Wayne Nagasawa",
+        "Average": 156,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Wayne Nagasawa"
+    },
+    {
+        "Lane": 16,
         "Name": "Wesley Smith",
         "Average": 140,
         "Division": 1,
@@ -6651,7 +6669,7 @@
         "_id": "Men's Doubles_Wesley Smith"
     },
     {
-        "Lane": 15,
+        "Lane": 16,
         "Name": "Bruce Hashimoto",
         "Average": 157,
         "Division": 1,
@@ -6660,7 +6678,7 @@
         "_id": "Men's Doubles_Bruce Hashimoto"
     },
     {
-        "Lane": 16,
+        "Lane": 17,
         "Name": "Christopher Peace",
         "Average": 130,
         "Division": 1,
@@ -6669,7 +6687,7 @@
         "_id": "Men's Doubles_Christopher Peace"
     },
     {
-        "Lane": 16,
+        "Lane": 17,
         "Name": "Roy Umehira",
         "Average": 183,
         "Division": 1,
@@ -6678,7 +6696,7 @@
         "_id": "Men's Doubles_Roy Umehira"
     },
     {
-        "Lane": 17,
+        "Lane": 18,
         "Name": "Tyler Haller",
         "Average": 140,
         "Division": 1,
@@ -6687,7 +6705,7 @@
         "_id": "Men's Doubles_Tyler Haller"
     },
     {
-        "Lane": 17,
+        "Lane": 18,
         "Name": "Wayne Wakabayashi",
         "Average": 174,
         "Division": 1,
@@ -6696,7 +6714,7 @@
         "_id": "Men's Doubles_Wayne Wakabayashi"
     },
     {
-        "Lane": 18,
+        "Lane": 19,
         "Name": "Kaz Sato",
         "Average": 154,
         "Division": 1,
@@ -6705,7 +6723,7 @@
         "_id": "Men's Doubles_Kaz Sato"
     },
     {
-        "Lane": 18,
+        "Lane": 19,
         "Name": "Raymond Kinoshita",
         "Average": 163,
         "Division": 1,
@@ -6714,7 +6732,7 @@
         "_id": "Men's Doubles_Raymond Kinoshita"
     },
     {
-        "Lane": 19,
+        "Lane": 20,
         "Name": "Garrett Yoshimoto",
         "Average": 159,
         "Division": 1,
@@ -6723,7 +6741,7 @@
         "_id": "Men's Doubles_Garrett Yoshimoto"
     },
     {
-        "Lane": 19,
+        "Lane": 20,
         "Name": "Ryan Tamura",
         "Average": 165,
         "Division": 1,
@@ -6732,7 +6750,7 @@
         "_id": "Men's Doubles_Ryan Tamura"
     },
     {
-        "Lane": 20,
+        "Lane": 21,
         "Name": "Randy Pearson",
         "Average": 167,
         "Division": 1,
@@ -6741,7 +6759,7 @@
         "_id": "Men's Doubles_Randy Pearson"
     },
     {
-        "Lane": 20,
+        "Lane": 21,
         "Name": "Patrick Oki",
         "Average": 158,
         "Division": 1,
@@ -6750,7 +6768,7 @@
         "_id": "Men's Doubles_Patrick Oki"
     },
     {
-        "Lane": 21,
+        "Lane": 22,
         "Name": "Ben E Yamamoto",
         "Average": 146,
         "Division": 1,
@@ -6759,7 +6777,7 @@
         "_id": "Men's Doubles_Ben E Yamamoto"
     },
     {
-        "Lane": 21,
+        "Lane": 22,
         "Name": "Ben I Yamamoto",
         "Average": 180,
         "Division": 1,
@@ -6768,16 +6786,16 @@
         "_id": "Men's Doubles_Ben I Yamamoto"
     },
     {
-        "Lane": 22,
+        "Lane": 23,
         "Name": "Aki Kim",
-        "Average": 166,
+        "Average": 171,
         "Division": 1,
         "Score": [],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Aki Kim"
     },
     {
-        "Lane": 22,
+        "Lane": 23,
         "Name": "Uriel Engle",
         "Average": 164,
         "Division": 1,
@@ -6786,7 +6804,7 @@
         "_id": "Men's Doubles_Uriel Engle"
     },
     {
-        "Lane": 23,
+        "Lane": 24,
         "Name": "Michael Anzivino",
         "Average": 141,
         "Division": 1,
@@ -6795,7 +6813,7 @@
         "_id": "Men's Doubles_Michael Anzivino"
     },
     {
-        "Lane": 23,
+        "Lane": 24,
         "Name": "Mike Smith",
         "Average": 196,
         "Division": 1,
@@ -6804,7 +6822,7 @@
         "_id": "Men's Doubles_Mike Smith"
     },
     {
-        "Lane": 24,
+        "Lane": 25,
         "Name": "Marcelo Mitre",
         "Average": 149,
         "Division": 1,
@@ -6813,7 +6831,7 @@
         "_id": "Men's Doubles_Marcelo Mitre"
     },
     {
-        "Lane": 24,
+        "Lane": 25,
         "Name": "Jeff Mitre",
         "Average": 190,
         "Division": 1,
@@ -6822,7 +6840,7 @@
         "_id": "Men's Doubles_Jeff Mitre"
     },
     {
-        "Lane": 25,
+        "Lane": 26,
         "Name": "Don Jordan",
         "Average": 160,
         "Division": 1,
@@ -6831,7 +6849,7 @@
         "_id": "Men's Doubles_Don Jordan"
     },
     {
-        "Lane": 25,
+        "Lane": 26,
         "Name": "Harold Okino",
         "Average": 180,
         "Division": 1,
@@ -6840,7 +6858,7 @@
         "_id": "Men's Doubles_Harold Okino"
     },
     {
-        "Lane": 26,
+        "Lane": 27,
         "Name": "Garrett Furuta",
         "Average": 147,
         "Division": 1,
@@ -6849,31 +6867,13 @@
         "_id": "Men's Doubles_Garrett Furuta"
     },
     {
-        "Lane": 26,
+        "Lane": 27,
         "Name": "Russell Kame",
         "Average": 193,
         "Division": 1,
         "Score": [],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Russell Kame"
-    },
-    {
-        "Lane": 27,
-        "Name": "Ken Kinoshita",
-        "Average": 168,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Ken Kinoshita"
-    },
-    {
-        "Lane": 27,
-        "Name": "Ross Yamasaki",
-        "Average": 175,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Ross Yamasaki"
     },
     {
         "Lane": 28,
@@ -6895,258 +6895,24 @@
     },
     {
         "Lane": 29,
-        "Name": "Garrick Shishido",
-        "Average": 136,
+        "Name": "Kevin Sato",
+        "Average": 120,
         "Division": 1,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Garrick Shishido"
+        "_id": "Men's Doubles_Kevin Sato"
     },
     {
         "Lane": 29,
-        "Name": "Wayne Nagasawa",
-        "Average": 156,
+        "Name": "Kirk Terashima",
+        "Average": 171,
         "Division": 1,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Wayne Nagasawa"
+        "_id": "Men's Doubles_Kirk Terashima"
     },
     {
         "Lane": 1,
-        "Name": "Gary Sato",
-        "Average": 176,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Gary Sato"
-    },
-    {
-        "Lane": 1,
-        "Name": "Terry Matsumoto",
-        "Average": 173,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Terry Matsumoto"
-    },
-    {
-        "Lane": 2,
-        "Name": "Stacy Sakumoto",
-        "Average": 169,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Stacy Sakumoto"
-    },
-    {
-        "Lane": 2,
-        "Name": "Russell Horikawa",
-        "Average": 182,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Russell Horikawa"
-    },
-    {
-        "Lane": 3,
-        "Name": "Jeff Hasegawa",
-        "Average": 179,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Jeff Hasegawa"
-    },
-    {
-        "Lane": 3,
-        "Name": "Gordon Kiyokawa",
-        "Average": 173,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Gordon Kiyokawa"
-    },
-    {
-        "Lane": 4,
-        "Name": "James Kahuhu",
-        "Average": 177,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_James Kahuhu"
-    },
-    {
-        "Lane": 4,
-        "Name": "Daron Sugiyama",
-        "Average": 176,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Daron Sugiyama"
-    },
-    {
-        "Lane": 5,
-        "Name": "Wayne Mayeda",
-        "Average": 169,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Wayne Mayeda"
-    },
-    {
-        "Lane": 5,
-        "Name": "Matt Masukawa",
-        "Average": 186,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Matt Masukawa"
-    },
-    {
-        "Lane": 6,
-        "Name": "Perry Kiyokawa",
-        "Average": 171,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Perry Kiyokawa"
-    },
-    {
-        "Lane": 6,
-        "Name": "Stephen Yamasaki",
-        "Average": 184,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Stephen Yamasaki"
-    },
-    {
-        "Lane": 7,
-        "Name": "Robert Ho",
-        "Average": 176,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Robert Ho"
-    },
-    {
-        "Lane": 7,
-        "Name": "John Mizutani",
-        "Average": 181,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_John Mizutani"
-    },
-    {
-        "Lane": 8,
-        "Name": "Andy Kiyokawa",
-        "Average": 174,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Andy Kiyokawa"
-    },
-    {
-        "Lane": 8,
-        "Name": "Michael Yee",
-        "Average": 183,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Michael Yee"
-    },
-    {
-        "Lane": 9,
-        "Name": "Kyle Lee",
-        "Average": 175,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kyle Lee"
-    },
-    {
-        "Lane": 9,
-        "Name": "Andy Uyeda",
-        "Average": 183,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Andy Uyeda"
-    },
-    {
-        "Lane": 10,
-        "Name": "Tyler Uyeda",
-        "Average": 167,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Tyler Uyeda"
-    },
-    {
-        "Lane": 10,
-        "Name": "Richard Uyeda",
-        "Average": 191,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Richard Uyeda"
-    },
-    {
-        "Lane": 11,
-        "Name": "Bill Kitagawa",
-        "Average": 166,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Bill Kitagawa"
-    },
-    {
-        "Lane": 11,
-        "Name": "Michael Brewster",
-        "Average": 192,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Michael Brewster"
-    },
-    {
-        "Lane": 12,
-        "Name": "Bryant Fukui",
-        "Average": 181,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Bryant Fukui"
-    },
-    {
-        "Lane": 12,
-        "Name": "Dewaine Higa",
-        "Average": 178,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Dewaine Higa"
-    },
-    {
-        "Lane": 13,
-        "Name": "Dereck Heresa",
-        "Average": 171,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Dereck Heresa"
-    },
-    {
-        "Lane": 13,
-        "Name": "Marcus Heresa",
-        "Average": 175,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Marcus Heresa"
-    },
-    {
-        "Lane": 14,
         "Name": "Lucas Erickson",
         "Average": 159,
         "Division": 2,
@@ -7155,7 +6921,7 @@
         "_id": "Men's Doubles_Lucas Erickson"
     },
     {
-        "Lane": 14,
+        "Lane": 1,
         "Name": "Kris Kato",
         "Average": 190,
         "Division": 2,
@@ -7164,223 +6930,241 @@
         "_id": "Men's Doubles_Kris Kato"
     },
     {
-        "Lane": 15,
-        "Name": "Johnny Uyeda",
-        "Average": 183,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Johnny Uyeda"
-    },
-    {
-        "Lane": 15,
-        "Name": "John Lee",
-        "Average": 178,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_John Lee"
-    },
-    {
-        "Lane": 16,
-        "Name": "Kevin Sato",
-        "Average": 190,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kevin Sato"
-    },
-    {
-        "Lane": 16,
-        "Name": "Kirk Terashima",
-        "Average": 171,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kirk Terashima"
-    },
-    {
-        "Lane": 17,
-        "Name": "Wallace Yamamoto",
+        "Lane": 2,
+        "Name": "Gary Sato",
         "Average": 176,
-        "Division": 3,
+        "Division": 2,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Wallace Yamamoto"
+        "_id": "Men's Doubles_Gary Sato"
     },
     {
-        "Lane": 17,
-        "Name": "Ryan Ho",
-        "Average": 185,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Ryan Ho"
-    },
-    {
-        "Lane": 18,
-        "Name": "Richard Ho",
-        "Average": 189,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Richard Ho"
-    },
-    {
-        "Lane": 18,
-        "Name": "Dale Okazaki",
+        "Lane": 2,
+        "Name": "Terry Matsumoto",
         "Average": 173,
-        "Division": 3,
+        "Division": 2,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Dale Okazaki"
+        "_id": "Men's Doubles_Terry Matsumoto"
     },
     {
-        "Lane": 19,
-        "Name": "Bradley Kitaoka",
-        "Average": 162,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Bradley Kitaoka"
-    },
-    {
-        "Lane": 19,
-        "Name": "Craig Kitaoka",
-        "Average": 200,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Craig Kitaoka"
-    },
-    {
-        "Lane": 20,
-        "Name": "Gary Nishikawa",
-        "Average": 186,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Gary Nishikawa"
-    },
-    {
-        "Lane": 20,
-        "Name": "Everett Nishikawa",
-        "Average": 177,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Everett Nishikawa"
-    },
-    {
-        "Lane": 21,
-        "Name": "Jun Kataoka",
-        "Average": 186,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Jun Kataoka"
-    },
-    {
-        "Lane": 21,
-        "Name": "Keith Sasada",
-        "Average": 178,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Keith Sasada"
-    },
-    {
-        "Lane": 22,
-        "Name": "Doug Muneta",
-        "Average": 176,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Doug Muneta"
-    },
-    {
-        "Lane": 22,
-        "Name": "Rob Yano",
-        "Average": 189,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Rob Yano"
-    },
-    {
-        "Lane": 23,
-        "Name": "Ray Tamura",
-        "Average": 197,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Ray Tamura"
-    },
-    {
-        "Lane": 23,
-        "Name": "Jay Tsutsui",
-        "Average": 169,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Jay Tsutsui"
-    },
-    {
-        "Lane": 24,
-        "Name": "Reid Shishido",
-        "Average": 203,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Reid Shishido"
-    },
-    {
-        "Lane": 24,
-        "Name": "Larry Flannigan",
-        "Average": 163,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Larry Flannigan"
-    },
-    {
-        "Lane": 25,
-        "Name": "Robert Schmaling",
+        "Lane": 3,
+        "Name": "Dan Nakamura",
         "Average": 166,
-        "Division": 3,
+        "Division": 2,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Robert Schmaling"
+        "_id": "Men's Doubles_Dan Nakamura"
     },
     {
-        "Lane": 25,
-        "Name": "Chuck King",
-        "Average": 201,
-        "Division": 3,
+        "Lane": 3,
+        "Name": "Stuart Kawachi",
+        "Average": 183,
+        "Division": 2,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Chuck King"
+        "_id": "Men's Doubles_Stuart Kawachi"
     },
     {
-        "Lane": 26,
-        "Name": "Kyle Uno",
-        "Average": 186,
-        "Division": 3,
+        "Lane": 4,
+        "Name": "Stacy Sakumoto",
+        "Average": 169,
+        "Division": 2,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kyle Uno"
+        "_id": "Men's Doubles_Stacy Sakumoto"
     },
     {
-        "Lane": 26,
-        "Name": "Jeff Uno",
+        "Lane": 4,
+        "Name": "Russell Horikawa",
         "Average": 182,
-        "Division": 3,
+        "Division": 2,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Jeff Uno"
+        "_id": "Men's Doubles_Russell Horikawa"
     },
     {
-        "Lane": 27,
+        "Lane": 5,
+        "Name": "Jeff Hasegawa",
+        "Average": 179,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Jeff Hasegawa"
+    },
+    {
+        "Lane": 5,
+        "Name": "Gordon Kiyokawa",
+        "Average": 173,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Gordon Kiyokawa"
+    },
+    {
+        "Lane": 6,
+        "Name": "James Kahuhu",
+        "Average": 177,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_James Kahuhu"
+    },
+    {
+        "Lane": 6,
+        "Name": "Daron Sugiyama",
+        "Average": 176,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Daron Sugiyama"
+    },
+    {
+        "Lane": 7,
+        "Name": "Wayne Mayeda",
+        "Average": 169,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Wayne Mayeda"
+    },
+    {
+        "Lane": 7,
+        "Name": "Matt Masukawa",
+        "Average": 186,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Matt Masukawa"
+    },
+    {
+        "Lane": 8,
+        "Name": "Perry Kiyokawa",
+        "Average": 171,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Perry Kiyokawa"
+    },
+    {
+        "Lane": 8,
+        "Name": "Stephen Yamasaki",
+        "Average": 184,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Stephen Yamasaki"
+    },
+    {
+        "Lane": 9,
+        "Name": "Robert Ho",
+        "Average": 176,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Robert Ho"
+    },
+    {
+        "Lane": 9,
+        "Name": "John Mizutani",
+        "Average": 181,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_John Mizutani"
+    },
+    {
+        "Lane": 10,
+        "Name": "Andy Kiyokawa",
+        "Average": 174,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Andy Kiyokawa"
+    },
+    {
+        "Lane": 10,
+        "Name": "Michael Yee",
+        "Average": 183,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Michael Yee"
+    },
+    {
+        "Lane": 11,
+        "Name": "Kyle Lee",
+        "Average": 175,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Kyle Lee"
+    },
+    {
+        "Lane": 11,
+        "Name": "Andy Uyeda",
+        "Average": 183,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Andy Uyeda"
+    },
+    {
+        "Lane": 12,
+        "Name": "Tyler Uyeda",
+        "Average": 167,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Tyler Uyeda"
+    },
+    {
+        "Lane": 12,
+        "Name": "Richard Uyeda",
+        "Average": 191,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Richard Uyeda"
+    },
+    {
+        "Lane": 13,
+        "Name": "Ken Kinoshita",
+        "Average": 168,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Ken Kinoshita"
+    },
+    {
+        "Lane": 13,
+        "Name": "Ross Yamasaki",
+        "Average": 175,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Ross Yamasaki"
+    },
+    {
+        "Lane": 14,
+        "Name": "Dereck Heresa",
+        "Average": 171,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Dereck Heresa"
+    },
+    {
+        "Lane": 14,
+        "Name": "Marcus Heresa",
+        "Average": 175,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Marcus Heresa"
+    },
+    {
+        "Lane": 15,
         "Name": "Don Furuya",
         "Average": 162,
         "Division": 3,
@@ -7389,7 +7173,7 @@
         "_id": "Men's Doubles_Don Furuya"
     },
     {
-        "Lane": 27,
+        "Lane": 15,
         "Name": "Anthony Madrona",
         "Average": 197,
         "Division": 3,
@@ -7398,7 +7182,7 @@
         "_id": "Men's Doubles_Anthony Madrona"
     },
     {
-        "Lane": 28,
+        "Lane": 16,
         "Name": "Rick De Guzman",
         "Average": 175,
         "Division": 3,
@@ -7407,7 +7191,7 @@
         "_id": "Men's Doubles_Rick De Guzman"
     },
     {
-        "Lane": 28,
+        "Lane": 16,
         "Name": "Scott Miyamoto",
         "Average": 185,
         "Division": 3,
@@ -7416,22 +7200,238 @@
         "_id": "Men's Doubles_Scott Miyamoto"
     },
     {
-        "Lane": 1,
-        "Name": "Dan Nakamura",
-        "Average": 190,
-        "Division": 4,
+        "Lane": 17,
+        "Name": "Johnny Uyeda",
+        "Average": 183,
+        "Division": 3,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Dan Nakamura"
+        "_id": "Men's Doubles_Johnny Uyeda"
+    },
+    {
+        "Lane": 17,
+        "Name": "John Lee",
+        "Average": 178,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_John Lee"
+    },
+    {
+        "Lane": 18,
+        "Name": "Wallace Yamamoto",
+        "Average": 176,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Wallace Yamamoto"
+    },
+    {
+        "Lane": 18,
+        "Name": "Ryan Ho",
+        "Average": 185,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Ryan Ho"
+    },
+    {
+        "Lane": 19,
+        "Name": "Richard Ho",
+        "Average": 189,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Richard Ho"
+    },
+    {
+        "Lane": 19,
+        "Name": "Dale Okazaki",
+        "Average": 173,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Dale Okazaki"
+    },
+    {
+        "Lane": 20,
+        "Name": "Bradley Kitaoka",
+        "Average": 162,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Bradley Kitaoka"
+    },
+    {
+        "Lane": 20,
+        "Name": "Craig Kitaoka",
+        "Average": 200,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Craig Kitaoka"
+    },
+    {
+        "Lane": 21,
+        "Name": "Gary Nishikawa",
+        "Average": 186,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Gary Nishikawa"
+    },
+    {
+        "Lane": 21,
+        "Name": "Everett Nishikawa",
+        "Average": 177,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Everett Nishikawa"
+    },
+    {
+        "Lane": 22,
+        "Name": "Jun Kataoka",
+        "Average": 186,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Jun Kataoka"
+    },
+    {
+        "Lane": 22,
+        "Name": "Keith Sasada",
+        "Average": 178,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Keith Sasada"
+    },
+    {
+        "Lane": 23,
+        "Name": "Doug Muneta",
+        "Average": 176,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Doug Muneta"
+    },
+    {
+        "Lane": 23,
+        "Name": "Rob Yano",
+        "Average": 189,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Rob Yano"
+    },
+    {
+        "Lane": 24,
+        "Name": "Ray Tamura",
+        "Average": 197,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Ray Tamura"
+    },
+    {
+        "Lane": 24,
+        "Name": "Jay Tsutsui",
+        "Average": 169,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Jay Tsutsui"
+    },
+    {
+        "Lane": 25,
+        "Name": "Reid Shishido",
+        "Average": 203,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Reid Shishido"
+    },
+    {
+        "Lane": 25,
+        "Name": "Larry Flannigan",
+        "Average": 163,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Larry Flannigan"
+    },
+    {
+        "Lane": 26,
+        "Name": "Robert Schmaling",
+        "Average": 166,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Robert Schmaling"
+    },
+    {
+        "Lane": 26,
+        "Name": "Chuck King",
+        "Average": 201,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Chuck King"
+    },
+    {
+        "Lane": 27,
+        "Name": "Bill Kitagawa",
+        "Average": 166,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Bill Kitagawa"
+    },
+    {
+        "Lane": 27,
+        "Name": "Michael Brewster",
+        "Average": 192,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Michael Brewster"
+    },
+    {
+        "Lane": 28,
+        "Name": "Bryant Fukui",
+        "Average": 181,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Bryant Fukui"
+    },
+    {
+        "Lane": 28,
+        "Name": "Dewaine Higa",
+        "Average": 178,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Dewaine Higa"
     },
     {
         "Lane": 1,
-        "Name": "Stuart Kawachi",
-        "Average": 183,
+        "Name": "Scott Watanabe - SJ",
+        "Average": 184,
         "Division": 4,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Stuart Kawachi"
+        "_id": "Men's Doubles_Scott Watanabe - SJ"
+    },
+    {
+        "Lane": 1,
+        "Name": "Dale Ando",
+        "Average": 189,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Dale Ando"
     },
     {
         "Lane": 2,
@@ -7633,6 +7633,24 @@
     },
     {
         "Lane": 13,
+        "Name": "Kyle Uno",
+        "Average": 186,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Kyle Uno"
+    },
+    {
+        "Lane": 13,
+        "Name": "Jeff Uno",
+        "Average": 182,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Jeff Uno"
+    },
+    {
+        "Lane": 14,
         "Name": "Henry Isefuku",
         "Average": 185,
         "Division": 4,
@@ -7641,31 +7659,13 @@
         "_id": "Men's Doubles_Henry Isefuku"
     },
     {
-        "Lane": 13,
+        "Lane": 14,
         "Name": "Craig Horita",
         "Average": 185,
         "Division": 4,
         "Score": [],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Craig Horita"
-    },
-    {
-        "Lane": 14,
-        "Name": "Scott Watanabe - SJ",
-        "Average": 184,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Scott Watanabe - SJ"
-    },
-    {
-        "Lane": 14,
-        "Name": "Dale Ando",
-        "Average": 189,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Dale Ando"
     },
     {
         "Lane": 15,
@@ -7831,42 +7831,6 @@
     },
     {
         "Lane": 24,
-        "Name": "Mike Uyekubo",
-        "Average": 198,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Mike Uyekubo"
-    },
-    {
-        "Lane": 24,
-        "Name": "Brian Uchino",
-        "Average": 198,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Brian Uchino"
-    },
-    {
-        "Lane": 25,
-        "Name": "Kyle Ortiz",
-        "Average": 186,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kyle Ortiz"
-    },
-    {
-        "Lane": 25,
-        "Name": "Bernard Factora",
-        "Average": 211,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Bernard Factora"
-    },
-    {
-        "Lane": 26,
         "Name": "Kento Hirata",
         "Average": 197,
         "Division": 5,
@@ -7875,13 +7839,49 @@
         "_id": "Men's Doubles_Kento Hirata"
     },
     {
-        "Lane": 26,
+        "Lane": 24,
         "Name": "Jeffrey Hirata",
         "Average": 201,
         "Division": 5,
         "Score": [],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeffrey Hirata"
+    },
+    {
+        "Lane": 25,
+        "Name": "Ken Wing",
+        "Average": 197,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Ken Wing"
+    },
+    {
+        "Lane": 25,
+        "Name": "Chuck Kimura",
+        "Average": 201,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Chuck Kimura"
+    },
+    {
+        "Lane": 26,
+        "Name": "Mike Uyekubo",
+        "Average": 199,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Mike Uyekubo"
+    },
+    {
+        "Lane": 26,
+        "Name": "Brian Uchino",
+        "Average": 199,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Brian Uchino"
     },
     {
         "Lane": 27,
@@ -7921,24 +7921,6 @@
     },
     {
         "Lane": 1,
-        "Name": "John Vargas",
-        "Average": 180,
-        "Division": 6,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_John Vargas"
-    },
-    {
-        "Lane": 1,
-        "Name": "Kurt Arakaki",
-        "Average": 220,
-        "Division": 6,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kurt Arakaki"
-    },
-    {
-        "Lane": 2,
         "Name": "Jordan Mayeda",
         "Average": 204,
         "Division": 6,
@@ -7947,7 +7929,7 @@
         "_id": "Men's Doubles_Jordan Mayeda"
     },
     {
-        "Lane": 2,
+        "Lane": 1,
         "Name": "Greg Mayeda",
         "Average": 196,
         "Division": 6,
@@ -7956,7 +7938,7 @@
         "_id": "Men's Doubles_Greg Mayeda"
     },
     {
-        "Lane": 3,
+        "Lane": 2,
         "Name": "Stan Eshima",
         "Average": 194,
         "Division": 6,
@@ -7965,7 +7947,7 @@
         "_id": "Men's Doubles_Stan Eshima"
     },
     {
-        "Lane": 3,
+        "Lane": 2,
         "Name": "Owen Kuribayashi",
         "Average": 207,
         "Division": 6,
@@ -7974,7 +7956,7 @@
         "_id": "Men's Doubles_Owen Kuribayashi"
     },
     {
-        "Lane": 4,
+        "Lane": 3,
         "Name": "Robert Wada",
         "Average": 190,
         "Division": 6,
@@ -7983,7 +7965,7 @@
         "_id": "Men's Doubles_Robert Wada"
     },
     {
-        "Lane": 4,
+        "Lane": 3,
         "Name": "Bruce Sunada",
         "Average": 211,
         "Division": 6,
@@ -7992,7 +7974,7 @@
         "_id": "Men's Doubles_Bruce Sunada"
     },
     {
-        "Lane": 5,
+        "Lane": 4,
         "Name": "Greg Mori",
         "Average": 192,
         "Division": 6,
@@ -8001,7 +7983,7 @@
         "_id": "Men's Doubles_Greg Mori"
     },
     {
-        "Lane": 5,
+        "Lane": 4,
         "Name": "Jody Kawamura",
         "Average": 211,
         "Division": 6,
@@ -8010,7 +7992,7 @@
         "_id": "Men's Doubles_Jody Kawamura"
     },
     {
-        "Lane": 6,
+        "Lane": 5,
         "Name": "Mike Asuncion",
         "Average": 218,
         "Division": 6,
@@ -8019,7 +8001,7 @@
         "_id": "Men's Doubles_Mike Asuncion"
     },
     {
-        "Lane": 6,
+        "Lane": 5,
         "Name": "Russ Furuya",
         "Average": 185,
         "Division": 6,
@@ -8028,7 +8010,7 @@
         "_id": "Men's Doubles_Russ Furuya"
     },
     {
-        "Lane": 7,
+        "Lane": 6,
         "Name": "Alan Tosaya",
         "Average": 192,
         "Division": 6,
@@ -8037,7 +8019,7 @@
         "_id": "Men's Doubles_Alan Tosaya"
     },
     {
-        "Lane": 7,
+        "Lane": 6,
         "Name": "Gary Tosaya",
         "Average": 212,
         "Division": 6,
@@ -8046,7 +8028,7 @@
         "_id": "Men's Doubles_Gary Tosaya"
     },
     {
-        "Lane": 8,
+        "Lane": 7,
         "Name": "Jeff Okumura",
         "Average": 197,
         "Division": 6,
@@ -8055,7 +8037,7 @@
         "_id": "Men's Doubles_Jeff Okumura"
     },
     {
-        "Lane": 8,
+        "Lane": 7,
         "Name": "Blaine Yoshimura",
         "Average": 208,
         "Division": 6,
@@ -8064,7 +8046,7 @@
         "_id": "Men's Doubles_Blaine Yoshimura"
     },
     {
-        "Lane": 9,
+        "Lane": 8,
         "Name": "Kevin Kawaoka",
         "Average": 194,
         "Division": 6,
@@ -8073,7 +8055,7 @@
         "_id": "Men's Doubles_Kevin Kawaoka"
     },
     {
-        "Lane": 9,
+        "Lane": 8,
         "Name": "Danny Hirota",
         "Average": 211,
         "Division": 6,
@@ -8082,7 +8064,7 @@
         "_id": "Men's Doubles_Danny Hirota"
     },
     {
-        "Lane": 10,
+        "Lane": 9,
         "Name": "Corey Taniguchi",
         "Average": 201,
         "Division": 6,
@@ -8091,7 +8073,7 @@
         "_id": "Men's Doubles_Corey Taniguchi"
     },
     {
-        "Lane": 10,
+        "Lane": 9,
         "Name": "Michael Shimotsu",
         "Average": 206,
         "Division": 6,
@@ -8100,7 +8082,7 @@
         "_id": "Men's Doubles_Michael Shimotsu"
     },
     {
-        "Lane": 11,
+        "Lane": 10,
         "Name": "Chad Itami",
         "Average": 199,
         "Division": 6,
@@ -8109,7 +8091,7 @@
         "_id": "Men's Doubles_Chad Itami"
     },
     {
-        "Lane": 11,
+        "Lane": 10,
         "Name": "Chris Springfels",
         "Average": 208,
         "Division": 6,
@@ -8118,7 +8100,7 @@
         "_id": "Men's Doubles_Chris Springfels"
     },
     {
-        "Lane": 12,
+        "Lane": 11,
         "Name": "Justin Uyemura",
         "Average": 203,
         "Division": 6,
@@ -8127,7 +8109,7 @@
         "_id": "Men's Doubles_Justin Uyemura"
     },
     {
-        "Lane": 12,
+        "Lane": 11,
         "Name": "Brad Uyemura",
         "Average": 205,
         "Division": 6,
@@ -8136,25 +8118,25 @@
         "_id": "Men's Doubles_Brad Uyemura"
     },
     {
-        "Lane": 13,
-        "Name": "Ken Wing",
-        "Average": 197,
+        "Lane": 12,
+        "Name": "Chris Yoshida",
+        "Average": 185,
         "Division": 6,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Ken Wing"
+        "_id": "Men's Doubles_Chris Yoshida"
     },
     {
-        "Lane": 13,
-        "Name": "Chuck Kimura",
-        "Average": 201,
+        "Lane": 12,
+        "Name": "Corey Tokunaga-Reichert",
+        "Average": 223,
         "Division": 6,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Chuck Kimura"
+        "_id": "Men's Doubles_Corey Tokunaga-Reichert"
     },
     {
-        "Lane": 14,
+        "Lane": 13,
         "Name": "Devin Tsumura",
         "Average": 190,
         "Division": 6,
@@ -8163,7 +8145,7 @@
         "_id": "Men's Doubles_Devin Tsumura"
     },
     {
-        "Lane": 14,
+        "Lane": 13,
         "Name": "Darren Tsumura",
         "Average": 210,
         "Division": 6,
@@ -8172,25 +8154,25 @@
         "_id": "Men's Doubles_Darren Tsumura"
     },
     {
-        "Lane": 15,
-        "Name": "Chris Heins",
-        "Average": 202,
-        "Division": 7,
+        "Lane": 14,
+        "Name": "John Vargas",
+        "Average": 180,
+        "Division": 6,
         "Score": [],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Chris Heins"
+        "_id": "Men's Doubles_John Vargas"
+    },
+    {
+        "Lane": 14,
+        "Name": "Kurt Arakaki",
+        "Average": 220,
+        "Division": 6,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Kurt Arakaki"
     },
     {
         "Lane": 15,
-        "Name": "Max Onoe",
-        "Average": 207,
-        "Division": 7,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Max Onoe"
-    },
-    {
-        "Lane": 16,
         "Name": "Jeff Kaneshige",
         "Average": 199,
         "Division": 7,
@@ -8199,7 +8181,7 @@
         "_id": "Men's Doubles_Jeff Kaneshige"
     },
     {
-        "Lane": 16,
+        "Lane": 15,
         "Name": "Brian Kaneshige",
         "Average": 211,
         "Division": 7,
@@ -8208,7 +8190,7 @@
         "_id": "Men's Doubles_Brian Kaneshige"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Morgan Kimoto",
         "Average": 201,
         "Division": 7,
@@ -8217,13 +8199,31 @@
         "_id": "Men's Doubles_Morgan Kimoto"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Ron Montano",
         "Average": 209,
         "Division": 7,
         "Score": [],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ron Montano"
+    },
+    {
+        "Lane": 17,
+        "Name": "Kyle Ortiz",
+        "Average": 201,
+        "Division": 7,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Kyle Ortiz"
+    },
+    {
+        "Lane": 17,
+        "Name": "Bernard Factora",
+        "Average": 211,
+        "Division": 7,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Bernard Factora"
     },
     {
         "Lane": 18,
@@ -8389,24 +8389,6 @@
     },
     {
         "Lane": 27,
-        "Name": "Chris Yoshida",
-        "Average": 185,
-        "Division": 7,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Chris Yoshida"
-    },
-    {
-        "Lane": 27,
-        "Name": "Corey Tokunaga-Reichert",
-        "Average": 223,
-        "Division": 7,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Corey Tokunaga-Reichert"
-    },
-    {
-        "Lane": 28,
         "Name": "Keith Kurihara",
         "Average": 189,
         "Division": 7,
@@ -8415,13 +8397,31 @@
         "_id": "Men's Doubles_Keith Kurihara"
     },
     {
-        "Lane": 28,
+        "Lane": 27,
         "Name": "Ryan Wong",
         "Average": 220,
         "Division": 7,
         "Score": [],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ryan Wong"
+    },
+    {
+        "Lane": 28,
+        "Name": "Chris Heins",
+        "Average": 202,
+        "Division": 7,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Chris Heins"
+    },
+    {
+        "Lane": 28,
+        "Name": "Max Onoe",
+        "Average": 207,
+        "Division": 7,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Max Onoe"
     },
     {
         "Lane": 1,
@@ -9217,24 +9217,6 @@
     },
     {
         "Lane": 15,
-        "Name": "Frances Tanaka",
-        "Average": 164,
-        "Division": 3,
-        "Score": [],
-        "Event": "Women's Doubles",
-        "_id": "Women's Doubles_Frances Tanaka"
-    },
-    {
-        "Lane": 15,
-        "Name": "Sherri Schmaling",
-        "Average": 176,
-        "Division": 3,
-        "Score": [],
-        "Event": "Women's Doubles",
-        "_id": "Women's Doubles_Sherri Schmaling"
-    },
-    {
-        "Lane": 16,
         "Name": "Wendy Nagasawa",
         "Average": 155,
         "Division": 3,
@@ -9243,7 +9225,7 @@
         "_id": "Women's Doubles_Wendy Nagasawa"
     },
     {
-        "Lane": 16,
+        "Lane": 15,
         "Name": "Krissy Nagasawa",
         "Average": 185,
         "Division": 3,
@@ -9252,7 +9234,7 @@
         "_id": "Women's Doubles_Krissy Nagasawa"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Holly Itami-Springfels",
         "Average": 161,
         "Division": 3,
@@ -9261,7 +9243,7 @@
         "_id": "Women's Doubles_Holly Itami-Springfels"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Kimberly Walker",
         "Average": 179,
         "Division": 3,
@@ -9270,7 +9252,7 @@
         "_id": "Women's Doubles_Kimberly Walker"
     },
     {
-        "Lane": 18,
+        "Lane": 17,
         "Name": "Rumi Marsh",
         "Average": 166,
         "Division": 3,
@@ -9279,7 +9261,7 @@
         "_id": "Women's Doubles_Rumi Marsh"
     },
     {
-        "Lane": 18,
+        "Lane": 17,
         "Name": "Ayame Yokomizo",
         "Average": 175,
         "Division": 3,
@@ -9288,7 +9270,7 @@
         "_id": "Women's Doubles_Ayame Yokomizo"
     },
     {
-        "Lane": 19,
+        "Lane": 18,
         "Name": "Kristi Thompson",
         "Average": 166,
         "Division": 3,
@@ -9297,7 +9279,7 @@
         "_id": "Women's Doubles_Kristi Thompson"
     },
     {
-        "Lane": 19,
+        "Lane": 18,
         "Name": "Nikka Lee",
         "Average": 178,
         "Division": 3,
@@ -9306,7 +9288,7 @@
         "_id": "Women's Doubles_Nikka Lee"
     },
     {
-        "Lane": 20,
+        "Lane": 19,
         "Name": "Renee Matsutani",
         "Average": 162,
         "Division": 3,
@@ -9315,13 +9297,31 @@
         "_id": "Women's Doubles_Renee Matsutani"
     },
     {
-        "Lane": 20,
+        "Lane": 19,
         "Name": "Yako McDonnell",
         "Average": 182,
         "Division": 3,
         "Score": [],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Yako McDonnell"
+    },
+    {
+        "Lane": 20,
+        "Name": "Monica Tajiri",
+        "Average": 172,
+        "Division": 3,
+        "Score": [],
+        "Event": "Women's Doubles",
+        "_id": "Women's Doubles_Monica Tajiri"
+    },
+    {
+        "Lane": 20,
+        "Name": "Tarika Onishi",
+        "Average": 175,
+        "Division": 3,
+        "Score": [],
+        "Event": "Women's Doubles",
+        "_id": "Women's Doubles_Tarika Onishi"
     },
     {
         "Lane": 21,
@@ -9433,24 +9433,6 @@
     },
     {
         "Lane": 27,
-        "Name": "Monica Tajiri",
-        "Average": 170,
-        "Division": 3,
-        "Score": [],
-        "Event": "Women's Doubles",
-        "_id": "Women's Doubles_Monica Tajiri"
-    },
-    {
-        "Lane": 27,
-        "Name": "Tarika Onishi",
-        "Average": 167,
-        "Division": 3,
-        "Score": [],
-        "Event": "Women's Doubles",
-        "_id": "Women's Doubles_Tarika Onishi"
-    },
-    {
-        "Lane": 28,
         "Name": "Katie Onoe",
         "Average": 167,
         "Division": 3,
@@ -9459,13 +9441,31 @@
         "_id": "Women's Doubles_Katie Onoe"
     },
     {
-        "Lane": 28,
+        "Lane": 27,
         "Name": "Mayumi Florek",
         "Average": 173,
         "Division": 3,
         "Score": [],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Mayumi Florek"
+    },
+    {
+        "Lane": 28,
+        "Name": "Frances Tanaka",
+        "Average": 164,
+        "Division": 3,
+        "Score": [],
+        "Event": "Women's Doubles",
+        "_id": "Women's Doubles_Frances Tanaka"
+    },
+    {
+        "Lane": 28,
+        "Name": "Sherri Schmaling",
+        "Average": 176,
+        "Division": 3,
+        "Score": [],
+        "Event": "Women's Doubles",
+        "_id": "Women's Doubles_Sherri Schmaling"
     },
     {
         "Lane": 1,
@@ -9730,21 +9730,12 @@
     },
     {
         "Lane": 1,
-        "Name": "Marcelo Mitre",
-        "Average": 149,
+        "Name": "Dean Sato",
+        "Average": 146,
         "Division": 1,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Marcelo Mitre"
-    },
-    {
-        "Lane": 2,
-        "Name": "Ray Tsuchida",
-        "Average": 154,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Ray Tsuchida"
+        "_id": "Men's Singles_Dean Sato"
     },
     {
         "Lane": 2,
@@ -9756,6 +9747,24 @@
         "_id": "Men's Singles_Brent Onchi"
     },
     {
+        "Lane": 2,
+        "Name": "Marcelo Mitre",
+        "Average": 149,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Marcelo Mitre"
+    },
+    {
+        "Lane": 3,
+        "Name": "Ray Tsuchida",
+        "Average": 154,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Ray Tsuchida"
+    },
+    {
         "Lane": 3,
         "Name": "Kaz Sato",
         "Average": 154,
@@ -9763,24 +9772,6 @@
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kaz Sato"
-    },
-    {
-        "Lane": 3,
-        "Name": "Wayne Nagasawa",
-        "Average": 156,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Wayne Nagasawa"
-    },
-    {
-        "Lane": 4,
-        "Name": "Patrick Oki",
-        "Average": 158,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Patrick Oki"
     },
     {
         "Lane": 4,
@@ -9792,13 +9783,13 @@
         "_id": "Men's Singles_Bruce Hashimoto"
     },
     {
-        "Lane": 5,
-        "Name": "Don Jordan",
-        "Average": 160,
+        "Lane": 4,
+        "Name": "Wayne Nagasawa",
+        "Average": 156,
         "Division": 1,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Don Jordan"
+        "_id": "Men's Singles_Wayne Nagasawa"
     },
     {
         "Lane": 5,
@@ -9808,6 +9799,15 @@
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Garrett Yoshimoto"
+    },
+    {
+        "Lane": 5,
+        "Name": "Patrick Oki",
+        "Average": 158,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Patrick Oki"
     },
     {
         "Lane": 6,
@@ -9820,6 +9820,15 @@
     },
     {
         "Lane": 6,
+        "Name": "Don Jordan",
+        "Average": 160,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Don Jordan"
+    },
+    {
+        "Lane": 7,
         "Name": "Don Furuya",
         "Average": 162,
         "Division": 1,
@@ -9837,24 +9846,6 @@
         "_id": "Men's Singles_Larry Flannigan"
     },
     {
-        "Lane": 7,
-        "Name": "Raymond Kinoshita",
-        "Average": 163,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Raymond Kinoshita"
-    },
-    {
-        "Lane": 8,
-        "Name": "Ryan Tamura",
-        "Average": 165,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Ryan Tamura"
-    },
-    {
         "Lane": 8,
         "Name": "Uriel Engle",
         "Average": 164,
@@ -9864,31 +9855,40 @@
         "_id": "Men's Singles_Uriel Engle"
     },
     {
+        "Lane": 8,
+        "Name": "Raymond Kinoshita",
+        "Average": 163,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Raymond Kinoshita"
+    },
+    {
         "Lane": 9,
+        "Name": "Ryan Tamura",
+        "Average": 165,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Ryan Tamura"
+    },
+    {
+        "Lane": 9,
+        "Name": "Dan Nakamura",
+        "Average": 166,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Dan Nakamura"
+    },
+    {
+        "Lane": 10,
         "Name": "Randy Pearson",
         "Average": 167,
         "Division": 1,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Randy Pearson"
-    },
-    {
-        "Lane": 9,
-        "Name": "Aki Kim",
-        "Average": 166,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Aki Kim"
-    },
-    {
-        "Lane": 10,
-        "Name": "Ray Nakagawa",
-        "Average": 168,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Ray Nakagawa"
     },
     {
         "Lane": 10,
@@ -9910,21 +9910,21 @@
     },
     {
         "Lane": 11,
+        "Name": "Kevin Sato",
+        "Average": 120,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Kevin Sato"
+    },
+    {
+        "Lane": 12,
         "Name": "Christopher Peace",
         "Average": 130,
         "Division": 1,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Christopher Peace"
-    },
-    {
-        "Lane": 12,
-        "Name": "Tyler Haller",
-        "Average": 140,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Tyler Haller"
     },
     {
         "Lane": 12,
@@ -9937,12 +9937,12 @@
     },
     {
         "Lane": 13,
-        "Name": "Michael Anzivino",
-        "Average": 141,
+        "Name": "Tyler Haller",
+        "Average": 140,
         "Division": 1,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Michael Anzivino"
+        "_id": "Men's Singles_Tyler Haller"
     },
     {
         "Lane": 13,
@@ -9955,6 +9955,15 @@
     },
     {
         "Lane": 14,
+        "Name": "Michael Anzivino",
+        "Average": 141,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Michael Anzivino"
+    },
+    {
+        "Lane": 14,
         "Name": "Ben E Yamamoto",
         "Average": 146,
         "Division": 1,
@@ -9963,16 +9972,25 @@
         "_id": "Men's Singles_Ben E Yamamoto"
     },
     {
-        "Lane": 14,
-        "Name": "Dean Sato",
-        "Average": 146,
-        "Division": 1,
+        "Lane": 15,
+        "Name": "Dale Okazaki",
+        "Average": 173,
+        "Division": 2,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Dean Sato"
+        "_id": "Men's Singles_Dale Okazaki"
     },
     {
         "Lane": 15,
+        "Name": "Dereck Heresa",
+        "Average": 171,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Dereck Heresa"
+    },
+    {
+        "Lane": 16,
         "Name": "Mason McCool",
         "Average": 173,
         "Division": 2,
@@ -9981,7 +9999,7 @@
         "_id": "Men's Singles_Mason McCool"
     },
     {
-        "Lane": 15,
+        "Lane": 16,
         "Name": "Terry Matsumoto",
         "Average": 173,
         "Division": 2,
@@ -9990,7 +10008,7 @@
         "_id": "Men's Singles_Terry Matsumoto"
     },
     {
-        "Lane": 16,
+        "Lane": 17,
         "Name": "Wayne Wakabayashi",
         "Average": 174,
         "Division": 2,
@@ -9999,7 +10017,7 @@
         "_id": "Men's Singles_Wayne Wakabayashi"
     },
     {
-        "Lane": 16,
+        "Lane": 17,
         "Name": "Gordon Kiyokawa",
         "Average": 173,
         "Division": 2,
@@ -10008,7 +10026,7 @@
         "_id": "Men's Singles_Gordon Kiyokawa"
     },
     {
-        "Lane": 17,
+        "Lane": 18,
         "Name": "Kyle Lee",
         "Average": 175,
         "Division": 2,
@@ -10017,7 +10035,7 @@
         "_id": "Men's Singles_Kyle Lee"
     },
     {
-        "Lane": 17,
+        "Lane": 18,
         "Name": "Andy Kiyokawa",
         "Average": 174,
         "Division": 2,
@@ -10026,7 +10044,7 @@
         "_id": "Men's Singles_Andy Kiyokawa"
     },
     {
-        "Lane": 18,
+        "Lane": 19,
         "Name": "Ross Yamasaki",
         "Average": 175,
         "Division": 2,
@@ -10035,7 +10053,7 @@
         "_id": "Men's Singles_Ross Yamasaki"
     },
     {
-        "Lane": 18,
+        "Lane": 19,
         "Name": "Marcus Heresa",
         "Average": 175,
         "Division": 2,
@@ -10044,7 +10062,7 @@
         "_id": "Men's Singles_Marcus Heresa"
     },
     {
-        "Lane": 19,
+        "Lane": 20,
         "Name": "Dwayn Kim",
         "Average": 175,
         "Division": 2,
@@ -10053,7 +10071,7 @@
         "_id": "Men's Singles_Dwayn Kim"
     },
     {
-        "Lane": 19,
+        "Lane": 20,
         "Name": "Rick De Guzman",
         "Average": 175,
         "Division": 2,
@@ -10062,7 +10080,7 @@
         "_id": "Men's Singles_Rick De Guzman"
     },
     {
-        "Lane": 20,
+        "Lane": 21,
         "Name": "Robert Ho",
         "Average": 176,
         "Division": 2,
@@ -10071,7 +10089,7 @@
         "_id": "Men's Singles_Robert Ho"
     },
     {
-        "Lane": 20,
+        "Lane": 21,
         "Name": "Daron Sugiyama",
         "Average": 176,
         "Division": 2,
@@ -10080,7 +10098,7 @@
         "_id": "Men's Singles_Daron Sugiyama"
     },
     {
-        "Lane": 21,
+        "Lane": 22,
         "Name": "Doug Muneta",
         "Average": 176,
         "Division": 2,
@@ -10089,7 +10107,7 @@
         "_id": "Men's Singles_Doug Muneta"
     },
     {
-        "Lane": 21,
+        "Lane": 22,
         "Name": "Gary Sato",
         "Average": 176,
         "Division": 2,
@@ -10098,7 +10116,7 @@
         "_id": "Men's Singles_Gary Sato"
     },
     {
-        "Lane": 22,
+        "Lane": 23,
         "Name": "James Kahuhu",
         "Average": 177,
         "Division": 2,
@@ -10107,7 +10125,7 @@
         "_id": "Men's Singles_James Kahuhu"
     },
     {
-        "Lane": 22,
+        "Lane": 23,
         "Name": "Wallace Yamamoto",
         "Average": 176,
         "Division": 2,
@@ -10116,31 +10134,13 @@
         "_id": "Men's Singles_Wallace Yamamoto"
     },
     {
-        "Lane": 23,
-        "Name": "Keith Sasada",
-        "Average": 178,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Keith Sasada"
-    },
-    {
-        "Lane": 23,
+        "Lane": 24,
         "Name": "Everett Nishikawa",
         "Average": 177,
         "Division": 2,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Everett Nishikawa"
-    },
-    {
-        "Lane": 24,
-        "Name": "John Lee",
-        "Average": 178,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_John Lee"
     },
     {
         "Lane": 24,
@@ -10153,12 +10153,12 @@
     },
     {
         "Lane": 25,
-        "Name": "Jay Tsutsui",
-        "Average": 169,
+        "Name": "Ray Nakagawa",
+        "Average": 168,
         "Division": 2,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Jay Tsutsui"
+        "_id": "Men's Singles_Ray Nakagawa"
     },
     {
         "Lane": 25,
@@ -10171,6 +10171,15 @@
     },
     {
         "Lane": 26,
+        "Name": "Jay Tsutsui",
+        "Average": 169,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Jay Tsutsui"
+    },
+    {
+        "Lane": 26,
         "Name": "Silas Wilson",
         "Average": 169,
         "Division": 2,
@@ -10179,22 +10188,13 @@
         "_id": "Men's Singles_Silas Wilson"
     },
     {
-        "Lane": 26,
+        "Lane": 27,
         "Name": "Wayne Mayeda",
         "Average": 169,
         "Division": 2,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Wayne Mayeda"
-    },
-    {
-        "Lane": 27,
-        "Name": "Kirk Terashima",
-        "Average": 171,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Kirk Terashima"
     },
     {
         "Lane": 27,
@@ -10207,24 +10207,42 @@
     },
     {
         "Lane": 28,
-        "Name": "Dale Okazaki",
-        "Average": 173,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Dale Okazaki"
-    },
-    {
-        "Lane": 28,
-        "Name": "Dereck Heresa",
+        "Name": "Kirk Terashima",
         "Average": 171,
         "Division": 2,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Dereck Heresa"
+        "_id": "Men's Singles_Kirk Terashima"
+    },
+    {
+        "Lane": 28,
+        "Name": "Aki Kim",
+        "Average": 171,
+        "Division": 2,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Aki Kim"
     },
     {
         "Lane": 1,
+        "Name": "John Mizutani",
+        "Average": 181,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_John Mizutani"
+    },
+    {
+        "Lane": 1,
+        "Name": "Mike Nakamura",
+        "Average": 181,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Mike Nakamura"
+    },
+    {
+        "Lane": 2,
         "Name": "Kurt Nakashima",
         "Average": 181,
         "Division": 3,
@@ -10233,7 +10251,7 @@
         "_id": "Men's Singles_Kurt Nakashima"
     },
     {
-        "Lane": 1,
+        "Lane": 2,
         "Name": "Jeff Uno",
         "Average": 182,
         "Division": 3,
@@ -10242,7 +10260,7 @@
         "_id": "Men's Singles_Jeff Uno"
     },
     {
-        "Lane": 2,
+        "Lane": 3,
         "Name": "Stuart Kawachi",
         "Average": 183,
         "Division": 3,
@@ -10251,7 +10269,7 @@
         "_id": "Men's Singles_Stuart Kawachi"
     },
     {
-        "Lane": 2,
+        "Lane": 3,
         "Name": "Russell Horikawa",
         "Average": 182,
         "Division": 3,
@@ -10260,7 +10278,7 @@
         "_id": "Men's Singles_Russell Horikawa"
     },
     {
-        "Lane": 3,
+        "Lane": 4,
         "Name": "Andy Uyeda",
         "Average": 183,
         "Division": 3,
@@ -10269,7 +10287,7 @@
         "_id": "Men's Singles_Andy Uyeda"
     },
     {
-        "Lane": 3,
+        "Lane": 4,
         "Name": "Johnny Uyeda",
         "Average": 183,
         "Division": 3,
@@ -10278,7 +10296,7 @@
         "_id": "Men's Singles_Johnny Uyeda"
     },
     {
-        "Lane": 4,
+        "Lane": 5,
         "Name": "Michael Yee",
         "Average": 183,
         "Division": 3,
@@ -10287,7 +10305,7 @@
         "_id": "Men's Singles_Michael Yee"
     },
     {
-        "Lane": 4,
+        "Lane": 5,
         "Name": "Roy Umehira",
         "Average": 183,
         "Division": 3,
@@ -10296,7 +10314,7 @@
         "_id": "Men's Singles_Roy Umehira"
     },
     {
-        "Lane": 5,
+        "Lane": 6,
         "Name": "Steve Doi",
         "Average": 184,
         "Division": 3,
@@ -10305,7 +10323,7 @@
         "_id": "Men's Singles_Steve Doi"
     },
     {
-        "Lane": 5,
+        "Lane": 6,
         "Name": "Stephen Yamasaki",
         "Average": 184,
         "Division": 3,
@@ -10314,7 +10332,7 @@
         "_id": "Men's Singles_Stephen Yamasaki"
     },
     {
-        "Lane": 6,
+        "Lane": 7,
         "Name": "Steve Itatani",
         "Average": 185,
         "Division": 3,
@@ -10323,7 +10341,7 @@
         "_id": "Men's Singles_Steve Itatani"
     },
     {
-        "Lane": 6,
+        "Lane": 7,
         "Name": "Scott Watanabe - SJ",
         "Average": 184,
         "Division": 3,
@@ -10332,7 +10350,7 @@
         "_id": "Men's Singles_Scott Watanabe - SJ"
     },
     {
-        "Lane": 7,
+        "Lane": 8,
         "Name": "Craig Horita",
         "Average": 185,
         "Division": 3,
@@ -10341,7 +10359,7 @@
         "_id": "Men's Singles_Craig Horita"
     },
     {
-        "Lane": 7,
+        "Lane": 8,
         "Name": "Henry Isefuku",
         "Average": 185,
         "Division": 3,
@@ -10350,7 +10368,7 @@
         "_id": "Men's Singles_Henry Isefuku"
     },
     {
-        "Lane": 8,
+        "Lane": 9,
         "Name": "Russ Furuya",
         "Average": 185,
         "Division": 3,
@@ -10359,31 +10377,13 @@
         "_id": "Men's Singles_Russ Furuya"
     },
     {
-        "Lane": 8,
+        "Lane": 9,
         "Name": "Jeff Komatsu",
         "Average": 185,
         "Division": 3,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Komatsu"
-    },
-    {
-        "Lane": 9,
-        "Name": "Jonathan Tamayose",
-        "Average": 186,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Jonathan Tamayose"
-    },
-    {
-        "Lane": 9,
-        "Name": "Scott Miyamoto",
-        "Average": 185,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Scott Miyamoto"
     },
     {
         "Lane": 10,
@@ -10396,15 +10396,33 @@
     },
     {
         "Lane": 10,
-        "Name": "Jun Kataoka",
-        "Average": 186,
+        "Name": "Scott Miyamoto",
+        "Average": 185,
         "Division": 3,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Jun Kataoka"
+        "_id": "Men's Singles_Scott Miyamoto"
     },
     {
         "Lane": 11,
+        "Name": "Keith Sasada",
+        "Average": 178,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Keith Sasada"
+    },
+    {
+        "Lane": 11,
+        "Name": "John Lee",
+        "Average": 178,
+        "Division": 3,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_John Lee"
+    },
+    {
+        "Lane": 12,
         "Name": "Jeff Hasegawa",
         "Average": 179,
         "Division": 3,
@@ -10413,7 +10431,7 @@
         "_id": "Men's Singles_Jeff Hasegawa"
     },
     {
-        "Lane": 11,
+        "Lane": 12,
         "Name": "Dewaine Higa",
         "Average": 178,
         "Division": 3,
@@ -10422,7 +10440,7 @@
         "_id": "Men's Singles_Dewaine Higa"
     },
     {
-        "Lane": 12,
+        "Lane": 13,
         "Name": "Harold Okino",
         "Average": 180,
         "Division": 3,
@@ -10431,7 +10449,7 @@
         "_id": "Men's Singles_Harold Okino"
     },
     {
-        "Lane": 12,
+        "Lane": 13,
         "Name": "John Vargas",
         "Average": 180,
         "Division": 3,
@@ -10440,7 +10458,7 @@
         "_id": "Men's Singles_John Vargas"
     },
     {
-        "Lane": 13,
+        "Lane": 14,
         "Name": "Bryant Fukui",
         "Average": 181,
         "Division": 3,
@@ -10449,7 +10467,7 @@
         "_id": "Men's Singles_Bryant Fukui"
     },
     {
-        "Lane": 13,
+        "Lane": 14,
         "Name": "Ben I Yamamoto",
         "Average": 180,
         "Division": 3,
@@ -10458,22 +10476,13 @@
         "_id": "Men's Singles_Ben I Yamamoto"
     },
     {
-        "Lane": 14,
-        "Name": "John Mizutani",
-        "Average": 181,
-        "Division": 3,
+        "Lane": 15,
+        "Name": "Keith Kurihara",
+        "Average": 189,
+        "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_John Mizutani"
-    },
-    {
-        "Lane": 14,
-        "Name": "Mike Nakamura",
-        "Average": 181,
-        "Division": 3,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Mike Nakamura"
+        "_id": "Men's Singles_Keith Kurihara"
     },
     {
         "Lane": 15,
@@ -10485,22 +10494,13 @@
         "_id": "Men's Singles_Richard Ho"
     },
     {
-        "Lane": 15,
+        "Lane": 16,
         "Name": "Bruce Akau",
         "Average": 189,
         "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bruce Akau"
-    },
-    {
-        "Lane": 16,
-        "Name": "Devin Tsumura",
-        "Average": 190,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Devin Tsumura"
     },
     {
         "Lane": 16,
@@ -10513,6 +10513,15 @@
     },
     {
         "Lane": 17,
+        "Name": "Devin Tsumura",
+        "Average": 190,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Devin Tsumura"
+    },
+    {
+        "Lane": 17,
         "Name": "Craig Sumida",
         "Average": 190,
         "Division": 4,
@@ -10521,7 +10530,7 @@
         "_id": "Men's Singles_Craig Sumida"
     },
     {
-        "Lane": 17,
+        "Lane": 18,
         "Name": "Kris Kato",
         "Average": 190,
         "Division": 4,
@@ -10539,7 +10548,7 @@
         "_id": "Men's Singles_Robert Wada"
     },
     {
-        "Lane": 18,
+        "Lane": 19,
         "Name": "Jason Mayeda",
         "Average": 190,
         "Division": 4,
@@ -10549,21 +10558,12 @@
     },
     {
         "Lane": 19,
-        "Name": "Dan Nakamura",
+        "Name": "Jeff Mitre",
         "Average": 190,
         "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Dan Nakamura"
-    },
-    {
-        "Lane": 19,
-        "Name": "Kevin Sato",
-        "Average": 190,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Kevin Sato"
+        "_id": "Men's Singles_Jeff Mitre"
     },
     {
         "Lane": 20,
@@ -10576,21 +10576,21 @@
     },
     {
         "Lane": 20,
-        "Name": "Jeff Mitre",
-        "Average": 190,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Jeff Mitre"
-    },
-    {
-        "Lane": 21,
         "Name": "Richard Uyeda",
         "Average": 191,
         "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Richard Uyeda"
+    },
+    {
+        "Lane": 21,
+        "Name": "John Neishi",
+        "Average": 193,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_John Neishi"
     },
     {
         "Lane": 21,
@@ -10603,12 +10603,12 @@
     },
     {
         "Lane": 22,
-        "Name": "John Neishi",
-        "Average": 193,
+        "Name": "Darrin Wong",
+        "Average": 194,
         "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_John Neishi"
+        "_id": "Men's Singles_Darrin Wong"
     },
     {
         "Lane": 22,
@@ -10621,21 +10621,21 @@
     },
     {
         "Lane": 23,
-        "Name": "Darrin Wong",
-        "Average": 194,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Darrin Wong"
-    },
-    {
-        "Lane": 23,
         "Name": "Kay Yamanaka",
         "Average": 194,
         "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kay Yamanaka"
+    },
+    {
+        "Lane": 23,
+        "Name": "Kevin Kawaoka",
+        "Average": 194,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Kevin Kawaoka"
     },
     {
         "Lane": 24,
@@ -10648,15 +10648,33 @@
     },
     {
         "Lane": 24,
-        "Name": "Kevin Kawaoka",
-        "Average": 194,
+        "Name": "Greg Mayeda",
+        "Average": 196,
         "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Kevin Kawaoka"
+        "_id": "Men's Singles_Greg Mayeda"
     },
     {
         "Lane": 25,
+        "Name": "Jonathan Tamayose",
+        "Average": 186,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Jonathan Tamayose"
+    },
+    {
+        "Lane": 25,
+        "Name": "Jun Kataoka",
+        "Average": 186,
+        "Division": 4,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Jun Kataoka"
+    },
+    {
+        "Lane": 26,
         "Name": "Matt Masukawa",
         "Average": 186,
         "Division": 4,
@@ -10665,7 +10683,7 @@
         "_id": "Men's Singles_Matt Masukawa"
     },
     {
-        "Lane": 25,
+        "Lane": 26,
         "Name": "Justin Okutsu",
         "Average": 186,
         "Division": 4,
@@ -10674,31 +10692,13 @@
         "_id": "Men's Singles_Justin Okutsu"
     },
     {
-        "Lane": 26,
-        "Name": "Kyle Ortiz",
-        "Average": 186,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Kyle Ortiz"
-    },
-    {
-        "Lane": 26,
+        "Lane": 27,
         "Name": "Gary Nishikawa",
         "Average": 186,
         "Division": 4,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gary Nishikawa"
-    },
-    {
-        "Lane": 27,
-        "Name": "Keith Kurihara",
-        "Average": 189,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Keith Kurihara"
     },
     {
         "Lane": 27,
@@ -10711,15 +10711,6 @@
     },
     {
         "Lane": 1,
-        "Name": "Ken Wing",
-        "Average": 197,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Ken Wing"
-    },
-    {
-        "Lane": 1,
         "Name": "T.J. Yanuska",
         "Average": 198,
         "Division": 5,
@@ -10728,7 +10719,7 @@
         "_id": "Men's Singles_T.J. Yanuska"
     },
     {
-        "Lane": 2,
+        "Lane": 1,
         "Name": "Mikel Onaka",
         "Average": 198,
         "Division": 5,
@@ -10738,24 +10729,6 @@
     },
     {
         "Lane": 2,
-        "Name": "Mike Uyekubo",
-        "Average": 198,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Mike Uyekubo"
-    },
-    {
-        "Lane": 3,
-        "Name": "Brian Uchino",
-        "Average": 198,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Brian Uchino"
-    },
-    {
-        "Lane": 3,
         "Name": "Gordon Terakami",
         "Average": 198,
         "Division": 5,
@@ -10764,16 +10737,7 @@
         "_id": "Men's Singles_Gordon Terakami"
     },
     {
-        "Lane": 4,
-        "Name": "Glenn Tsuchiya",
-        "Average": 199,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Glenn Tsuchiya"
-    },
-    {
-        "Lane": 4,
+        "Lane": 2,
         "Name": "Gary Yamashita",
         "Average": 198,
         "Division": 5,
@@ -10782,7 +10746,16 @@
         "_id": "Men's Singles_Gary Yamashita"
     },
     {
-        "Lane": 5,
+        "Lane": 3,
+        "Name": "Glenn Tsuchiya",
+        "Average": 199,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Glenn Tsuchiya"
+    },
+    {
+        "Lane": 3,
         "Name": "Jeff Kaneshige",
         "Average": 199,
         "Division": 5,
@@ -10791,7 +10764,7 @@
         "_id": "Men's Singles_Jeff Kaneshige"
     },
     {
-        "Lane": 5,
+        "Lane": 4,
         "Name": "Chad Itami",
         "Average": 199,
         "Division": 5,
@@ -10800,7 +10773,7 @@
         "_id": "Men's Singles_Chad Itami"
     },
     {
-        "Lane": 6,
+        "Lane": 4,
         "Name": "Rodney Carillo",
         "Average": 199,
         "Division": 5,
@@ -10809,7 +10782,7 @@
         "_id": "Men's Singles_Rodney Carillo"
     },
     {
-        "Lane": 6,
+        "Lane": 5,
         "Name": "Michael Lo",
         "Average": 199,
         "Division": 5,
@@ -10818,13 +10791,40 @@
         "_id": "Men's Singles_Michael Lo"
     },
     {
-        "Lane": 7,
+        "Lane": 5,
+        "Name": "Mike Uyekubo",
+        "Average": 199,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Mike Uyekubo"
+    },
+    {
+        "Lane": 6,
         "Name": "Craig Kitaoka",
         "Average": 200,
         "Division": 5,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Craig Kitaoka"
+    },
+    {
+        "Lane": 6,
+        "Name": "Brian Uchino",
+        "Average": 199,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Brian Uchino"
+    },
+    {
+        "Lane": 7,
+        "Name": "Corey Taniguchi",
+        "Average": 201,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Corey Taniguchi"
     },
     {
         "Lane": 7,
@@ -10837,21 +10837,21 @@
     },
     {
         "Lane": 8,
-        "Name": "Corey Taniguchi",
-        "Average": 201,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Corey Taniguchi"
-    },
-    {
-        "Lane": 8,
         "Name": "Jeffrey Hirata",
         "Average": 201,
         "Division": 5,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeffrey Hirata"
+    },
+    {
+        "Lane": 8,
+        "Name": "Kyle Ortiz",
+        "Average": 201,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Kyle Ortiz"
     },
     {
         "Lane": 9,
@@ -10873,30 +10873,21 @@
     },
     {
         "Lane": 10,
-        "Name": "Harold Ogata Jr",
-        "Average": 196,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Harold Ogata Jr"
-    },
-    {
-        "Lane": 10,
-        "Name": "Greg Mayeda",
-        "Average": 196,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Greg Mayeda"
-    },
-    {
-        "Lane": 11,
         "Name": "Anthony Madrona",
         "Average": 197,
         "Division": 5,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Anthony Madrona"
+    },
+    {
+        "Lane": 10,
+        "Name": "Harold Ogata Jr",
+        "Average": 196,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Harold Ogata Jr"
     },
     {
         "Lane": 11,
@@ -10908,7 +10899,7 @@
         "_id": "Men's Singles_Ray Tamura"
     },
     {
-        "Lane": 12,
+        "Lane": 11,
         "Name": "Kento Hirata",
         "Average": 197,
         "Division": 5,
@@ -10924,6 +10915,15 @@
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Okumura"
+    },
+    {
+        "Lane": 12,
+        "Name": "Ken Wing",
+        "Average": 197,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Ken Wing"
     },
     {
         "Lane": 13,
@@ -11971,12 +11971,12 @@
     },
     {
         "Lane": 23,
-        "Name": "Tarika Onishi",
-        "Average": 167,
+        "Name": "Nikki Horita",
+        "Average": 169,
         "Division": 2,
         "Score": [],
         "Event": "Women's Singles",
-        "_id": "Women's Singles_Tarika Onishi"
+        "_id": "Women's Singles_Nikki Horita"
     },
     {
         "Lane": 23,
@@ -11989,12 +11989,12 @@
     },
     {
         "Lane": 24,
-        "Name": "Nikki Horita",
-        "Average": 169,
+        "Name": "Kristen Kawachi",
+        "Average": 171,
         "Division": 2,
         "Score": [],
         "Event": "Women's Singles",
-        "_id": "Women's Singles_Nikki Horita"
+        "_id": "Women's Singles_Kristen Kawachi"
     },
     {
         "Lane": 24,
@@ -12223,30 +12223,30 @@
     },
     {
         "Lane": 9,
-        "Name": "Kristen Kawachi",
-        "Average": 171,
-        "Division": 3,
-        "Score": [],
-        "Event": "Women's Singles",
-        "_id": "Women's Singles_Kristen Kawachi"
-    },
-    {
-        "Lane": 9,
         "Name": "Monica Tajiri",
-        "Average": 170,
+        "Average": 172,
         "Division": 3,
         "Score": [],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Monica Tajiri"
     },
     {
-        "Lane": 10,
+        "Lane": 9,
         "Name": "Sheri DeWitt",
         "Average": 172,
         "Division": 3,
         "Score": [],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Sheri DeWitt"
+    },
+    {
+        "Lane": 10,
+        "Name": "Mayumi Florek",
+        "Average": 173,
+        "Division": 3,
+        "Score": [],
+        "Event": "Women's Singles",
+        "_id": "Women's Singles_Mayumi Florek"
     },
     {
         "Lane": 10,
@@ -12268,12 +12268,12 @@
     },
     {
         "Lane": 11,
-        "Name": "Mayumi Florek",
-        "Average": 173,
+        "Name": "Tracey Wandler",
+        "Average": 174,
         "Division": 3,
         "Score": [],
         "Event": "Women's Singles",
-        "_id": "Women's Singles_Mayumi Florek"
+        "_id": "Women's Singles_Tracey Wandler"
     },
     {
         "Lane": 12,
@@ -12286,12 +12286,12 @@
     },
     {
         "Lane": 12,
-        "Name": "Tracey Wandler",
-        "Average": 174,
+        "Name": "Tarika Onishi",
+        "Average": 175,
         "Division": 3,
         "Score": [],
         "Event": "Women's Singles",
-        "_id": "Women's Singles_Tracey Wandler"
+        "_id": "Women's Singles_Tarika Onishi"
     },
     {
         "Lane": 13,
