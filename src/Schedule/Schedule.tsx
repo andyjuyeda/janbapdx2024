@@ -3,7 +3,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Separator } from "@/components/ui/separator";
 import "./schedule.module.css";
 import janbaScores from "@/data/janbaScores.json";
-import eventSchedule from "./UpdatedEventSchedule.json";
+import eventScheduleJson from "./UpdatedEventSchedule.json";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   DropdownMenu,
@@ -278,6 +278,27 @@ interface ScheduleTabsProps {
   setCurrentDay: React.Dispatch<React.SetStateAction<string>>;
 }
 
+interface AgendaItem {
+  event: string;
+  divisions: string[] | null;
+  time: string;
+  key: string;
+  gender: string | null;
+}
+
+interface Day {
+  name: string;
+  agenda: AgendaItem[];
+  abbrev: string;
+  mainevent: string[];
+}
+
+interface Schedule {
+  days: Day[];
+}
+
+const eventSchedule: Schedule = eventScheduleJson as Schedule;
+
 function ScheduleTabs({ setCurrentDay }: ScheduleTabsProps) {
   const [isSmallScreen, setIsSmallScreen] = useState(window.innerWidth < 768);
 
@@ -335,6 +356,27 @@ function ScheduleTabsContent({
       </p>
     );
   };
+
+  interface AgendaItem {
+    event: string;
+    divisions: string[] | null;
+    time: string;
+    key: string;
+    gender: string | null;
+  }
+
+  interface Day {
+    name: string;
+    agenda: AgendaItem[];
+    abbrev: string;
+    mainevent: string[];
+  }
+
+  interface Schedule {
+    days: Day[];
+  }
+
+  const eventSchedule: Schedule = eventScheduleJson as Schedule;
 
   return (
     <>
@@ -515,6 +557,27 @@ export default function Schedule() {
     time: string;
     average: number;
   }
+
+  interface AgendaItem {
+    event: string;
+    divisions: string[] | null;
+    time: string;
+    key: string;
+    gender: string | null;
+  }
+
+  interface Day {
+    name: string;
+    agenda: AgendaItem[];
+    abbrev: string;
+    mainevent: string[];
+  }
+
+  interface Schedule {
+    days: Day[];
+  }
+
+  const eventSchedule: Schedule = eventScheduleJson as Schedule;
 
   const buildIndividualSchedule = (
     individualName: string | null
