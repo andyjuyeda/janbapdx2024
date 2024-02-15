@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Separator } from "@/components/ui/separator";
 import "./schedule.module.css";
@@ -13,6 +13,13 @@ import {
 } from "@/components/ui/dropdown-menu";
 import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
 import { Button } from "@/components/ui/button";
+import {
+  Command,
+  CommandInput,
+  CommandEmpty,
+  CommandList,
+  CommandItem,
+} from "@/components/ui/command";
 
 function BackButton({
   setShowEventDetails,
@@ -309,7 +316,10 @@ interface ScheduleTabsContentProps {
 function ScheduleTabsContent({
   setShowEventDetails,
   setSelectedEvent,
-}: ScheduleTabsContentProps) {
+  toggleSearchPanel,
+}: ScheduleTabsContentProps & {
+  toggleSearchPanel: (direction: "fromRight" | "fromLeft") => void;
+}) {
   const renderDivisions = (divisions: string[] | null) => {
     if (divisions === null || divisions.length === 0) {
       return null;
@@ -334,63 +344,32 @@ function ScheduleTabsContent({
           key={`${day.name}content`}
           className="row-span-5 row-start-1 px-4"
         >
-          <div className="flex justify-between md:py-5">
-            <h2 className="mb-8 text-3xl font-bold uppercase md:relative md:left-0 md:right-0 md:mx-auto md:text-3xl">
+          <div className="mb-8 grid grid-cols-2 md:grid-cols-3 md:py-5">
+            <h2 className="text-3xl font-bold uppercase md:col-start-2 md:place-self-center md:text-3xl">
               {day.name}
             </h2>
-            <DropdownMenu>
-              <DropdownMenuTrigger asChild>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="hidden h-8 w-8 cursor-pointer md:fixed md:right-10"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M4.5 12a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zm6 0a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zm6 0a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </DropdownMenuTrigger>
-              <DropdownMenuContent className="mr-10 bg-slate-50">
-                <DropdownMenuItem className="text-lg font-bold">
-                  <a
-                    href={schedulePdf}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex gap-2 text-lg font-bold"
-                  >
-                    <span>Download Full Schedule</span>
-                    <span>
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        strokeWidth={1.5}
-                        stroke="currentColor"
-                        className="h-6 w-6"
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"
-                        />
-                      </svg>
-                    </span>
-                  </a>
-                </DropdownMenuItem>
-                <DropdownMenuItem className="text-lg font-bold">
-                  Get Your Personal Schedule
-                </DropdownMenuItem>
-              </DropdownMenuContent>
-            </DropdownMenu>
+
+            <button
+              onClick={() => toggleSearchPanel("fromRight")}
+              className="col-start-2 flex items-center gap-1 justify-self-end md:col-start-3"
+            >
+              <span className="text-base"></span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                className="h-6 w-6"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"
+                />
+              </svg>
+            </button>
           </div>
-          {/* <h3 className="mb-8 mt-[-5px] font-semibold md:mt-[-10px] md:text-center md:text-lg">
-            {day.mainevent.map((event, index) => (
-              <div key={index}>{event}</div>
-            ))}
-          </h3> */}
 
           {day.agenda.map((event, index) => (
             <React.Fragment key={event.key}>
@@ -465,17 +444,6 @@ function ScheduleTabsContent({
               )}
             </React.Fragment>
           ))}
-
-          {/* <div className="grid h-full place-items-center">
-            <div className="flex flex-col text-center">
-              {day.mainevent.map((event) => (
-                <h3 className="text-xl font-semibold md:text-2xl">{event}</h3>
-              ))}
-            </div>
-          </div>
-          <div className="text-center font-semibold">
-            <span>Event times have not yet been determined.</span>
-          </div> */}
         </TabsContent>
       ))}
     </>
@@ -488,8 +456,11 @@ export default function Schedule() {
   const [selectedEvent, setSelectedEvent] = useState<EventDetailsProps | null>(
     null
   );
+  const [showSearchPanel, setShowSearchPanel] = useState(false);
+  const [selectedName, setSelectedName] = useState<string | null>(null);
+  const [animationDirection, setAnimationDirection] = useState("fromRight");
 
-  const variants = {
+  const variantsFromLeft = {
     enter: {
       x: "-100%",
       opacity: 0,
@@ -499,7 +470,7 @@ export default function Schedule() {
     exit: { x: "-100%", opacity: 0, transition: { duration: 0.2 } },
   };
 
-  const eventDetailsVariants = {
+  const variantsFromRight = {
     enter: {
       x: "100%",
       opacity: 0,
@@ -507,6 +478,142 @@ export default function Schedule() {
     },
     center: { x: "0%", opacity: 1, transition: { duration: 0.2 } },
     exit: { x: "100%", opacity: 0, transition: { duration: 0.2 } },
+  };
+
+  const toggleSearchPanel = (direction: "fromRight" | "fromLeft") => {
+    setShowSearchPanel((prevShow) => !prevShow);
+    setAnimationDirection(direction);
+  };
+
+  interface Bowler {
+    Lane: number;
+    Name: string;
+    Average: number;
+    Division: number;
+    Score: number[];
+    Event: string;
+    _id: string;
+  }
+
+  const bowlers: Bowler[] = janbaScores as Bowler[];
+
+  const uniqueNames: string[] = Array.from(
+    new Set(bowlers.map((bowler) => bowler.Name))
+  );
+
+  const sortedUniqueNames = useMemo(() => uniqueNames.sort(), [uniqueNames]);
+
+  const handleNameClick = (name: string) => {
+    setSelectedName(name);
+  };
+
+  interface BowlerSchedule {
+    event: string;
+    division: number;
+    lane: number;
+    day: string;
+    time: string;
+    average: number;
+  }
+
+  const buildIndividualSchedule = (
+    individualName: string | null
+  ): BowlerSchedule[] => {
+    if (!individualName) return [];
+
+    return bowlers
+      .filter((bowler) => bowler.Name === individualName)
+      .map((bowler) => {
+        let dayOfEvent = "";
+        let timeOfEvent = "Time not found";
+
+        for (const day of eventSchedule.days) {
+          const matchingEvent = day.agenda.find((agendaItem) => {
+            // Adjust eventName construction to account for null gender
+            const eventName = agendaItem.gender
+              ? `${agendaItem.gender} ${agendaItem.event}`
+              : agendaItem.event;
+
+            // Now eventName will either be "Men's EventName", "Women's EventName", or just "EventName" if gender is null
+            return (
+              eventName === bowler.Event &&
+              (agendaItem.divisions === null ||
+                agendaItem.divisions.includes(bowler.Division.toString()))
+            );
+          });
+
+          if (matchingEvent) {
+            dayOfEvent = day.name;
+            timeOfEvent = matchingEvent.time;
+            break;
+          }
+        }
+
+        return {
+          event: bowler.Event,
+          division: bowler.Division,
+          lane: bowler.Lane,
+          average: bowler.Average,
+          day: dayOfEvent,
+          time: timeOfEvent,
+        };
+      });
+  };
+
+  interface BowlerScheduleProps {
+    selectedName: string | null;
+  }
+
+  const BowlerSchedule: React.FC<BowlerScheduleProps> = ({ selectedName }) => {
+    const individualSchedule = useMemo(
+      () => buildIndividualSchedule(selectedName),
+      [selectedName]
+    );
+
+    // Ensure individualSchedule is always an array with the correct structure
+    return (
+      <div>
+        <h1 className="mt-3 text-center text-2xl font-bold uppercase md:mt-5">
+          {selectedName}
+        </h1>
+        <h2 className="text-center text-lg font-bold uppercase">
+          Average - {individualSchedule[0].average}
+        </h2>
+        <div className="pt-5">
+          {individualSchedule.length > 0 ? (
+            individualSchedule.map((event, index) => (
+              <React.Fragment key={index}>
+                <div className="my-2 grid grid-cols-2 grid-rows-3 gap-x-10">
+                  <div className="col-start-1 row-span-3 row-start-1 self-center justify-self-end">
+                    <h2 className="text-xl font-semibold uppercase">
+                      {event.day}
+                    </h2>
+                    <p className="text-right">{event.time}</p>
+                  </div>
+                  <div className="col-start-2 row-start-1">
+                    <span>{event.event}</span>
+                  </div>
+                  <div className="col-start-2 row-start-2">
+                    <span>Division {event.division}</span>
+                  </div>
+                  <div className="col-start-2 row-start-3">
+                    <span>
+                      Lane <span className="font-bold">{event.lane}</span>
+                    </span>
+                  </div>
+                </div>
+                {/* Only render <Separator /> if not the last item */}
+                {index !== individualSchedule.length - 1 && (
+                  <Separator className="mx-10 w-auto bg-slate-400" />
+                )}
+              </React.Fragment>
+            ))
+          ) : (
+            <p>No schedule available.</p>
+          )}
+        </div>
+      </div>
+    );
   };
 
   return (
@@ -522,22 +629,128 @@ export default function Schedule() {
           showEventDetails ? "overflow-y-auto" : "overflow-hidden"
         }`}
       >
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={showEventDetails ? "eventDetails" : "schedule"}
-            initial="enter"
-            animate="center"
-            exit="exit"
-            variants={showEventDetails ? eventDetailsVariants : variants}
-            className="h-full"
-          >
-            {showEventDetails ? (
+        {selectedName ? (
+          <AnimatePresence mode="wait">
+            <motion.div
+              key="individualPanel"
+              initial="enter"
+              animate="center"
+              exit="exit"
+              variants={variantsFromRight} // Use the defined variants
+              className="search-panel-overlay"
+            >
+              <div>
+                <button
+                  onClick={() => {
+                    setAnimationDirection("fromLeft");
+                    setSelectedName(null);
+                  }}
+                  className="mx-3 mt-2 flex items-center gap-1 justify-self-start text-lg md:mt-5"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="h-6 w-6"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M7.72 12.53a.75.75 0 010-1.06l7.5-7.5a.75.75 0 111.06 1.06L9.31 12l6.97 6.97a.75.75 0 11-1.06 1.06l-7.5-7.5z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                  <span>Back</span>
+                </button>
+                <div>
+                  <BowlerSchedule selectedName={selectedName} />
+                </div>
+              </div>
+            </motion.div>
+          </AnimatePresence>
+        ) : showSearchPanel ? (
+          <AnimatePresence mode="wait">
+            <motion.div
+              key="searchPanel"
+              initial="enter"
+              animate="center"
+              exit="exit"
+              variants={
+                animationDirection === "fromRight"
+                  ? variantsFromRight
+                  : variantsFromLeft
+              } // Use the defined variants
+              className="search-panel-overlay"
+            >
+              <div className="search-panel-overlay">
+                <button
+                  onClick={() => setShowSearchPanel(false)}
+                  className="mx-3 mt-2 flex items-center gap-1 justify-self-start text-lg md:mt-5"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="h-6 w-6"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M7.72 12.53a.75.75 0 010-1.06l7.5-7.5a.75.75 0 111.06 1.06L9.31 12l6.97 6.97a.75.75 0 11-1.06 1.06l-7.5-7.5z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                  <span>Back</span>
+                </button>
+              </div>
+              <div className="grid items-center">
+                <Command className="bg-slate-50 p-3">
+                  <CommandInput
+                    className="bg-slate-50"
+                    placeholder="Search by name..."
+                  />
+                  <CommandList className="mt-1 min-h-[450px]">
+                    <CommandEmpty>No results found.</CommandEmpty>
+                    {sortedUniqueNames.map((name) => (
+                      <CommandItem
+                        className="my-[-1px] py-0 md:py-1"
+                        key={name}
+                      >
+                        <button onClick={() => handleNameClick(name)}>
+                          {name}
+                        </button>
+                      </CommandItem>
+                    ))}
+                  </CommandList>
+                </Command>
+              </div>
+            </motion.div>
+          </AnimatePresence>
+        ) : showEventDetails ? (
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={"eventDetails"}
+              initial="enter"
+              animate="center"
+              exit="exit"
+              variants={variantsFromRight}
+              className="h-full"
+            >
               <>
                 {showEventDetails && selectedEvent ? (
                   <EventDetails {...selectedEvent} />
                 ) : null}
               </>
-            ) : (
+            </motion.div>
+          </AnimatePresence>
+        ) : (
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={"defaultSchedule"}
+              initial="enter"
+              animate="center"
+              exit="exit"
+              variants={variantsFromLeft}
+              className="h-full"
+            >
               <Tabs
                 defaultValue={currentDay}
                 className="grid h-full grid-rows-6 p-2"
@@ -545,12 +758,13 @@ export default function Schedule() {
                 <ScheduleTabsContent
                   setShowEventDetails={setShowEventDetails}
                   setSelectedEvent={setSelectedEvent}
+                  toggleSearchPanel={toggleSearchPanel}
                 />
                 <ScheduleTabs setCurrentDay={setCurrentDay} />
               </Tabs>
-            )}
-          </motion.div>
-        </AnimatePresence>
+            </motion.div>
+          </AnimatePresence>
+        )}
       </div>
       <div className="mt-5">
         <a
