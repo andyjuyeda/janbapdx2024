@@ -10,9 +10,9 @@ import mountainPeakImg from "@/assets/img/mountain-peak.png";
 import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
 import { buttonVariants } from "@/components/ui/button";
-import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer.pdf";
-import proAmForm from "@/assets/doc/CV LH Pro Am Flyer.pdf";
-import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024.pdf";
+import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer-min.pdf";
+import proAmForm from "@/assets/doc/CV LH Pro Am Flyer-min.pdf";
+
 
 function HeroAlert() {
   return (
@@ -35,8 +35,7 @@ function HeroAlert() {
       <AlertTitle className="hidden md:block">Specials and Events!</AlertTitle>
       <AlertDescription>
         During the tournament there will be fun extra events including Monte
-        Carlo and a Pro-Am with Chris Via and Leanne Hulsenburg, along with some
-        extra discounts in the pro shop!
+        Carlo and a Pro-Am with Chris Via and Leanne Hulsenburg!
       </AlertDescription>
     </Alert>
   );
@@ -96,16 +95,6 @@ export default function Hero() {
               })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
             >
               Pro-Am
-            </a>
-            <a
-              href={proShopForm}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={`${buttonVariants({
-                variant: "default",
-              })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
-            >
-              Pro Shop Specials
             </a>
           </div>
         </div>

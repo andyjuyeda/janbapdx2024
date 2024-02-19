@@ -18,6 +18,9 @@ import parkLanesImg from "@/assets/img/parklanes.jpeg";
 import jerseyPink from "@/assets/img/janba_2024pinksleeve_front_opt.webp";
 import jerseyGray from "@/assets/img/janba_2024graysleeve_front_opt.webp";
 import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
+import entertainmentSchedule from "@/assets/doc/Live Entertainment Bar Digital Signage JANBA Resize-min.pdf";
+import foodMenu from "@/assets/doc/JANBA Menu 2024-min.pdf";
+import proShopSpecials from "@/assets/doc/JANBA Pro Shop Specials 2024-min.pdf";
 
 import { Button } from "./components/ui/button";
 
@@ -40,7 +43,7 @@ function detectDevice() {
 function MapsCard() {
   const device = detectDevice();
   return (
-    <Card className="col-start-1 col-end-4 flex flex-col md:row-span-4 lg:col-span-4">
+    <Card className="col-start-1 col-end-4 flex flex-col md:row-span-3 lg:col-span-4">
       <CardHeader className="">
         <CardTitle className="text-xl md:text-2xl">
           Park Lanes Family Entertainment Center
@@ -187,24 +190,11 @@ function HotelInfo() {
           rel="noopener noreferrer"
           className=""
         >
-          <Button variant="secondary" className="flex items-center gap-3 w-[200px]">
+          <Button
+            variant="secondary"
+            className="flex w-[200px] items-center gap-3"
+          >
             <span>Staybridge Suites</span>
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth={1.5}
-                stroke="currentColor"
-                className="h-6 w-6"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
-                />
-              </svg>
-            </span>
           </Button>
         </a>
         <a
@@ -213,24 +203,11 @@ function HotelInfo() {
           rel="noopener noreferrer"
           className=""
         >
-          <Button variant="secondary" className="flex items-center gap-3 w-[200px]">
+          <Button
+            variant="secondary"
+            className="flex w-[200px] items-center gap-3"
+          >
             <span>Courtyard</span>
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth={1.5}
-                stroke="currentColor"
-                className="h-6 w-6"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
-                />
-              </svg>
-            </span>
           </Button>
         </a>
         <a
@@ -239,24 +216,11 @@ function HotelInfo() {
           rel="noopener noreferrer"
           className=""
         >
-          <Button variant="secondary" className="flex items-center gap-3 w-[200px]">
+          <Button
+            variant="secondary"
+            className="flex w-[200px] items-center gap-3"
+          >
             <span>Holiday Inn</span>
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth={1.5}
-                stroke="currentColor"
-                className="h-6 w-6"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
-                />
-              </svg>
-            </span>
           </Button>
         </a>
       </div>
@@ -313,8 +277,8 @@ function JerseyInfo() {
 
 function SponsorInfo() {
   return (
-    <div className="col-start-10 row-start-3 items-center rounded-lg md:row-span-3 lg:col-span-4">
-      <Card>
+    <div className="col-start-10 row-start-4 items-center rounded-lg md:row-span-2 lg:col-span-4">
+      <Card className="min-h-full">
         <CardHeader>
           <CardTitle>Tournament Sponsors</CardTitle>
         </CardHeader>
@@ -348,6 +312,42 @@ function SponsorInfo() {
   );
 }
 
+function ParkLanesSpecials() {
+  return (
+    <div className="col-span-4 col-start-1 row-span-2 row-start-4">
+      <Card className="bg-primary min-h-full">
+        <CardHeader>
+          <CardTitle>Park Lanes Specials</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <p>
+            During the week of JANBA, Park Lanes will have deals in the pro
+            shop, some special food options, as well as nightly entertainment in
+            the bar area!
+          </p>
+        </CardContent>
+        <CardFooter>
+          <div className="flex flex-col gap-2 items-center mx-auto">
+            <a href={proShopSpecials} target="_blank" rel="noopener noreferrer">
+              <Button variant={"secondary"} className="w-[200px]">Pro Shop Specials</Button>
+            </a>
+            <a href={foodMenu} target="_blank" rel="noopener noreferrer">
+              <Button variant={"secondary"} className="w-[200px]">Food Specials</Button>
+            </a>
+            <a
+              href={entertainmentSchedule}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant={"secondary"} className="w-[200px]">Entertainment Schedule</Button>
+            </a>
+          </div>
+        </CardFooter>
+      </Card>
+    </div>
+  );
+}
+
 export default function Information() {
   return (
     <div className="min-h-screen">
@@ -359,6 +359,7 @@ export default function Information() {
       </h1>
       <div className="md:min-h-3/4 flex h-full grid-cols-12 grid-rows-6 flex-col gap-5 md:grid">
         <MapsCard />
+        <ParkLanesSpecials />
         <FAQ />
         <HotelInfo />
         <JerseyInfo />

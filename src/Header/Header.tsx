@@ -10,9 +10,9 @@ import styles from "./header.module.css";
 
 import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
-import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer.pdf";
-import proAmForm from "@/assets/doc/CV LH Pro Am Flyer.pdf";
-import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024.pdf";
+import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer-min.pdf";
+import proAmForm from "@/assets/doc/CV LH Pro Am Flyer-min.pdf";
+import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024-min.pdf";
 import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
 import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
