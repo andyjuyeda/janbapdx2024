@@ -192,7 +192,7 @@ function HotelInfo() {
         >
           <Button
             variant="secondary"
-            className="flex w-[200px] items-center gap-3"
+            className="flex w-[250px] items-center gap-3"
           >
             <span>Staybridge Suites</span>
           </Button>
@@ -205,7 +205,7 @@ function HotelInfo() {
         >
           <Button
             variant="secondary"
-            className="flex w-[200px] items-center gap-3"
+            className="flex w-[250px] items-center gap-3"
           >
             <span>Courtyard</span>
           </Button>
@@ -218,7 +218,7 @@ function HotelInfo() {
         >
           <Button
             variant="secondary"
-            className="flex w-[200px] items-center gap-3"
+            className="flex w-[250px] items-center gap-3"
           >
             <span>Holiday Inn</span>
           </Button>
@@ -329,17 +329,17 @@ function ParkLanesSpecials() {
         <CardFooter>
           <div className="flex flex-col gap-2 items-center mx-auto">
             <a href={proShopSpecials} target="_blank" rel="noopener noreferrer">
-              <Button variant={"secondary"} className="w-[200px]">Pro Shop Specials</Button>
+              <Button variant={"secondary"} className="w-[250px]">Pro Shop Specials</Button>
             </a>
             <a href={foodMenu} target="_blank" rel="noopener noreferrer">
-              <Button variant={"secondary"} className="w-[200px]">Food Specials</Button>
+              <Button variant={"secondary"} className="w-[250px]">Food Specials</Button>
             </a>
             <a
               href={entertainmentSchedule}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Button variant={"secondary"} className="w-[200px]">Entertainment Schedule</Button>
+              <Button variant={"secondary"} className="w-[250px]">Entertainment Schedule</Button>
             </a>
           </div>
         </CardFooter>
