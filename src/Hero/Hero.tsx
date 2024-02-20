@@ -10,8 +10,6 @@ import mountainPeakImg from "@/assets/img/mountain-peak.png";
 import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
 import { buttonVariants } from "@/components/ui/button";
-import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer-min.pdf";
-import proAmForm from "@/assets/doc/CV LH Pro Am Flyer-min.pdf";
 
 
 function HeroAlert() {
@@ -32,10 +30,9 @@ function HeroAlert() {
         />
       </svg>
 
-      <AlertTitle className="hidden md:block">Specials and Events!</AlertTitle>
+      <AlertTitle className="font-bold">SCHEDULE UPDATE - FEBRUARY 19</AlertTitle>
       <AlertDescription>
-        During the tournament there will be fun extra events including Monte
-        Carlo and a Pro-Am with Chris Via and Leanne Hulsenburg!
+        There have been updates to some events. Please check the schedule for the most up-to-date lane assignments.
       </AlertDescription>
     </Alert>
   );
@@ -77,24 +74,12 @@ export default function Hero() {
           <HeroAlert />
           <div className="flex flex-col gap-3 md:flex-row md:gap-3">
             <a
-              href={monteCarloForm}
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#schedule"
               className={`${buttonVariants({
                 variant: "default",
               })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
             >
-              Monte Carlo
-            </a>
-            <a
-              href={proAmForm}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={`${buttonVariants({
-                variant: "default",
-              })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
-            >
-              Pro-Am
+              View Schedule
             </a>
           </div>
         </div>

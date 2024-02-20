@@ -21,6 +21,8 @@ import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 import entertainmentSchedule from "@/assets/doc/Live Entertainment Bar Digital Signage JANBA Resize-min.pdf";
 import foodMenu from "@/assets/doc/JANBA Menu 2024-min.pdf";
 import proShopSpecials from "@/assets/doc/JANBA Pro Shop Specials 2024-min.pdf";
+import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer-min.pdf";
+import proAmForm from "@/assets/doc/CV LH Pro Am Flyer-min.pdf";
 
 import { Button } from "./components/ui/button";
 
@@ -315,7 +317,7 @@ function SponsorInfo() {
 function ParkLanesSpecials() {
   return (
     <div className="col-span-4 col-start-1 row-span-2 row-start-4">
-      <Card className="bg-primary min-h-full">
+      <Card className="min-h-full bg-primary">
         <CardHeader>
           <CardTitle>Park Lanes Specials</CardTitle>
         </CardHeader>
@@ -323,23 +325,47 @@ function ParkLanesSpecials() {
           <p>
             During the week of JANBA, Park Lanes will have deals in the pro
             shop, some special food options, as well as nightly entertainment in
-            the bar area!
+            the bar area! There will also be a night of Monte Carlo as well as a Pro-Am with Chris Via and Leanne Hulsenburg!
           </p>
         </CardContent>
         <CardFooter>
-          <div className="flex flex-col gap-2 items-center mx-auto">
+          <div className="mx-auto flex flex-col items-center gap-2">
             <a href={proShopSpecials} target="_blank" rel="noopener noreferrer">
-              <Button variant={"secondary"} className="w-[250px]">Pro Shop Specials</Button>
+              <Button variant={"secondary"} className="w-[250px]">
+                Pro Shop Specials
+              </Button>
             </a>
             <a href={foodMenu} target="_blank" rel="noopener noreferrer">
-              <Button variant={"secondary"} className="w-[250px]">Food Specials</Button>
+              <Button variant={"secondary"} className="w-[250px]">
+                Food Specials
+              </Button>
             </a>
             <a
               href={entertainmentSchedule}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Button variant={"secondary"} className="w-[250px]">Entertainment Schedule</Button>
+              <Button variant={"secondary"} className="w-[250px]">
+                Entertainment Schedule
+              </Button>
+            </a>
+            <a
+              href={monteCarloForm}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant={"secondary"} className="w-[250px]">
+                Monte Carlo
+              </Button>
+            </a>
+            <a
+              href={proAmForm}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant={"secondary"} className="w-[250px]">
+                Pro-Am
+              </Button>
             </a>
           </div>
         </CardFooter>
