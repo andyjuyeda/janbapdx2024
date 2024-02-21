@@ -11,7 +11,6 @@ import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
 import { buttonVariants } from "@/components/ui/button";
 
-
 function HeroAlert() {
   return (
     <Alert className="border-md max-w-[90%] bg-slate-50 text-dark-blue md:max-w-[800px]">
@@ -30,9 +29,12 @@ function HeroAlert() {
         />
       </svg>
 
-      <AlertTitle className="font-bold">SCHEDULE UPDATE - FEBRUARY 19</AlertTitle>
+      <AlertTitle className="font-bold">
+        SCHEDULE UPDATE - FEBRUARY 19
+      </AlertTitle>
       <AlertDescription>
-        There have been updates to some events. Please check the schedule for the most up-to-date lane assignments.
+        There have been updates to some events. Please check the schedule for
+        the most up-to-date lane assignments.
       </AlertDescription>
     </Alert>
   );
