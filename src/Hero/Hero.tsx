@@ -30,7 +30,7 @@ function HeroAlert() {
       </svg>
 
       <AlertTitle className="font-bold">
-        SCHEDULE UPDATE - FEBRUARY 19
+        SCHEDULE UPDATE - FEBRUARY 20
       </AlertTitle>
       <AlertDescription>
         There have been updates to some events. Please check the schedule for
