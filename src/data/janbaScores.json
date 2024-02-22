@@ -7669,24 +7669,6 @@
     },
     {
         "Lane": 15,
-        "Name": "Garrick Shishido",
-        "Average": 136,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Garrick Shishido"
-    },
-    {
-        "Lane": 15,
-        "Name": "Wayne Nagasawa",
-        "Average": 156,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Wayne Nagasawa"
-    },
-    {
-        "Lane": 16,
         "Name": "Wesley Smith",
         "Average": 140,
         "Division": 1,
@@ -7695,7 +7677,7 @@
         "_id": "Men's Doubles_Wesley Smith"
     },
     {
-        "Lane": 16,
+        "Lane": 15,
         "Name": "Bruce Hashimoto",
         "Average": 157,
         "Division": 1,
@@ -7704,7 +7686,7 @@
         "_id": "Men's Doubles_Bruce Hashimoto"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Christopher Peace",
         "Average": 130,
         "Division": 1,
@@ -7713,7 +7695,7 @@
         "_id": "Men's Doubles_Christopher Peace"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Roy Umehira",
         "Average": 183,
         "Division": 1,
@@ -7722,7 +7704,7 @@
         "_id": "Men's Doubles_Roy Umehira"
     },
     {
-        "Lane": 18,
+        "Lane": 17,
         "Name": "Tyler Haller",
         "Average": 140,
         "Division": 1,
@@ -7731,7 +7713,7 @@
         "_id": "Men's Doubles_Tyler Haller"
     },
     {
-        "Lane": 18,
+        "Lane": 17,
         "Name": "Wayne Wakabayashi",
         "Average": 174,
         "Division": 1,
@@ -7740,7 +7722,7 @@
         "_id": "Men's Doubles_Wayne Wakabayashi"
     },
     {
-        "Lane": 19,
+        "Lane": 18,
         "Name": "Garrett Yoshimoto",
         "Average": 159,
         "Division": 1,
@@ -7749,7 +7731,7 @@
         "_id": "Men's Doubles_Garrett Yoshimoto"
     },
     {
-        "Lane": 19,
+        "Lane": 18,
         "Name": "Ryan Tamura",
         "Average": 165,
         "Division": 1,
@@ -7758,7 +7740,7 @@
         "_id": "Men's Doubles_Ryan Tamura"
     },
     {
-        "Lane": 20,
+        "Lane": 19,
         "Name": "Randy Pearson",
         "Average": 167,
         "Division": 1,
@@ -7767,7 +7749,7 @@
         "_id": "Men's Doubles_Randy Pearson"
     },
     {
-        "Lane": 20,
+        "Lane": 19,
         "Name": "Patrick Oki",
         "Average": 158,
         "Division": 1,
@@ -7776,7 +7758,7 @@
         "_id": "Men's Doubles_Patrick Oki"
     },
     {
-        "Lane": 21,
+        "Lane": 20,
         "Name": "Ben E Yamamoto",
         "Average": 146,
         "Division": 1,
@@ -7785,7 +7767,7 @@
         "_id": "Men's Doubles_Ben E Yamamoto"
     },
     {
-        "Lane": 21,
+        "Lane": 20,
         "Name": "Ben I Yamamoto",
         "Average": 180,
         "Division": 1,
@@ -7794,7 +7776,7 @@
         "_id": "Men's Doubles_Ben I Yamamoto"
     },
     {
-        "Lane": 22,
+        "Lane": 21,
         "Name": "Kaz Sato",
         "Average": 163,
         "Division": 1,
@@ -7803,7 +7785,7 @@
         "_id": "Men's Doubles_Kaz Sato"
     },
     {
-        "Lane": 22,
+        "Lane": 21,
         "Name": "Raymond Kinoshita",
         "Average": 163,
         "Division": 1,
@@ -7812,7 +7794,7 @@
         "_id": "Men's Doubles_Raymond Kinoshita"
     },
     {
-        "Lane": 23,
+        "Lane": 22,
         "Name": "Aki Kim",
         "Average": 171,
         "Division": 1,
@@ -7821,7 +7803,7 @@
         "_id": "Men's Doubles_Aki Kim"
     },
     {
-        "Lane": 23,
+        "Lane": 22,
         "Name": "Uriel Engle",
         "Average": 164,
         "Division": 1,
@@ -7830,7 +7812,7 @@
         "_id": "Men's Doubles_Uriel Engle"
     },
     {
-        "Lane": 24,
+        "Lane": 23,
         "Name": "Michael Anzivino",
         "Average": 141,
         "Division": 1,
@@ -7839,7 +7821,7 @@
         "_id": "Men's Doubles_Michael Anzivino"
     },
     {
-        "Lane": 24,
+        "Lane": 23,
         "Name": "Mike Smith",
         "Average": 196,
         "Division": 1,
@@ -7848,7 +7830,7 @@
         "_id": "Men's Doubles_Mike Smith"
     },
     {
-        "Lane": 25,
+        "Lane": 24,
         "Name": "Marcelo Mitre",
         "Average": 149,
         "Division": 1,
@@ -7857,7 +7839,7 @@
         "_id": "Men's Doubles_Marcelo Mitre"
     },
     {
-        "Lane": 25,
+        "Lane": 24,
         "Name": "Jeff Mitre",
         "Average": 190,
         "Division": 1,
@@ -7866,7 +7848,7 @@
         "_id": "Men's Doubles_Jeff Mitre"
     },
     {
-        "Lane": 26,
+        "Lane": 25,
         "Name": "Don Jordan",
         "Average": 160,
         "Division": 1,
@@ -7875,7 +7857,7 @@
         "_id": "Men's Doubles_Don Jordan"
     },
     {
-        "Lane": 26,
+        "Lane": 25,
         "Name": "Harold Okino",
         "Average": 180,
         "Division": 1,
@@ -7884,7 +7866,7 @@
         "_id": "Men's Doubles_Harold Okino"
     },
     {
-        "Lane": 27,
+        "Lane": 26,
         "Name": "Garrett Furuta",
         "Average": 147,
         "Division": 1,
@@ -7893,7 +7875,7 @@
         "_id": "Men's Doubles_Garrett Furuta"
     },
     {
-        "Lane": 27,
+        "Lane": 26,
         "Name": "Russell Kame",
         "Average": 193,
         "Division": 1,
@@ -7902,7 +7884,7 @@
         "_id": "Men's Doubles_Russell Kame"
     },
     {
-        "Lane": 28,
+        "Lane": 27,
         "Name": "Craig Terashima",
         "Average": 124,
         "Division": 1,
@@ -7911,7 +7893,7 @@
         "_id": "Men's Doubles_Craig Terashima"
     },
     {
-        "Lane": 28,
+        "Lane": 27,
         "Name": "Dean Sato",
         "Average": 146,
         "Division": 1,
@@ -7920,7 +7902,7 @@
         "_id": "Men's Doubles_Dean Sato"
     },
     {
-        "Lane": 29,
+        "Lane": 28,
         "Name": "Kevin Sato",
         "Average": 120,
         "Division": 1,
@@ -7929,13 +7911,31 @@
         "_id": "Men's Doubles_Kevin Sato"
     },
     {
-        "Lane": 29,
+        "Lane": 28,
         "Name": "Kirk Terashima",
         "Average": 171,
         "Division": 1,
         "Score": [],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kirk Terashima"
+    },
+    {
+        "Lane": 29,
+        "Name": "Garrick Shishido",
+        "Average": 136,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Garrick Shishido"
+    },
+    {
+        "Lane": 29,
+        "Name": "Wayne Nagasawa",
+        "Average": 156,
+        "Division": 1,
+        "Score": [],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Wayne Nagasawa"
     },
     {
         "Lane": 1,
@@ -11602,6 +11602,15 @@
     },
     {
         "Lane": 1,
+        "Name": "Ken Wing",
+        "Average": 197,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Ken Wing"
+    },
+    {
+        "Lane": 1,
         "Name": "Mikel Onaka",
         "Average": 198,
         "Division": 5,
@@ -11755,21 +11764,30 @@
     },
     {
         "Lane": 10,
-        "Name": "Anthony Madrona",
-        "Average": 197,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Anthony Madrona"
-    },
-    {
-        "Lane": 10,
         "Name": "Harold Ogata Jr",
         "Average": 196,
         "Division": 5,
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Harold Ogata Jr"
+    },
+    {
+        "Lane": 10,
+        "Name": "Greg Mayeda",
+        "Average": 196,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Greg Mayeda"
+    },
+    {
+        "Lane": 11,
+        "Name": "Anthony Madrona",
+        "Average": 197,
+        "Division": 5,
+        "Score": [],
+        "Event": "Men's Singles",
+        "_id": "Men's Singles_Anthony Madrona"
     },
     {
         "Lane": 11,
@@ -11781,7 +11799,7 @@
         "_id": "Men's Singles_Ray Tamura"
     },
     {
-        "Lane": 11,
+        "Lane": 12,
         "Name": "Kento Hirata",
         "Average": 197,
         "Division": 5,
@@ -11797,24 +11815,6 @@
         "Score": [],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Okumura"
-    },
-    {
-        "Lane": 12,
-        "Name": "Ken Wing",
-        "Average": 197,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Ken Wing"
-    },
-    {
-        "Lane": 22,
-        "Name": "Greg Mayeda",
-        "Average": 196,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Greg Mayeda"
     },
     {
         "Lane": 13,
