@@ -23,6 +23,7 @@ import foodMenu from "@/assets/doc/JANBA Menu 2024-min.pdf";
 import proShopSpecials from "@/assets/doc/JANBA Pro Shop Specials 2024-min.pdf";
 import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer-min.pdf";
 import proAmForm from "@/assets/doc/CV LH Pro Am Flyer-min.pdf";
+import matchmakerForm from "@/assets/doc/MatchMaker JANBA-min.pdf";
 
 import { Button } from "./components/ui/button";
 
@@ -365,6 +366,15 @@ function ParkLanesSpecials() {
             >
               <Button variant={"secondary"} className="w-[250px]">
                 Pro-Am
+              </Button>
+            </a>
+            <a
+              href={matchmakerForm}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant={"secondary"} className="w-[250px]">
+                Storm Matchmaker
               </Button>
             </a>
           </div>
