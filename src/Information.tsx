@@ -24,6 +24,7 @@ import proShopSpecials from "@/assets/doc/JANBA Pro Shop Specials 2024-min.pdf";
 import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer-min.pdf";
 import proAmForm from "@/assets/doc/CV LH Pro Am Flyer-min.pdf";
 import matchmakerForm from "@/assets/doc/MatchMaker JANBA-min.pdf";
+import nikeFlyer from "@/assets/doc/Nike Employee Store-min.pdf";
 
 import { Button } from "./components/ui/button";
 
@@ -46,7 +47,7 @@ function detectDevice() {
 function MapsCard() {
   const device = detectDevice();
   return (
-    <Card className="col-start-1 col-end-4 flex flex-col md:row-span-3 lg:col-span-4">
+    <Card className="col-start-1 col-end-4 row-start-1 flex flex-col md:row-span-2 lg:col-span-4">
       <CardHeader className="">
         <CardTitle className="text-xl md:text-2xl">
           Park Lanes Family Entertainment Center
@@ -124,7 +125,7 @@ function MapsCard() {
 
 function FAQ() {
   return (
-    <div className="bg-transparent col-start-5 col-end-9 row-span-4 row-start-3 rounded-lg p-2 md:px-5">
+    <div className="bg-transparent col-span-4 col-start-5 row-span-4 row-start-3 rounded-lg p-2 md:px-5">
       <h1 className="m-5 text-center text-lg font-bold text-primary">
         Frequently Asked Questions
       </h1>
@@ -178,7 +179,7 @@ function FAQ() {
 
 function HotelInfo() {
   return (
-    <div className="col-start-5 col-end-9 row-span-2 row-start-1 grid grid-cols-1 grid-rows-[1fr_1fr_3fr] items-center rounded-lg bg-primary">
+    <div className="col-span-4 col-start-9 row-span-2 row-start-3 grid grid-cols-1 grid-rows-[1fr_1fr_3fr] items-center rounded-lg bg-primary">
       <h1 className="row-start-1 m-3 text-center text-lg font-bold text-dark-blue">
         Hotel Information
       </h1>
@@ -233,7 +234,7 @@ function HotelInfo() {
 
 function JerseyInfo() {
   return (
-    <div className="col-start-10 items-center rounded-lg md:row-span-3 lg:col-span-4">
+    <div className="col-span-4 col-start-9 row-span-2 items-center rounded-lg">
       <Card className="h-full border-none shadow-none">
         <CardHeader className="">
           <CardTitle className="">Janba 2024 Jersey</CardTitle>
@@ -280,7 +281,7 @@ function JerseyInfo() {
 
 function SponsorInfo() {
   return (
-    <div className="col-start-10 row-start-4 items-center rounded-lg md:row-span-2 lg:col-span-4">
+    <div className="col-span-4 col-start-5 row-start-2 items-center rounded-lg">
       <Card className="min-h-full">
         <CardHeader>
           <CardTitle>Tournament Sponsors</CardTitle>
@@ -315,9 +316,37 @@ function SponsorInfo() {
   );
 }
 
+function NikeInfo() {
+  return (
+    <div className="col-span-4 col-start-5 row-start-1 items-center rounded-lg">
+      <Card className="min-h-full bg-slate-950 text-slate-50">
+        <CardHeader>
+          <CardTitle className="">Nike Company Store Access</CardTitle>
+        </CardHeader>
+        <CardContent className="">
+          <div>
+            Nike has invited all JANBA competitors to shop at the Nike Company
+            Store during the week of JANBA! For more information, see the flyer
+            below.
+          </div>
+        </CardContent>
+        <CardFooter>
+          <div className="mx-auto w-full md:w-[50%]">
+            <a href={nikeFlyer} target="_blank" rel="noopener noreferrer">
+              <Button variant="secondary" className="w-full">
+                More Information
+              </Button>
+            </a>
+          </div>
+        </CardFooter>
+      </Card>
+    </div>
+  );
+}
+
 function ParkLanesSpecials() {
   return (
-    <div className="col-span-4 col-start-1 row-span-2 row-start-4">
+    <div className="col-span-4 col-start-1 row-span-2 row-start-3">
       <Card className="min-h-full bg-primary">
         <CardHeader>
           <CardTitle>Park Lanes Specials</CardTitle>
@@ -326,18 +355,19 @@ function ParkLanesSpecials() {
           <p>
             During the week of JANBA, Park Lanes will have deals in the pro
             shop, some special food options, as well as nightly entertainment in
-            the bar area! There will also be a night of Monte Carlo as well as a Pro-Am with Chris Via and Leanne Hulsenburg!
+            the bar area! There will also be a night of Monte Carlo as well as a
+            Pro-Am with Chris Via and Leanne Hulsenburg!
           </p>
         </CardContent>
         <CardFooter>
-          <div className="mx-auto flex flex-col items-center gap-2">
+          <div className="mx-auto grid grid-cols-2 items-center gap-2">
             <a href={proShopSpecials} target="_blank" rel="noopener noreferrer">
-              <Button variant={"secondary"} className="w-[250px]">
+              <Button variant={"secondary"} className="w-full">
                 Pro Shop Specials
               </Button>
             </a>
             <a href={foodMenu} target="_blank" rel="noopener noreferrer">
-              <Button variant={"secondary"} className="w-[250px]">
+              <Button variant={"secondary"} className="w-full">
                 Food Specials
               </Button>
             </a>
@@ -346,34 +376,22 @@ function ParkLanesSpecials() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Button variant={"secondary"} className="w-[250px]">
+              <Button variant={"secondary"} className="w-full">
                 Entertainment Schedule
               </Button>
             </a>
-            <a
-              href={monteCarloForm}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button variant={"secondary"} className="w-[250px]">
+            <a href={monteCarloForm} target="_blank" rel="noopener noreferrer">
+              <Button variant={"secondary"} className="w-full">
                 Monte Carlo
               </Button>
             </a>
-            <a
-              href={proAmForm}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button variant={"secondary"} className="w-[250px]">
+            <a href={proAmForm} target="_blank" rel="noopener noreferrer">
+              <Button variant={"secondary"} className="w-full">
                 Pro-Am
               </Button>
             </a>
-            <a
-              href={matchmakerForm}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button variant={"secondary"} className="w-[250px]">
+            <a href={matchmakerForm} target="_blank" rel="noopener noreferrer">
+              <Button variant={"secondary"} className="w-full">
                 Storm Matchmaker
               </Button>
             </a>
@@ -393,7 +411,8 @@ export default function Information() {
       >
         Event Information
       </h1>
-      <div className="md:min-h-3/4 flex h-full grid-cols-12 grid-rows-6 flex-col gap-5 md:grid">
+      <div className="flex h-full grid-cols-12 grid-rows-5 flex-col gap-5 md:grid md:min-h-[75%]">
+        <NikeInfo />
         <MapsCard />
         <ParkLanesSpecials />
         <FAQ />

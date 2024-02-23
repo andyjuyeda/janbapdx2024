@@ -16,6 +16,7 @@ import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024-min.pdf";
 import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
 import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
+import nikeFlyer from "@/assets/doc/Nike Employee Store-min.pdf";
 
 type NavLinkProps = {
   link: string;
@@ -35,7 +36,7 @@ function NavLink({ link, onClick }: NavLinkProps & { onClick: () => void }) {
 
 function FormsMenu() {
   return (
-    <DropdownMenuContent>
+    <DropdownMenuContent className="">
       <DropdownMenuItem>
         <a href={rulesForm} target="_blank" rel="noopener noreferrer">
           Tournament Rules
@@ -89,6 +90,11 @@ function FormsMenu() {
       <DropdownMenuItem>
         <a href={womensEntryForm} target="_blank" rel="noopener noreferrer">
           Women's Entry Form
+        </a>
+      </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={nikeFlyer} target="_blank" rel="noopener noreferrer">
+          Nike Store Information
         </a>
       </DropdownMenuItem>
     </DropdownMenuContent>
