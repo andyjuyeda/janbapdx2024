@@ -17,6 +17,7 @@ import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
 import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
 import nikeFlyer from "@/assets/doc/Nike Employee Store-min.pdf";
+import ragtimeFlyer from "@/assets/doc/JANBA 2024 - Ragtime-min.pdf";
 
 type NavLinkProps = {
   link: string;
@@ -95,6 +96,11 @@ function FormsMenu() {
       <DropdownMenuItem>
         <a href={nikeFlyer} target="_blank" rel="noopener noreferrer">
           Nike Store Information
+        </a>
+      </DropdownMenuItem>
+      <DropdownMenuItem>
+        <a href={ragtimeFlyer} target="_blank" rel="noopener noreferrer">
+          Ragtime Signup
         </a>
       </DropdownMenuItem>
     </DropdownMenuContent>
