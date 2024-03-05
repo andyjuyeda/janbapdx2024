@@ -10,7 +10,6 @@ import mountainPeakImg from "@/assets/img/mountain-peak.png";
 import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
 import { buttonVariants } from "@/components/ui/button";
-import ragtimeFlyer from "@/assets/doc/JANBA 2024 - Ragtime-min.pdf";
 
 function HeroAlert() {
   return (
@@ -31,10 +30,10 @@ function HeroAlert() {
       </svg>
 
       <AlertTitle className="font-bold">
-        RAGTIME ENTRIES
+        SCORES AVAILABLE
       </AlertTitle>
       <AlertDescription>
-        If you would like to sign up for Ragtime Doubles ahead of Sunday, please view the flyer below!
+        Unofficial scores for the Men's and Women's Classic events are available in the results section below!
       </AlertDescription>
     </Alert>
   );
@@ -76,12 +75,12 @@ export default function Hero() {
           <HeroAlert />
           <div className="flex flex-col gap-3 md:flex-row md:gap-3">
             <a
-              href={ragtimeFlyer}
+              href="#results"
               className={`${buttonVariants({
                 variant: "default",
               })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
             >
-              Ragtime Information
+              Results
             </a>
           </div>
         </div>

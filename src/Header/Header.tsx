@@ -140,6 +140,7 @@ export default function Header() {
           <NavLink link="home" onClick={closeMenu} />
           <NavLink link="information" onClick={closeMenu} />
           <NavLink link="schedule" onClick={closeMenu} />
+          <NavLink link="results" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
           <DropdownMenu>
             <DropdownMenuTrigger className="text-lg font-bold uppercase text-slate-50">
@@ -172,6 +173,7 @@ export default function Header() {
         <nav className="hidden w-4/5 justify-evenly place-self-center font-semibold uppercase text-slate-50 md:flex">
           <NavLink link="information" onClick={closeMenu} />
           <NavLink link="schedule" onClick={closeMenu} />
+          <NavLink link="results" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
         </nav>
         <div className="col-start-3 mx-3 hidden justify-self-end md:block">

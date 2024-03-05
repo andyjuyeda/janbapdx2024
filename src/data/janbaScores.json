@@ -4,1638 +4,2756 @@
         "Name": "Danielle Kitaoka",
         "Average": 114,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Danielle Kitaoka"
+        "Score": [
+            144,
+            117,
+            103,
+            104
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Danielle Kitaoka"
     },
     {
         "Lane": 1,
         "Name": "Fran Ellis",
         "Average": 120,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Fran Ellis"
+        "Score": [
+            105,
+            105,
+            104,
+            112
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Fran Ellis"
     },
     {
         "Lane": 2,
         "Name": "Carol Mizutani",
         "Average": 133,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Carol Mizutani"
+        "Score": [
+            124,
+            167,
+            114,
+            127
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Carol Mizutani"
     },
     {
         "Lane": 2,
         "Name": "Judy Kawabata",
         "Average": 131,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Judy Kawabata"
+        "Score": [
+            90,
+            127,
+            123,
+            121
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Judy Kawabata"
     },
     {
         "Lane": 3,
         "Name": "Miya Tsumura",
         "Average": 144,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Miya Tsumura"
+        "Score": [
+            152,
+            148,
+            156,
+            165
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Miya Tsumura"
     },
     {
         "Lane": 3,
         "Name": "Linda Okuda",
         "Average": 143,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Linda Okuda"
+        "Score": [
+            173,
+            106,
+            149,
+            163
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Linda Okuda"
     },
     {
         "Lane": 4,
         "Name": "Janet Kawachi",
         "Average": 150,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Janet Kawachi"
+        "Score": [
+            138,
+            153,
+            130,
+            146
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Janet Kawachi"
     },
     {
         "Lane": 4,
         "Name": "Julianne Tosaya",
         "Average": 149,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Julianne Tosaya"
+        "Score": [
+            173,
+            166,
+            135,
+            162
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Julianne Tosaya"
     },
     {
         "Lane": 5,
         "Name": "April Okazaki",
         "Average": 152,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_April Okazaki"
+        "Score": [
+            123,
+            165,
+            147,
+            154
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_April Okazaki"
     },
     {
         "Lane": 5,
         "Name": "Sandy Kaneshige",
         "Average": 150,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Sandy Kaneshige"
+        "Score": [
+            146,
+            125,
+            161,
+            145
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Sandy Kaneshige"
     },
     {
         "Lane": 6,
         "Name": "Donna Nakayama",
         "Average": 152,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Donna Nakayama"
+        "Score": [
+            142,
+            146,
+            167,
+            132
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Donna Nakayama"
     },
     {
         "Lane": 6,
         "Name": "Rhonda Kaneshige",
         "Average": 153,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Rhonda Kaneshige"
+        "Score": [
+            142,
+            136,
+            185,
+            173
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Rhonda Kaneshige"
     },
     {
         "Lane": 7,
         "Name": "Chris Brewster",
         "Average": 156,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Chris Brewster"
+        "Score": [
+            154,
+            154,
+            136,
+            168
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Chris Brewster"
     },
     {
         "Lane": 7,
         "Name": "June Kurano",
         "Average": 154,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_June Kurano"
+        "Score": [
+            149,
+            152,
+            126,
+            155
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_June Kurano"
     },
     {
         "Lane": 8,
         "Name": "Marion Yee",
         "Average": 157,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Marion Yee"
+        "Score": [
+            159,
+            158,
+            150,
+            157
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Marion Yee"
     },
     {
         "Lane": 8,
         "Name": "Alisa Oba",
         "Average": 158,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Alisa Oba"
+        "Score": [
+            129,
+            163,
+            116,
+            180
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Alisa Oba"
     },
     {
         "Lane": 9,
         "Name": "Sharon Eshima",
         "Average": 159,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Sharon Eshima"
+        "Score": [
+            170,
+            128,
+            146,
+            120
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Sharon Eshima"
     },
     {
         "Lane": 9,
         "Name": "Lolly Mayeda",
         "Average": 159,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Lolly Mayeda"
+        "Score": [
+            156,
+            113,
+            187,
+            158
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Lolly Mayeda"
     },
     {
         "Lane": 10,
         "Name": "Glenice Bowman",
         "Average": 161,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Glenice Bowman"
+        "Score": [
+            177,
+            147,
+            171,
+            156
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Glenice Bowman"
     },
     {
         "Lane": 10,
         "Name": "Holly Itami-Springfels",
         "Average": 161,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Holly Itami-Springfels"
+        "Score": [
+            113,
+            124,
+            120,
+            170
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Holly Itami-Springfels"
     },
     {
         "Lane": 11,
         "Name": "Casey Mori",
         "Average": 162,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Casey Mori"
+        "Score": [
+            162,
+            190,
+            182,
+            207
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Casey Mori"
     },
     {
         "Lane": 11,
         "Name": "Barbara Takahashi",
         "Average": 161,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Barbara Takahashi"
+        "Score": [
+            161,
+            187,
+            166,
+            137
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Barbara Takahashi"
     },
     {
         "Lane": 12,
         "Name": "Zoe Hung",
         "Average": 162,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Zoe Hung"
+        "Score": [
+            145,
+            141,
+            168,
+            129
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Zoe Hung"
     },
     {
         "Lane": 12,
         "Name": "Renee Matsutani",
         "Average": 162,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Renee Matsutani"
+        "Score": [
+            160,
+            137,
+            167,
+            154
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Renee Matsutani"
     },
     {
         "Lane": 13,
         "Name": "Kathy Saito",
         "Average": 165,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Kathy Saito"
+        "Score": [
+            138,
+            182,
+            133,
+            144
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Kathy Saito"
     },
     {
         "Lane": 13,
         "Name": "Kristi Thompson",
         "Average": 166,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Kristi Thompson"
+        "Score": [
+            131,
+            190,
+            166,
+            161
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Kristi Thompson"
     },
     {
         "Lane": 14,
         "Name": "Katie Onoe",
         "Average": 167,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Katie Onoe"
+        "Score": [
+            201,
+            186,
+            186,
+            140
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Katie Onoe"
     },
     {
         "Lane": 14,
         "Name": "Linda Uyeda",
         "Average": 168,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Linda Uyeda"
+        "Score": [
+            165,
+            142,
+            173,
+            182
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Linda Uyeda"
     },
     {
         "Lane": 15,
         "Name": "Kristen Kawachi",
         "Average": 171,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Kristen Kawachi"
+        "Score": [
+            179,
+            192,
+            199,
+            168
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Kristen Kawachi"
     },
     {
         "Lane": 15,
         "Name": "Mayumi Florek",
         "Average": 173,
         "Division": 1,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Mayumi Florek"
+        "Score": [
+            144,
+            199,
+            181,
+            208
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Mayumi Florek"
     },
     {
         "Lane": 17,
         "Name": "Mindy Kondo",
         "Average": 174,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Mindy Kondo"
+        "Score": [
+            200,
+            205,
+            167,
+            133
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Mindy Kondo"
     },
     {
         "Lane": 17,
         "Name": "Tracey Wandler",
         "Average": 174,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Tracey Wandler"
+        "Score": [
+            172,
+            204,
+            146,
+            200
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Tracey Wandler"
     },
     {
         "Lane": 18,
         "Name": "Kimi Adolphson",
         "Average": 175,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Kimi Adolphson"
+        "Score": [
+            132,
+            166,
+            169,
+            153
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Kimi Adolphson"
     },
     {
         "Lane": 18,
         "Name": "Ayame Yokomizo",
         "Average": 175,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Ayame Yokomizo"
+        "Score": [
+            154,
+            193,
+            142,
+            162
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Ayame Yokomizo"
     },
     {
         "Lane": 19,
         "Name": "Cindi Kaneshige",
         "Average": 177,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Cindi Kaneshige"
+        "Score": [
+            168,
+            191,
+            148,
+            214
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Cindi Kaneshige"
     },
     {
         "Lane": 19,
         "Name": "Sherri Schmaling",
         "Average": 176,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Sherri Schmaling"
+        "Score": [
+            173,
+            177,
+            181,
+            165
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Sherri Schmaling"
     },
     {
         "Lane": 20,
         "Name": "Alex Leger",
         "Average": 181,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Alex Leger"
+        "Score": [
+            154,
+            171,
+            152,
+            192
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Alex Leger"
     },
     {
         "Lane": 20,
         "Name": "Kimberly Walker",
         "Average": 179,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Kimberly Walker"
+        "Score": [
+            202,
+            157,
+            174,
+            187
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Kimberly Walker"
     },
     {
         "Lane": 21,
         "Name": "Jennifer Uno",
         "Average": 183,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Jennifer Uno"
+        "Score": [
+            159,
+            202,
+            226,
+            200
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Jennifer Uno"
     },
     {
         "Lane": 21,
         "Name": "Yako McDonnell",
         "Average": 182,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Yako McDonnell"
+        "Score": [
+            183,
+            192,
+            191,
+            171
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Yako McDonnell"
     },
     {
         "Lane": 22,
         "Name": "Coryn Watanabe",
         "Average": 192,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Coryn Watanabe"
+        "Score": [
+            224,
+            217,
+            205,
+            205
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Coryn Watanabe"
     },
     {
         "Lane": 22,
         "Name": "Krissy Nagasawa",
         "Average": 185,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Krissy Nagasawa"
+        "Score": [
+            171,
+            169,
+            200,
+            184
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Krissy Nagasawa"
     },
     {
         "Lane": 23,
         "Name": "Shannon Lee",
         "Average": 192,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Shannon Lee"
+        "Score": [
+            183,
+            246,
+            181,
+            161
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Shannon Lee"
     },
     {
         "Lane": 23,
         "Name": "Karen Adolphson",
         "Average": 192,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Karen Adolphson"
+        "Score": [
+            190,
+            196,
+            197,
+            197
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Karen Adolphson"
     },
     {
         "Lane": 24,
         "Name": "Tracey Kitaoka",
         "Average": 196,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Tracey Kitaoka"
+        "Score": [
+            206,
+            258,
+            191,
+            222
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Tracey Kitaoka"
     },
     {
         "Lane": 24,
         "Name": "Julie Kawaye",
         "Average": 194,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Julie Kawaye"
+        "Score": [
+            145,
+            136,
+            249,
+            185
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Julie Kawaye"
     },
     {
         "Lane": 25,
         "Name": "Erin Ohta",
         "Average": 197,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Erin Ohta"
+        "Score": [
+            178,
+            201,
+            216,
+            199
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Erin Ohta"
     },
     {
         "Lane": 25,
         "Name": "Jodi Hiraoka",
         "Average": 197,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Jodi Hiraoka"
+        "Score": [
+            193,
+            169,
+            157,
+            182
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Jodi Hiraoka"
     },
     {
         "Lane": 26,
         "Name": "Alix Oike",
         "Average": 200,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Alix Oike"
+        "Score": [
+            172,
+            207,
+            165,
+            149
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Alix Oike"
     },
     {
         "Lane": 26,
         "Name": "Nancy Asai",
         "Average": 198,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Nancy Asai"
+        "Score": [
+            124,
+            144,
+            172,
+            194
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Nancy Asai"
     },
     {
         "Lane": 27,
         "Name": "Darlee Horiuchi",
         "Average": 201,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Darlee Horiuchi"
+        "Score": [
+            162,
+            184,
+            169,
+            185
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Darlee Horiuchi"
     },
     {
         "Lane": 27,
         "Name": "Christalynn Ortiz",
         "Average": 201,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Christalynn Ortiz"
+        "Score": [
+            190,
+            195,
+            204,
+            195
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Christalynn Ortiz"
     },
     {
         "Lane": 28,
         "Name": "Stefanie Hirata",
         "Average": 201,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Stefanie Hirata"
+        "Score": [
+            195,
+            214,
+            149,
+            189
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Stefanie Hirata"
     },
     {
         "Lane": 28,
         "Name": "Tamlyn Murata",
         "Average": 207,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Tamlyn Murata"
+        "Score": [
+            227,
+            223,
+            203,
+            235
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Tamlyn Murata"
     },
     {
         "Lane": 29,
         "Name": "Nichole Hiraoka",
         "Average": 212,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Nichole Hiraoka"
+        "Score": [
+            167,
+            188,
+            221,
+            194
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Nichole Hiraoka"
     },
     {
         "Lane": 29,
         "Name": "Jennifer Reven",
         "Average": 213,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Jennifer Reven"
+        "Score": [
+            150,
+            178,
+            177,
+            164
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Jennifer Reven"
     },
     {
         "Lane": 30,
         "Name": "Jory Koizumi-Miyashiro",
         "Average": 213,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Jory Koizumi-Miyashiro"
+        "Score": [
+            206,
+            204,
+            257,
+            220
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Jory Koizumi-Miyashiro"
     },
     {
         "Lane": 30,
         "Name": "Kristy Coles",
         "Average": 213,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Kristy Coles"
+        "Score": [
+            145,
+            176,
+            211,
+            186
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Kristy Coles"
     },
     {
         "Lane": 31,
         "Name": "Christine Kato Asuncion",
         "Average": 214,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Christine Kato Asuncion"
+        "Score": [
+            208,
+            213,
+            223,
+            223
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Christine Kato Asuncion"
     },
     {
         "Lane": 31,
         "Name": "Leanna Harada",
         "Average": 214,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Leanna Harada"
+        "Score": [
+            155,
+            167,
+            153,
+            167
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Leanna Harada"
     },
     {
         "Lane": 32,
         "Name": "Ashley Muraoka",
         "Average": 219,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Ashley Muraoka"
+        "Score": [
+            202,
+            206,
+            214,
+            201
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Ashley Muraoka"
     },
     {
         "Lane": 32,
         "Name": "Jackie Matsutani",
         "Average": 217,
         "Division": 2,
-        "Score": [],
-        "Event": "Women's Classic",
-        "_id": "Women's Classic_Jackie Matsutani"
+        "Score": [
+            152,
+            237,
+            245,
+            197
+        ],
+        "Event": "Women's Classic (Unofficial)",
+        "_id": "Women's Classic (Unofficial)_Jackie Matsutani"
     },
     {
         "Lane": 1,
         "Name": "Ben E Yamamoto",
         "Average": 146,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Ben E Yamamoto"
+        "Score": [
+            205,
+            170,
+            183,
+            179,
+            173,
+            164
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Ben E Yamamoto"
     },
     {
         "Lane": 1,
         "Name": "Patrick Oki",
         "Average": 158,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Patrick Oki"
+        "Score": [
+            148,
+            170,
+            125,
+            138,
+            143,
+            139
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Patrick Oki"
     },
     {
         "Lane": 2,
         "Name": "Don Jordan",
         "Average": 160,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Don Jordan"
-    },
-    {
-        "Lane": 2,
-        "Name": "Garrett Yoshimoto",
-        "Average": 159,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Garrett Yoshimoto"
+        "Score": [
+            137,
+            135,
+            148,
+            116,
+            157,
+            168
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Don Jordan"
     },
     {
         "Lane": 3,
         "Name": "Bradley Kitaoka",
         "Average": 162,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Bradley Kitaoka"
+        "Score": [
+            186,
+            169,
+            178,
+            161,
+            209,
+            192
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Bradley Kitaoka"
     },
     {
         "Lane": 3,
         "Name": "Tyler Uyeda",
         "Average": 167,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Tyler Uyeda"
+        "Score": [
+            165,
+            155,
+            159,
+            199,
+            185,
+            166
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Tyler Uyeda"
     },
     {
         "Lane": 4,
         "Name": "Silas Wilson",
         "Average": 169,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Silas Wilson"
+        "Score": [
+            153,
+            133,
+            179,
+            168,
+            175,
+            162
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Silas Wilson"
     },
     {
         "Lane": 4,
         "Name": "Wayne Mayeda",
         "Average": 169,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Wayne Mayeda"
+        "Score": [
+            152,
+            146,
+            172,
+            160,
+            179,
+            148
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Wayne Mayeda"
     },
     {
         "Lane": 5,
         "Name": "Dale Okazaki",
         "Average": 173,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dale Okazaki"
+        "Score": [
+            189,
+            152,
+            183,
+            222,
+            171,
+            150
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dale Okazaki"
     },
     {
         "Lane": 5,
         "Name": "Mason McCool",
         "Average": 173,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Mason McCool"
+        "Score": [
+            207,
+            156,
+            227,
+            159,
+            137,
+            204
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Mason McCool"
     },
     {
         "Lane": 6,
         "Name": "Wayne Wakabayashi",
         "Average": 174,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Wayne Wakabayashi"
+        "Score": [
+            192,
+            147,
+            197,
+            163,
+            175,
+            156
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Wayne Wakabayashi"
     },
     {
         "Lane": 6,
         "Name": "Andy Kiyokawa",
         "Average": 174,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Andy Kiyokawa"
-    },
-    {
-        "Lane": 7,
-        "Name": "Kyle Lee",
-        "Average": 175,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kyle Lee"
+        "Score": [
+            165,
+            192,
+            222,
+            208,
+            181,
+            180
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Andy Kiyokawa"
     },
     {
         "Lane": 7,
         "Name": "Marcus Heresa",
         "Average": 175,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Marcus Heresa"
+        "Score": [
+            197,
+            184,
+            169,
+            156,
+            214,
+            138
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Marcus Heresa"
     },
     {
         "Lane": 8,
         "Name": "Robert Ho",
         "Average": 176,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Robert Ho"
+        "Score": [
+            188,
+            202,
+            193,
+            197,
+            157,
+            161
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Robert Ho"
     },
     {
         "Lane": 8,
         "Name": "Dwayn Kim",
         "Average": 175,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dwayn Kim"
+        "Score": [
+            211,
+            195,
+            211,
+            119,
+            153,
+            150
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dwayn Kim"
     },
     {
         "Lane": 9,
         "Name": "Doug Muneta",
         "Average": 176,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Doug Muneta"
+        "Score": [
+            159,
+            148,
+            113,
+            138,
+            191,
+            203
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Doug Muneta"
     },
     {
         "Lane": 9,
         "Name": "Everett Nishikawa",
         "Average": 177,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Everett Nishikawa"
+        "Score": [
+            147,
+            177,
+            177,
+            148,
+            145,
+            169
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Everett Nishikawa"
     },
     {
         "Lane": 10,
         "Name": "Dewaine Higa",
         "Average": 178,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dewaine Higa"
+        "Score": [
+            195,
+            277,
+            174,
+            226,
+            147,
+            226
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dewaine Higa"
     },
     {
         "Lane": 10,
         "Name": "Dustin Hirata",
         "Average": 178,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dustin Hirata"
+        "Score": [
+            150,
+            180,
+            180,
+            129,
+            154,
+            156
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dustin Hirata"
     },
     {
         "Lane": 11,
         "Name": "Harold Okino",
         "Average": 180,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Harold Okino"
+        "Score": [
+            187,
+            152,
+            224,
+            255,
+            185,
+            160
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Harold Okino"
     },
     {
         "Lane": 11,
         "Name": "John Mizutani",
         "Average": 181,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_John Mizutani"
+        "Score": [
+            186,
+            183,
+            193,
+            114,
+            130,
+            179
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_John Mizutani"
     },
     {
         "Lane": 12,
         "Name": "Kurt Nakashima",
         "Average": 181,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kurt Nakashima"
+        "Score": [
+            154,
+            225,
+            194,
+            183,
+            136,
+            162
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kurt Nakashima"
     },
     {
         "Lane": 12,
         "Name": "Jeff Uno",
         "Average": 182,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jeff Uno"
+        "Score": [
+            212,
+            220,
+            171,
+            191,
+            176,
+            196
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jeff Uno"
     },
     {
         "Lane": 13,
         "Name": "Stuart Kawachi",
         "Average": 183,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Stuart Kawachi"
+        "Score": [
+            192,
+            192,
+            184,
+            157,
+            156,
+            227
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Stuart Kawachi"
     },
     {
         "Lane": 13,
         "Name": "Andy Uyeda",
         "Average": 183,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Andy Uyeda"
+        "Score": [
+            191,
+            191,
+            166,
+            151,
+            209,
+            173
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Andy Uyeda"
     },
     {
         "Lane": 14,
         "Name": "Johnny Uyeda",
         "Average": 183,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Johnny Uyeda"
+        "Score": [
+            178,
+            197,
+            163,
+            170,
+            193,
+            160
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Johnny Uyeda"
     },
     {
         "Lane": 14,
         "Name": "Michael Yee",
         "Average": 183,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Michael Yee"
+        "Score": [
+            180,
+            192,
+            201,
+            180,
+            159,
+            160
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Michael Yee"
     },
     {
         "Lane": 15,
         "Name": "Stephen Yamasaki",
         "Average": 184,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Stephen Yamasaki"
+        "Score": [
+            166,
+            186,
+            193,
+            162,
+            206,
+            169
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Stephen Yamasaki"
     },
     {
         "Lane": 15,
         "Name": "Scott Watanabe - SJ",
         "Average": 184,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Scott Watanabe - SJ"
+        "Score": [
+            177,
+            172,
+            170,
+            196,
+            158,
+            147
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Scott Watanabe - SJ"
     },
     {
         "Lane": 16,
         "Name": "Craig Horita",
         "Average": 185,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Craig Horita"
+        "Score": [
+            179,
+            166,
+            137,
+            174,
+            173,
+            174
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Craig Horita"
     },
     {
         "Lane": 16,
         "Name": "Henry Isefuku",
         "Average": 185,
         "Division": 1,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Henry Isefuku"
+        "Score": [
+            161,
+            177,
+            159,
+            182,
+            165,
+            140
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Henry Isefuku"
     },
     {
         "Lane": 17,
         "Name": "Jonathan Tamayose",
         "Average": 186,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jonathan Tamayose"
+        "Score": [
+            189,
+            158,
+            147,
+            189,
+            178,
+            169
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jonathan Tamayose"
     },
     {
         "Lane": 17,
         "Name": "Jeff Komatsu",
         "Average": 185,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jeff Komatsu"
+        "Score": [
+            157,
+            217,
+            181,
+            215,
+            240,
+            175
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jeff Komatsu"
     },
     {
         "Lane": 18,
         "Name": "Jun Kataoka",
         "Average": 186,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jun Kataoka"
+        "Score": [
+            122,
+            171,
+            162,
+            160,
+            214,
+            139
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jun Kataoka"
     },
     {
         "Lane": 18,
         "Name": "Matt Masukawa",
         "Average": 186,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Matt Masukawa"
+        "Score": [
+            191,
+            151,
+            167,
+            199,
+            148,
+            153
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Matt Masukawa"
     },
     {
         "Lane": 19,
         "Name": "Gary Nishikawa",
         "Average": 186,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Gary Nishikawa"
+        "Score": [
+            202,
+            150,
+            195,
+            181,
+            164,
+            207
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Gary Nishikawa"
     },
     {
         "Lane": 19,
         "Name": "Brandon Jue",
         "Average": 186,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Brandon Jue"
+        "Score": [
+            178,
+            236,
+            227,
+            166,
+            191,
+            235
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Brandon Jue"
     },
     {
         "Lane": 20,
         "Name": "Richard Ho",
         "Average": 189,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Richard Ho"
+        "Score": [
+            140,
+            138,
+            118,
+            137,
+            137,
+            183
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Richard Ho"
     },
     {
         "Lane": 20,
         "Name": "Bruce Akau",
         "Average": 189,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Bruce Akau"
+        "Score": [
+            189,
+            182,
+            179,
+            203,
+            167,
+            201
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Bruce Akau"
     },
     {
         "Lane": 21,
         "Name": "Rob Yano",
         "Average": 189,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Rob Yano"
+        "Score": [
+            145,
+            185,
+            161,
+            189,
+            179,
+            137
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Rob Yano"
     },
     {
         "Lane": 21,
         "Name": "Dale Ando",
         "Average": 189,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dale Ando"
+        "Score": [
+            160,
+            196,
+            180,
+            170,
+            150,
+            190
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dale Ando"
     },
     {
         "Lane": 22,
         "Name": "Craig Sumida",
         "Average": 190,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Craig Sumida"
+        "Score": [
+            231,
+            189,
+            189,
+            211,
+            159,
+            122
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Craig Sumida"
     },
     {
         "Lane": 22,
         "Name": "Lincoln Hirata",
         "Average": 190,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Lincoln Hirata"
+        "Score": [
+            189,
+            168,
+            192,
+            257,
+            225,
+            175
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Lincoln Hirata"
     },
     {
         "Lane": 23,
         "Name": "Kris Kato",
         "Average": 190,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kris Kato"
+        "Score": [
+            235,
+            204,
+            163,
+            195,
+            168,
+            237
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kris Kato"
     },
     {
         "Lane": 23,
         "Name": "Robert Wada",
         "Average": 190,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Robert Wada"
+        "Score": [
+            165,
+            188,
+            191,
+            180,
+            126,
+            195
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Robert Wada"
     },
     {
         "Lane": 24,
         "Name": "Jason Mayeda",
         "Average": 190,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jason Mayeda"
+        "Score": [
+            203,
+            191,
+            216,
+            204,
+            184,
+            258
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jason Mayeda"
     },
     {
         "Lane": 24,
         "Name": "Jeff Mitre",
         "Average": 190,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jeff Mitre"
+        "Score": [
+            214,
+            199,
+            222,
+            201,
+            190,
+            221
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jeff Mitre"
     },
     {
         "Lane": 25,
         "Name": "Richard Uyeda",
         "Average": 191,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Richard Uyeda"
+        "Score": [
+            214,
+            166,
+            179,
+            223,
+            181,
+            168
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Richard Uyeda"
     },
     {
         "Lane": 25,
         "Name": "Alan Tosaya",
         "Average": 192,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Alan Tosaya"
+        "Score": [
+            180,
+            223,
+            217,
+            201,
+            179,
+            139
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Alan Tosaya"
     },
     {
         "Lane": 26,
         "Name": "Kay Yamanaka",
         "Average": 194,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kay Yamanaka"
+        "Score": [
+            200,
+            182,
+            180,
+            213,
+            169,
+            241
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kay Yamanaka"
     },
     {
         "Lane": 26,
         "Name": "Kevin Kawaoka",
         "Average": 194,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kevin Kawaoka"
+        "Score": [
+            190,
+            233,
+            186,
+            155,
+            204,
+            206
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kevin Kawaoka"
     },
     {
         "Lane": 27,
         "Name": "Stan Eshima",
         "Average": 194,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Stan Eshima"
+        "Score": [
+            223,
+            147,
+            150,
+            176,
+            160,
+            181
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Stan Eshima"
     },
     {
         "Lane": 27,
         "Name": "Waimun Yee",
         "Average": 195,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Waimun Yee"
+        "Score": [
+            155,
+            213,
+            174,
+            186,
+            180,
+            168
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Waimun Yee"
     },
     {
         "Lane": 28,
         "Name": "Kevin Quan",
         "Average": 196,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kevin Quan"
+        "Score": [
+            208,
+            185,
+            194,
+            188,
+            213,
+            181
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kevin Quan"
     },
     {
         "Lane": 28,
         "Name": "Mike Smith",
         "Average": 196,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Mike Smith"
+        "Score": [
+            220,
+            187,
+            191,
+            180,
+            213,
+            167
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Mike Smith"
     },
     {
         "Lane": 29,
         "Name": "Harold Ogata Jr",
         "Average": 196,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Harold Ogata Jr"
+        "Score": [
+            161,
+            139,
+            186,
+            170,
+            153,
+            234
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Harold Ogata Jr"
     },
     {
         "Lane": 29,
         "Name": "Greg Mayeda",
         "Average": 196,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Greg Mayeda"
+        "Score": [
+            235,
+            170,
+            214,
+            237,
+            181,
+            219
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Greg Mayeda"
     },
     {
         "Lane": 30,
         "Name": "Jeff Okumura",
         "Average": 197,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jeff Okumura"
+        "Score": [
+            136,
+            257,
+            212,
+            235,
+            192,
+            212
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jeff Okumura"
     },
     {
         "Lane": 30,
         "Name": "T.J. Yanuska",
         "Average": 198,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_T.J. Yanuska"
+        "Score": [
+            264,
+            226,
+            268,
+            208,
+            173,
+            230
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_T.J. Yanuska"
     },
     {
         "Lane": 31,
         "Name": "Mikel Onaka",
         "Average": 198,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Mikel Onaka"
+        "Score": [
+            233,
+            150,
+            182,
+            177,
+            182,
+            164
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Mikel Onaka"
     },
     {
         "Lane": 31,
         "Name": "Gordon Terakami",
         "Average": 198,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Gordon Terakami"
+        "Score": [
+            197,
+            244,
+            199,
+            210,
+            181,
+            193
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Gordon Terakami"
     },
     {
         "Lane": 32,
         "Name": "Michael Lo",
         "Average": 199,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Michael Lo"
+        "Score": [
+            198,
+            173,
+            205,
+            209,
+            194,
+            180
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Michael Lo"
     },
     {
         "Lane": 32,
         "Name": "Brian Uchino",
         "Average": 199,
         "Division": 2,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Brian Uchino"
+        "Score": [
+            157,
+            142,
+            173,
+            200,
+            209,
+            189
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Brian Uchino"
     },
     {
         "Lane": 1,
         "Name": "Jeff Kaneshige",
         "Average": 199,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jeff Kaneshige"
+        "Score": [
+            202,
+            208,
+            187,
+            181,
+            180,
+            194
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jeff Kaneshige"
     },
     {
         "Lane": 1,
         "Name": "Chad Itami",
         "Average": 199,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Chad Itami"
+        "Score": [
+            203,
+            218,
+            268,
+            203,
+            234,
+            217
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Chad Itami"
     },
     {
         "Lane": 2,
         "Name": "Craig Kitaoka",
         "Average": 200,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Craig Kitaoka"
+        "Score": [
+            173,
+            136,
+            148,
+            248,
+            136,
+            177
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Craig Kitaoka"
     },
     {
         "Lane": 2,
         "Name": "Corey Taniguchi",
         "Average": 201,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Corey Taniguchi"
+        "Score": [
+            178,
+            196,
+            192,
+            222,
+            220,
+            235
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Corey Taniguchi"
     },
     {
         "Lane": 3,
         "Name": "Jeffrey Hirata",
         "Average": 201,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jeffrey Hirata"
+        "Score": [
+            233,
+            214,
+            213,
+            202,
+            194,
+            167
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jeffrey Hirata"
     },
     {
         "Lane": 3,
         "Name": "Brian Hara",
         "Average": 201,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Brian Hara"
+        "Score": [
+            178,
+            180,
+            144,
+            146,
+            142,
+            120
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Brian Hara"
     },
     {
         "Lane": 4,
         "Name": "Jonathan Kajihara",
         "Average": 201,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jonathan Kajihara"
+        "Score": [
+            193,
+            227,
+            210,
+            221,
+            198,
+            207
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jonathan Kajihara"
     },
     {
         "Lane": 4,
         "Name": "Kyle Ortiz",
         "Average": 201,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kyle Ortiz"
+        "Score": [
+            172,
+            217,
+            248,
+            179,
+            201,
+            203
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kyle Ortiz"
     },
     {
         "Lane": 5,
         "Name": "Jaaycob Okumura",
         "Average": 202,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jaaycob Okumura"
+        "Score": [
+            200,
+            254,
+            181,
+            167,
+            277,
+            157
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jaaycob Okumura"
     },
     {
         "Lane": 5,
         "Name": "Chuck King",
         "Average": 201,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Chuck King"
+        "Score": [
+            192,
+            205,
+            158,
+            217,
+            208,
+            234
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Chuck King"
     },
     {
         "Lane": 6,
         "Name": "Rickey Goishi",
         "Average": 202,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Rickey Goishi"
+        "Score": [
+            223,
+            135,
+            133,
+            174,
+            168,
+            184
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Rickey Goishi"
     },
     {
         "Lane": 6,
         "Name": "Chris Heins",
         "Average": 202,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Chris Heins"
+        "Score": [
+            202,
+            257,
+            196,
+            212,
+            202,
+            192
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Chris Heins"
     },
     {
         "Lane": 7,
         "Name": "Goodman Ng",
         "Average": 203,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Goodman Ng"
+        "Score": [
+            223,
+            193,
+            223,
+            201,
+            171,
+            194
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Goodman Ng"
     },
     {
         "Lane": 7,
         "Name": "Jordan Mayeda",
         "Average": 204,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jordan Mayeda"
+        "Score": [
+            234,
+            131,
+            202,
+            181,
+            179,
+            169
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jordan Mayeda"
     },
     {
         "Lane": 8,
         "Name": "Michael Shimotsu",
         "Average": 206,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Michael Shimotsu"
+        "Score": [
+            156,
+            191,
+            176,
+            186,
+            196,
+            169
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Michael Shimotsu"
     },
     {
         "Lane": 8,
         "Name": "Austin Hogan-McCool",
         "Average": 204,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Austin Hogan-McCool"
+        "Score": [
+            191,
+            195,
+            168,
+            191,
+            186,
+            226
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Austin Hogan-McCool"
     },
     {
         "Lane": 9,
         "Name": "Owen Kuribayashi",
         "Average": 207,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Owen Kuribayashi"
+        "Score": [
+            215,
+            200,
+            188,
+            230,
+            199,
+            157
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Owen Kuribayashi"
     },
     {
         "Lane": 9,
         "Name": "Michael Yoshihara",
         "Average": 207,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Michael Yoshihara"
+        "Score": [
+            231,
+            181,
+            164,
+            133,
+            193,
+            238
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Michael Yoshihara"
     },
     {
         "Lane": 10,
         "Name": "Chris Springfels",
         "Average": 208,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Chris Springfels"
+        "Score": [
+            197,
+            258,
+            171,
+            196,
+            239,
+            246
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Chris Springfels"
     },
     {
         "Lane": 10,
         "Name": "Brian Mar",
         "Average": 208,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Brian Mar"
+        "Score": [
+            278,
+            233,
+            196,
+            201,
+            204,
+            203
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Brian Mar"
     },
     {
         "Lane": 11,
         "Name": "Josh Uyeda",
         "Average": 209,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Josh Uyeda"
+        "Score": [
+            186,
+            200,
+            179,
+            164,
+            156,
+            243
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Josh Uyeda"
     },
     {
         "Lane": 11,
         "Name": "Blaine Yoshimura",
         "Average": 208,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Blaine Yoshimura"
+        "Score": [
+            231,
+            213,
+            190,
+            156,
+            195,
+            203
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Blaine Yoshimura"
     },
     {
         "Lane": 12,
         "Name": "Ewan Oester",
         "Average": 210,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Ewan Oester"
+        "Score": [
+            263,
+            190,
+            220,
+            178,
+            190,
+            221
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Ewan Oester"
     },
     {
         "Lane": 12,
         "Name": "Keiji Kubo",
         "Average": 209,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Keiji Kubo"
+        "Score": [
+            200,
+            205,
+            208,
+            237,
+            234,
+            191
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Keiji Kubo"
     },
     {
         "Lane": 13,
         "Name": "Bruce Sunada",
         "Average": 211,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Bruce Sunada"
+        "Score": [
+            197,
+            177,
+            214,
+            195,
+            146,
+            209
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Bruce Sunada"
     },
     {
         "Lane": 13,
         "Name": "Kihei Kim",
         "Average": 210,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kihei Kim"
+        "Score": [
+            199,
+            183,
+            147,
+            232,
+            207,
+            197
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kihei Kim"
     },
     {
         "Lane": 14,
         "Name": "Brian Kaneshige",
         "Average": 211,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Brian Kaneshige"
+        "Score": [
+            178,
+            221,
+            207,
+            245,
+            210,
+            223
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Brian Kaneshige"
     },
     {
         "Lane": 14,
         "Name": "Jody Kawamura",
         "Average": 211,
         "Division": 3,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jody Kawamura"
+        "Score": [
+            265,
+            192,
+            180,
+            199,
+            222,
+            168
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jody Kawamura"
     },
     {
         "Lane": 15,
         "Name": "Dan Sasaki",
         "Average": 205,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dan Sasaki"
+        "Score": [
+            227,
+            174,
+            269,
+            200,
+            183,
+            221
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dan Sasaki"
     },
     {
         "Lane": 15,
         "Name": "Glenn Wada",
         "Average": 211,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Glenn Wada"
+        "Score": [
+            189,
+            227,
+            245,
+            226,
+            225,
+            172
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Glenn Wada"
     },
     {
         "Lane": 16,
         "Name": "Eric Tsuchida",
         "Average": 212,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Eric Tsuchida"
+        "Score": [
+            257,
+            200,
+            218,
+            203,
+            233,
+            169
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Eric Tsuchida"
     },
     {
         "Lane": 16,
         "Name": "Gary Tosaya",
         "Average": 212,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Gary Tosaya"
+        "Score": [
+            195,
+            182,
+            212,
+            188,
+            201,
+            189
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Gary Tosaya"
     },
     {
         "Lane": 17,
         "Name": "Kevin Nagasawa",
         "Average": 214,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Kevin Nagasawa"
+        "Score": [
+            176,
+            137,
+            169,
+            172,
+            151,
+            204
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Kevin Nagasawa"
     },
     {
         "Lane": 17,
         "Name": "Joshua Tajiri",
         "Average": 213,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Joshua Tajiri"
+        "Score": [
+            194,
+            194,
+            230,
+            249,
+            203,
+            202
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Joshua Tajiri"
     },
     {
         "Lane": 18,
         "Name": "Sakae Watanabe",
         "Average": 215,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Sakae Watanabe"
+        "Score": [
+            165,
+            175,
+            236,
+            157,
+            190,
+            236
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Sakae Watanabe"
     },
     {
         "Lane": 18,
         "Name": "Jim Yokomizo",
         "Average": 215,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jim Yokomizo"
+        "Score": [
+            172,
+            211,
+            219,
+            204,
+            195,
+            236
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jim Yokomizo"
     },
     {
         "Lane": 19,
         "Name": "Andy Warren",
         "Average": 217,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Andy Warren"
+        "Score": [
+            173,
+            186,
+            183,
+            182,
+            195,
+            179
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Andy Warren"
     },
     {
         "Lane": 19,
         "Name": "Steve DeSordi",
         "Average": 218,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Steve DeSordi"
+        "Score": [
+            160,
+            211,
+            259,
+            258,
+            210,
+            159
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Steve DeSordi"
     },
     {
         "Lane": 20,
         "Name": "Brian Davis",
         "Average": 219,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Brian Davis"
+        "Score": [
+            222,
+            221,
+            194,
+            247,
+            202,
+            211
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Brian Davis"
     },
     {
         "Lane": 20,
         "Name": "Mike Asuncion",
         "Average": 218,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Mike Asuncion"
+        "Score": [
+            234,
+            183,
+            212,
+            194,
+            182,
+            244
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Mike Asuncion"
     },
     {
         "Lane": 21,
         "Name": "Marc Sanwo",
         "Average": 220,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Marc Sanwo"
+        "Score": [
+            227,
+            248,
+            256,
+            202,
+            268,
+            228
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Marc Sanwo"
     },
     {
         "Lane": 21,
         "Name": "Corey Tokunaga-Reichert",
         "Average": 223,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Corey Tokunaga-Reichert"
+        "Score": [
+            210,
+            221,
+            199,
+            225,
+            232,
+            245
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Corey Tokunaga-Reichert"
     },
     {
         "Lane": 22,
         "Name": "Nate Pearson",
         "Average": 225,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Nate Pearson"
+        "Score": [
+            205,
+            230,
+            243,
+            175,
+            222,
+            177
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Nate Pearson"
     },
     {
         "Lane": 22,
         "Name": "Chad Uyehara",
         "Average": 224,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Chad Uyehara"
+        "Score": [
+            254,
+            185,
+            200,
+            181,
+            202,
+            242
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Chad Uyehara"
     },
     {
         "Lane": 23,
         "Name": "Sean Early",
         "Average": 225,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Sean Early"
+        "Score": [
+            247,
+            212,
+            209,
+            218,
+            233,
+            247
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Sean Early"
     },
     {
         "Lane": 23,
         "Name": "Jason Jones",
         "Average": 227,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Jason Jones"
+        "Score": [
+            236,
+            235,
+            248,
+            258,
+            219,
+            245
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Jason Jones"
     },
     {
         "Lane": 24,
         "Name": "Gary Okumura",
         "Average": 228,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Gary Okumura"
+        "Score": [
+            237,
+            298,
+            229,
+            269,
+            210,
+            200
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Gary Okumura"
     },
     {
         "Lane": 24,
         "Name": "Ray Valdovino",
         "Average": 227,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Ray Valdovino"
+        "Score": [
+            195,
+            234,
+            192,
+            205,
+            201,
+            201
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Ray Valdovino"
     },
     {
         "Lane": 25,
         "Name": "Ashton Yamasaki",
         "Average": 229,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Ashton Yamasaki"
+        "Score": [
+            213,
+            193,
+            192,
+            216,
+            215,
+            178
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Ashton Yamasaki"
     },
     {
         "Lane": 25,
         "Name": "Mike Sagers",
         "Average": 229,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Mike Sagers"
+        "Score": [
+            236,
+            255,
+            246,
+            299,
+            192,
+            238
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Mike Sagers"
     },
     {
         "Lane": 26,
         "Name": "Lane Ochikubo",
         "Average": 229,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Lane Ochikubo"
+        "Score": [
+            231,
+            232,
+            278,
+            279,
+            257,
+            214
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Lane Ochikubo"
     },
     {
         "Lane": 26,
         "Name": "Travis Hewitt",
         "Average": 229,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Travis Hewitt"
+        "Score": [
+            230,
+            224,
+            203,
+            256,
+            193,
+            203
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Travis Hewitt"
     },
     {
         "Lane": 27,
         "Name": "Rick Goishi",
         "Average": 230,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Rick Goishi"
+        "Score": [
+            234,
+            200,
+            257,
+            174,
+            160,
+            151
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Rick Goishi"
     },
     {
         "Lane": 27,
         "Name": "Dallas Leong",
         "Average": 233,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dallas Leong"
+        "Score": [
+            160,
+            217,
+            268,
+            204,
+            198,
+            279
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dallas Leong"
     },
     {
         "Lane": 28,
         "Name": "Dave Shoji",
         "Average": 235,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Dave Shoji"
+        "Score": [
+            224,
+            237,
+            190,
+            247,
+            192,
+            167
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Dave Shoji"
     },
     {
         "Lane": 28,
         "Name": "Ronnie Fujita",
         "Average": 237,
         "Division": 4,
-        "Score": [],
-        "Event": "Men's Classic",
-        "_id": "Men's Classic_Ronnie Fujita"
+        "Score": [
+            246,
+            248,
+            227,
+            222,
+            235,
+            213
+        ],
+        "Event": "Men's Classic (Unofficial)",
+        "_id": "Men's Classic (Unofficial)_Ronnie Fujita"
     },
     {
         "Lane": 15,

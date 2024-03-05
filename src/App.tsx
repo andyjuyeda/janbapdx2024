@@ -5,6 +5,7 @@ import Hero from "./Hero/Hero";
 import Header from "./Header/Header";
 import Information from "./Information";
 import Schedule from "./Schedule/Schedule";
+import Results from "./Results/Results";
 import Contact from "./Contact";
 import Footer from "./Footer";
 
@@ -26,6 +27,7 @@ function App() {
               <div className="px-5 sm:px-5 md:px-10 lg:px-20">
                 <Information />
                 <Schedule />
+                <Results />
                 <Contact />
                 <Footer />
               </div>
