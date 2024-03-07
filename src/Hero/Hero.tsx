@@ -31,7 +31,7 @@ function HeroAlert() {
 
       <AlertTitle className="font-bold">SCORES AVAILABLE</AlertTitle>
       <AlertDescription>
-        Unofficial scores for Mixed Doubles are now available in the results
+        Unofficial scores for Men's and Women's Team events are now available in the results
         section below!
       </AlertDescription>
     </Alert>

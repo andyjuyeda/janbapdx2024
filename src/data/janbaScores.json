@@ -5542,7 +5542,11 @@
         "Name": "Tracey Wandler",
         "Average": 174,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            190,
+            185,
+            224
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Tracey Wandler"
     },
@@ -5551,7 +5555,11 @@
         "Name": "Patti Hashimoto",
         "Average": 147,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            151,
+            125,
+            176
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Patti Hashimoto"
     },
@@ -5560,7 +5568,11 @@
         "Name": "Mary Imori",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            127,
+            150,
+            152
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Mary Imori"
     },
@@ -5569,7 +5581,11 @@
         "Name": "Janet Shibuya",
         "Average": 153,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            167,
+            153,
+            155
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Janet Shibuya"
     },
@@ -5578,7 +5594,11 @@
         "Name": "Alisa Oba",
         "Average": 158,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            160,
+            157,
+            141
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Alisa Oba"
     },
@@ -5587,7 +5607,11 @@
         "Name": "Nikki Horita",
         "Average": 169,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            147,
+            133,
+            148
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Nikki Horita"
     },
@@ -5596,7 +5620,11 @@
         "Name": "Jean Sato",
         "Average": 142,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            173,
+            130,
+            144
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jean Sato"
     },
@@ -5605,7 +5633,11 @@
         "Name": "Tena Miya",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            198,
+            153,
+            161
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Tena Miya"
     },
@@ -5614,7 +5646,11 @@
         "Name": "Suzan Yoshimura",
         "Average": 157,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            171,
+            169,
+            133
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Suzan Yoshimura"
     },
@@ -5623,7 +5659,11 @@
         "Name": "Lauren DeSordi",
         "Average": 178,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            154,
+            181,
+            194
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Lauren DeSordi"
     },
@@ -5632,7 +5672,11 @@
         "Name": "Chris Brewster",
         "Average": 156,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            123,
+            169,
+            146
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Chris Brewster"
     },
@@ -5641,7 +5685,11 @@
         "Name": "June Kurano",
         "Average": 154,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            138,
+            132,
+            138
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_June Kurano"
     },
@@ -5650,7 +5698,11 @@
         "Name": "Signe Tao",
         "Average": 148,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            139,
+            118,
+            167
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Signe Tao"
     },
@@ -5659,7 +5711,11 @@
         "Name": "Brittany Mochizuki",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            162,
+            134,
+            180
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Brittany Mochizuki"
     },
@@ -5668,7 +5724,11 @@
         "Name": "Diane Fujii",
         "Average": 179,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            162,
+            188,
+            175
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Diane Fujii"
     },
@@ -5677,7 +5737,11 @@
         "Name": "Sandy Kaneshige",
         "Average": 150,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            157,
+            180,
+            168
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Sandy Kaneshige"
     },
@@ -5686,7 +5750,11 @@
         "Name": "Rhonda Kaneshige",
         "Average": 153,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            182,
+            136,
+            136
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Rhonda Kaneshige"
     },
@@ -5695,7 +5763,11 @@
         "Name": "Janet Kawachi",
         "Average": 150,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            141,
+            144,
+            184
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Janet Kawachi"
     },
@@ -5704,7 +5776,11 @@
         "Name": "Kristen Kawachi",
         "Average": 171,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            149,
+            180,
+            184
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Kristen Kawachi"
     },
@@ -5713,7 +5789,11 @@
         "Name": "Cindi Kaneshige",
         "Average": 177,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            227,
+            158,
+            180
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Cindi Kaneshige"
     },
@@ -5722,7 +5802,11 @@
         "Name": "Jamie Chiara",
         "Average": 141,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            122,
+            136,
+            114
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jamie Chiara"
     },
@@ -5731,7 +5815,11 @@
         "Name": "Staci Erickson",
         "Average": 120,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            149,
+            111,
+            149
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Staci Erickson"
     },
@@ -5740,7 +5828,11 @@
         "Name": "Raiko Haller",
         "Average": 134,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            102,
+            111,
+            113
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Raiko Haller"
     },
@@ -5749,7 +5841,11 @@
         "Name": "Victoria Tamabayashi",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            167,
+            147,
+            117
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Victoria Tamabayashi"
     },
@@ -5758,7 +5854,11 @@
         "Name": "Kori Kajitsu",
         "Average": 156,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            138,
+            143,
+            185
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Kori Kajitsu"
     },
@@ -5767,7 +5867,11 @@
         "Name": "Mer Nagae",
         "Average": 121,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            127,
+            96,
+            93
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Mer Nagae"
     },
@@ -5776,7 +5880,11 @@
         "Name": "Amy Teragawa",
         "Average": 135,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            124,
+            127,
+            110
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Amy Teragawa"
     },
@@ -5785,7 +5893,11 @@
         "Name": "Nancy Kajitsu",
         "Average": 158,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            159,
+            159,
+            134
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Nancy Kajitsu"
     },
@@ -5794,7 +5906,11 @@
         "Name": "Carol Mizutani",
         "Average": 133,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            159,
+            124,
+            148
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Carol Mizutani"
     },
@@ -5803,7 +5919,11 @@
         "Name": "Frances Tanaka",
         "Average": 164,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            140,
+            171,
+            164
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Frances Tanaka"
     },
@@ -5812,7 +5932,11 @@
         "Name": "Cheyna Heresa-Peace",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            153,
+            126,
+            136
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Cheyna Heresa-Peace"
     },
@@ -5821,7 +5945,11 @@
         "Name": "Audrey Ho",
         "Average": 137,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            158,
+            126,
+            146
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Audrey Ho"
     },
@@ -5830,7 +5958,11 @@
         "Name": "Cynthia Yamamoto",
         "Average": 139,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            108,
+            127,
+            116
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Cynthia Yamamoto"
     },
@@ -5839,7 +5971,11 @@
         "Name": "Lori Carillo",
         "Average": 155,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            167,
+            134,
+            113
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Lori Carillo"
     },
@@ -5848,7 +5984,11 @@
         "Name": "Iris Umehira",
         "Average": 158,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            167,
+            171,
+            151
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Iris Umehira"
     },
@@ -5857,7 +5997,11 @@
         "Name": "Katie Onoe",
         "Average": 167,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            148,
+            148,
+            161
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Katie Onoe"
     },
@@ -5866,7 +6010,11 @@
         "Name": "Miya Tsumura",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            153,
+            145,
+            153
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Miya Tsumura"
     },
@@ -5875,7 +6023,11 @@
         "Name": "Danielle Kitaoka",
         "Average": 114,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            152,
+            117,
+            162
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Danielle Kitaoka"
     },
@@ -5884,7 +6036,11 @@
         "Name": "Kristi Thompson",
         "Average": 166,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            144,
+            152,
+            136
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Kristi Thompson"
     },
@@ -5893,7 +6049,11 @@
         "Name": "Mayumi Florek",
         "Average": 173,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            139,
+            171,
+            119
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Mayumi Florek"
     },
@@ -5902,7 +6062,11 @@
         "Name": "Kasie Perreira",
         "Average": 172,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            182,
+            151,
+            139
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Kasie Perreira"
     },
@@ -5911,7 +6075,11 @@
         "Name": "Lillian Higa",
         "Average": 136,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            117,
+            116,
+            143
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Lillian Higa"
     },
@@ -5920,7 +6088,11 @@
         "Name": "Lorraine Sakuma",
         "Average": 138,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            136,
+            124,
+            146
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Lorraine Sakuma"
     },
@@ -5929,7 +6101,11 @@
         "Name": "Nora Gono",
         "Average": 133,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            178,
+            145,
+            122
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Nora Gono"
     },
@@ -5938,7 +6114,11 @@
         "Name": "Nicole Flannigan",
         "Average": 185,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            182,
+            172,
+            190
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Nicole Flannigan"
     },
@@ -5947,7 +6127,11 @@
         "Name": "April Okazaki",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            137,
+            122,
+            156
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_April Okazaki"
     },
@@ -5956,7 +6140,11 @@
         "Name": "Georgia Strong",
         "Average": 145,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            127,
+            130,
+            116
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Georgia Strong"
     },
@@ -5965,7 +6153,11 @@
         "Name": "Terri Wong-Shoji",
         "Average": 149,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            119,
+            128,
+            142
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Terri Wong-Shoji"
     },
@@ -5974,7 +6166,11 @@
         "Name": "Marion Yee",
         "Average": 157,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            189,
+            152,
+            167
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Marion Yee"
     },
@@ -5983,7 +6179,11 @@
         "Name": "Shiho Kubo",
         "Average": 172,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            132,
+            178,
+            150
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Shiho Kubo"
     },
@@ -5992,7 +6192,11 @@
         "Name": "Rumi Marsh",
         "Average": 166,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            180,
+            164,
+            180
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Rumi Marsh"
     },
@@ -6001,7 +6205,11 @@
         "Name": "Linda Okuda",
         "Average": 143,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            156,
+            112,
+            142
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Linda Okuda"
     },
@@ -6010,7 +6218,11 @@
         "Name": "Judy Kawabata",
         "Average": 131,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            142,
+            119,
+            157
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Judy Kawabata"
     },
@@ -6019,7 +6231,11 @@
         "Name": "Barbara Takahashi",
         "Average": 161,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            129,
+            134,
+            166
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Barbara Takahashi"
     },
@@ -6028,7 +6244,11 @@
         "Name": "Ayame Yokomizo",
         "Average": 175,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            141,
+            149,
+            195
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Ayame Yokomizo"
     },
@@ -6037,7 +6257,11 @@
         "Name": "Casey Mori",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            164,
+            183,
+            214
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Casey Mori"
     },
@@ -6046,7 +6270,11 @@
         "Name": "Shannon Lee",
         "Average": 192,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            170,
+            147,
+            205
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Shannon Lee"
     },
@@ -6055,7 +6283,11 @@
         "Name": "Brynn Yoshida",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            208,
+            173,
+            142
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Brynn Yoshida"
     },
@@ -6064,7 +6296,11 @@
         "Name": "Jackie Matsutani",
         "Average": 217,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            189,
+            225,
+            168
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jackie Matsutani"
     },
@@ -6073,7 +6309,11 @@
         "Name": "Ashley Muraoka",
         "Average": 219,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            195,
+            226,
+            235
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Ashley Muraoka"
     },
@@ -6082,7 +6322,11 @@
         "Name": "Leanna Harada",
         "Average": 214,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            178,
+            168,
+            190
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Leanna Harada"
     },
@@ -6091,7 +6335,11 @@
         "Name": "Barbara Hirota",
         "Average": 168,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            181,
+            196,
+            159
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Barbara Hirota"
     },
@@ -6100,7 +6348,11 @@
         "Name": "Alix Oike",
         "Average": 200,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            181,
+            219,
+            140
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Alix Oike"
     },
@@ -6109,7 +6361,11 @@
         "Name": "Brittney Taylor",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            194,
+            225,
+            179
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Brittney Taylor"
     },
@@ -6118,7 +6374,11 @@
         "Name": "Karen Adolphson",
         "Average": 192,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            160,
+            215,
+            179
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Karen Adolphson"
     },
@@ -6127,7 +6387,11 @@
         "Name": "Tamlyn Murata",
         "Average": 207,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            212,
+            186,
+            226
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Tamlyn Murata"
     },
@@ -6136,7 +6400,11 @@
         "Name": "Lori Sagers",
         "Average": 198,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            136,
+            175,
+            177
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Lori Sagers"
     },
@@ -6145,7 +6413,11 @@
         "Name": "Karen Onaka",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            173,
+            190,
+            153
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Karen Onaka"
     },
@@ -6154,7 +6426,11 @@
         "Name": "Tracey Kitaoka",
         "Average": 196,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            165,
+            243,
+            200
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Tracey Kitaoka"
     },
@@ -6163,7 +6439,11 @@
         "Name": "Kristy Coles",
         "Average": 213,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            161,
+            189,
+            191
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Kristy Coles"
     },
@@ -6172,7 +6452,11 @@
         "Name": "Darlee Horiuchi",
         "Average": 201,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            190,
+            178,
+            187
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Darlee Horiuchi"
     },
@@ -6181,7 +6465,11 @@
         "Name": "Coryn Watanabe",
         "Average": 192,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            192,
+            174,
+            158
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Coryn Watanabe"
     },
@@ -6190,7 +6478,11 @@
         "Name": "Erin Ohta",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            199,
+            203,
+            143
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Erin Ohta"
     },
@@ -6199,7 +6491,11 @@
         "Name": "Christine Kato Asuncion",
         "Average": 214,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            231,
+            228,
+            236
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Christine Kato Asuncion"
     },
@@ -6208,7 +6504,11 @@
         "Name": "Nichole Hiraoka",
         "Average": 212,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            253,
+            215,
+            204
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Nichole Hiraoka"
     },
@@ -6217,7 +6517,11 @@
         "Name": "Donna Nakayama",
         "Average": 152,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            137,
+            116,
+            132
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Donna Nakayama"
     },
@@ -6226,7 +6530,11 @@
         "Name": "Sharon Eshima",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            155,
+            113,
+            145
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Sharon Eshima"
     },
@@ -6235,7 +6543,11 @@
         "Name": "Nikka Lee",
         "Average": 178,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            134,
+            177,
+            172
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Nikka Lee"
     },
@@ -6244,7 +6556,11 @@
         "Name": "Pam Uyemura",
         "Average": 154,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            117,
+            193,
+            173
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Pam Uyemura"
     },
@@ -6253,7 +6569,11 @@
         "Name": "Glenice Bowman",
         "Average": 161,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            177,
+            176,
+            133
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Glenice Bowman"
     },
@@ -6262,7 +6582,11 @@
         "Name": "Holly Itami-Springfels",
         "Average": 161,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            145,
+            154,
+            134
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Holly Itami-Springfels"
     },
@@ -6271,7 +6595,11 @@
         "Name": "Renee Matsutani",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            148,
+            139,
+            140
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Renee Matsutani"
     },
@@ -6280,7 +6608,11 @@
         "Name": "Wendy Nagasawa",
         "Average": 155,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            141,
+            137,
+            173
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Wendy Nagasawa"
     },
@@ -6289,7 +6621,11 @@
         "Name": "Karyl DeWitt",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            135,
+            154,
+            174
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Karyl DeWitt"
     },
@@ -6298,7 +6634,11 @@
         "Name": "Kimberly Walker",
         "Average": 179,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            224,
+            181,
+            148
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Kimberly Walker"
     },
@@ -6307,7 +6647,11 @@
         "Name": "Mindy Kondo",
         "Average": 174,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            182,
+            216,
+            189
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Mindy Kondo"
     },
@@ -6316,7 +6660,11 @@
         "Name": "Betty Kinoshita",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            145,
+            157,
+            145
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Betty Kinoshita"
     },
@@ -6325,7 +6673,11 @@
         "Name": "Sherri Lee",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            147,
+            154,
+            218
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Sherri Lee"
     },
@@ -6334,7 +6686,11 @@
         "Name": "Sherri Schmaling",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            171,
+            160,
+            174
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Sherri Schmaling"
     },
@@ -6343,7 +6699,11 @@
         "Name": "Linda Uyeda",
         "Average": 168,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            169,
+            185,
+            155
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Linda Uyeda"
     },
@@ -6352,7 +6712,11 @@
         "Name": "Jennifer Uno",
         "Average": 183,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            148,
+            160,
+            178
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jennifer Uno"
     },
@@ -6361,7 +6725,11 @@
         "Name": "Angelina Yokoyama",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            136,
+            165,
+            115
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Angelina Yokoyama"
     },
@@ -6370,7 +6738,11 @@
         "Name": "Julianne Tosaya",
         "Average": 149,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            160,
+            179,
+            159
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Julianne Tosaya"
     },
@@ -6379,7 +6751,11 @@
         "Name": "Anne Hidaka",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            205,
+            155,
+            195
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Anne Hidaka"
     },
@@ -6388,7 +6764,11 @@
         "Name": "Krissy Nagasawa",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            172,
+            147,
+            180
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Krissy Nagasawa"
     },
@@ -6397,7 +6777,11 @@
         "Name": "Colleen Goto-Ono",
         "Average": 192,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            159,
+            162,
+            158
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Colleen Goto-Ono"
     },
@@ -6406,7 +6790,11 @@
         "Name": "Melody Hirata",
         "Average": 137,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            138,
+            129,
+            123
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Melody Hirata"
     },
@@ -6415,7 +6803,11 @@
         "Name": "Denise Quan",
         "Average": 164,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            146,
+            163,
+            155
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Denise Quan"
     },
@@ -6424,7 +6816,11 @@
         "Name": "Sheri DeWitt",
         "Average": 172,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            158,
+            167,
+            167
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Sheri DeWitt"
     },
@@ -6433,7 +6829,11 @@
         "Name": "Stefanie Hirata",
         "Average": 201,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            236,
+            223,
+            202
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Stefanie Hirata"
     },
@@ -6442,7 +6842,11 @@
         "Name": "Michelle Shimada",
         "Average": 199,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            211,
+            164,
+            177
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Michelle Shimada"
     },
@@ -6451,7 +6855,11 @@
         "Name": "Jami Tanihana",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            146,
+            140,
+            137
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jami Tanihana"
     },
@@ -6460,7 +6868,11 @@
         "Name": "Jeannie Sakoda",
         "Average": 189,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            188,
+            171,
+            151
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jeannie Sakoda"
     },
@@ -6469,7 +6881,11 @@
         "Name": "Lauren Takahashi",
         "Average": 201,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            194,
+            216,
+            239
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Lauren Takahashi"
     },
@@ -6478,7 +6894,11 @@
         "Name": "Alecia Kanazawa",
         "Average": 193,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            194,
+            146,
+            165
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Alecia Kanazawa"
     },
@@ -6487,7 +6907,11 @@
         "Name": "Jodi Hiraoka",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            218,
+            174,
+            159
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jodi Hiraoka"
     },
@@ -6496,7 +6920,11 @@
         "Name": "Monica Tajiri",
         "Average": 172,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            157,
+            187,
+            182
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Monica Tajiri"
     },
@@ -6505,7 +6933,11 @@
         "Name": "Tarika Onishi",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            197,
+            213,
+            190
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Tarika Onishi"
     },
@@ -6514,7 +6946,11 @@
         "Name": "Christalynn Ortiz",
         "Average": 201,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            247,
+            202,
+            190
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Christalynn Ortiz"
     },
@@ -6523,7 +6959,11 @@
         "Name": "Jory Koizumi-Miyashiro",
         "Average": 213,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            184,
+            210,
+            221
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jory Koizumi-Miyashiro"
     },
@@ -6532,7 +6972,11 @@
         "Name": "Kelly Leger",
         "Average": 189,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            181,
+            223,
+            130
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Kelly Leger"
     },
@@ -6541,7 +6985,11 @@
         "Name": "Alex Leger",
         "Average": 181,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            145,
+            149,
+            143
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Alex Leger"
     },
@@ -6550,7 +6998,11 @@
         "Name": "Yako McDonnell",
         "Average": 182,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            135,
+            135,
+            169
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Yako McDonnell"
     },
@@ -6559,7 +7011,11 @@
         "Name": "Julie Kawaye",
         "Average": 194,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            223,
+            203,
+            195
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Julie Kawaye"
     },
@@ -6568,7 +7024,11 @@
         "Name": "Jennifer Reven",
         "Average": 213,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            179,
+            181,
+            216
+        ],
         "Event": "Women's Team",
         "_id": "Women's Team_Jennifer Reven"
     },
@@ -6577,7 +7037,11 @@
         "Name": "Rick DeGuzman",
         "Average": 175,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            127,
+            144,
+            162
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Rick DeGuzman"
     },
@@ -6586,7 +7050,11 @@
         "Name": "Raymond Kinoshita",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            145,
+            155,
+            205
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Raymond Kinoshita"
     },
@@ -6595,7 +7063,11 @@
         "Name": "Larry Flannigan",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            171,
+            144,
+            200
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Larry Flannigan"
     },
@@ -6604,7 +7076,11 @@
         "Name": "Stacy Sakumoto",
         "Average": 169,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            157,
+            145,
+            145
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Stacy Sakumoto"
     },
@@ -6613,7 +7089,11 @@
         "Name": "Scott Miyamoto",
         "Average": 185,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            189,
+            163,
+            165
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Scott Miyamoto"
     },
@@ -6622,7 +7102,11 @@
         "Name": "Jeff Hasegawa",
         "Average": 179,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            145,
+            195,
+            202
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jeff Hasegawa"
     },
@@ -6631,7 +7115,11 @@
         "Name": "Ed Kajitsu",
         "Average": 157,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            158,
+            129,
+            154
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ed Kajitsu"
     },
@@ -6640,7 +7128,11 @@
         "Name": "Dan Nakamura",
         "Average": 166,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            168,
+            152,
+            158
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dan Nakamura"
     },
@@ -6649,7 +7141,11 @@
         "Name": "Gordon Kiyokawa",
         "Average": 173,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            116,
+            196,
+            174
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Gordon Kiyokawa"
     },
@@ -6658,7 +7154,11 @@
         "Name": "Stuart Kawachi",
         "Average": 183,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            122,
+            266,
+            169
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Stuart Kawachi"
     },
@@ -6667,7 +7167,11 @@
         "Name": "Kyle Uno",
         "Average": 186,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            202,
+            166,
+            186
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kyle Uno"
     },
@@ -6676,7 +7180,11 @@
         "Name": "Ben I Yamamoto",
         "Average": 180,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            138,
+            152,
+            139
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ben I Yamamoto"
     },
@@ -6685,7 +7193,11 @@
         "Name": "Ben E Yamamoto",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            221,
+            211,
+            161
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ben E Yamamoto"
     },
@@ -6694,7 +7206,11 @@
         "Name": "Daron Sugiyama",
         "Average": 176,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            210,
+            179,
+            202
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Daron Sugiyama"
     },
@@ -6703,7 +7219,11 @@
         "Name": "Jeff Uno",
         "Average": 182,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            169,
+            201,
+            211
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jeff Uno"
     },
@@ -6712,7 +7232,11 @@
         "Name": "Gary Sato",
         "Average": 176,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            137,
+            161,
+            174
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Gary Sato"
     },
@@ -6721,7 +7245,11 @@
         "Name": "Terry Matsumoto",
         "Average": 173,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            206,
+            138,
+            145
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Terry Matsumoto"
     },
@@ -6730,7 +7258,11 @@
         "Name": "Uriel Engle",
         "Average": 164,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            139,
+            174,
+            214
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Uriel Engle"
     },
@@ -6739,7 +7271,11 @@
         "Name": "Mike Nakamura",
         "Average": 181,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            171,
+            181,
+            144
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mike Nakamura"
     },
@@ -6748,7 +7284,11 @@
         "Name": "Scott Watanabe - SJ",
         "Average": 184,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            161,
+            186,
+            215
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Scott Watanabe - SJ"
     },
@@ -6757,7 +7297,11 @@
         "Name": "Andy Uyeda",
         "Average": 183,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            193,
+            178,
+            192
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Andy Uyeda"
     },
@@ -6766,7 +7310,11 @@
         "Name": "Lucas Erickson",
         "Average": 159,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            118,
+            206,
+            199
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Lucas Erickson"
     },
@@ -6775,25 +7323,37 @@
         "Name": "Kris Kato",
         "Average": 190,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            159,
+            189,
+            210
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kris Kato"
     },
     {
         "Lane": 5,
-        "Name": "Kyle Lee",
-        "Average": 175,
+        "Name": "Dustin Hirata",
+        "Average": 178,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            128,
+            157,
+            146
+        ],
         "Event": "Men's Team",
-        "_id": "Men's Team_Kyle Lee"
+        "_id": "Men's Team_Dustin Hirata"
     },
     {
         "Lane": 5,
         "Name": "Wayne Wakabayashi",
         "Average": 174,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            207,
+            194,
+            247
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Wayne Wakabayashi"
     },
@@ -6802,7 +7362,11 @@
         "Name": "Wallace Yamamoto",
         "Average": 176,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            230,
+            162,
+            150
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Wallace Yamamoto"
     },
@@ -6811,7 +7375,11 @@
         "Name": "Christopher Peace",
         "Average": 130,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            115,
+            148,
+            170
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Christopher Peace"
     },
@@ -6820,7 +7388,11 @@
         "Name": "Gary Yamashita",
         "Average": 198,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            147,
+            205,
+            142
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Gary Yamashita"
     },
@@ -6829,7 +7401,11 @@
         "Name": "Roy Umehira",
         "Average": 183,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            185,
+            156,
+            173
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Roy Umehira"
     },
@@ -6838,7 +7414,11 @@
         "Name": "Harold Ogata Jr",
         "Average": 196,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            150,
+            231,
+            213
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Harold Ogata Jr"
     },
@@ -6847,7 +7427,11 @@
         "Name": "Perry Kiyokawa",
         "Average": 171,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            137,
+            163,
+            211
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Perry Kiyokawa"
     },
@@ -6856,7 +7440,11 @@
         "Name": "John Hiromura",
         "Average": 174,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            172,
+            154,
+            153
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_John Hiromura"
     },
@@ -6865,25 +7453,37 @@
         "Name": "Ken Kinoshita",
         "Average": 168,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            87,
+            161,
+            148
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ken Kinoshita"
     },
     {
         "Lane": 7,
-        "Name": "Ross Yamasaki",
-        "Average": 175,
+        "Name": "Rik Shiiki",
+        "Average": 137,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            183,
+            152,
+            108
+        ],
         "Event": "Men's Team",
-        "_id": "Men's Team_Ross Yamasaki"
+        "_id": "Men's Team_Rik Shiiki"
     },
     {
         "Lane": 7,
         "Name": "Ken Wing",
         "Average": 197,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            227,
+            212,
+            234
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ken Wing"
     },
@@ -6892,7 +7492,11 @@
         "Name": "Don Jordan",
         "Average": 160,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            170,
+            143,
+            149
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Don Jordan"
     },
@@ -6901,7 +7505,11 @@
         "Name": "Robert Ho",
         "Average": 176,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            175,
+            163,
+            120
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Robert Ho"
     },
@@ -6910,7 +7518,11 @@
         "Name": "Harold Okino",
         "Average": 180,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            164,
+            158,
+            157
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Harold Okino"
     },
@@ -6919,7 +7531,11 @@
         "Name": "John Mizutani",
         "Average": 181,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            198,
+            199,
+            193
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_John Mizutani"
     },
@@ -6928,7 +7544,11 @@
         "Name": "Richard Ho",
         "Average": 189,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            136,
+            187,
+            254
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Richard Ho"
     },
@@ -6937,7 +7557,11 @@
         "Name": "Johnny Uyeda",
         "Average": 183,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            193,
+            195,
+            167
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Johnny Uyeda"
     },
@@ -6946,7 +7570,11 @@
         "Name": "John Lee",
         "Average": 178,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            200,
+            143,
+            126
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_John Lee"
     },
@@ -6955,7 +7583,11 @@
         "Name": "Brent Onchi",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            184,
+            144,
+            149
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brent Onchi"
     },
@@ -6964,7 +7596,11 @@
         "Name": "Jay Onchi",
         "Average": 190,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            179,
+            161,
+            191
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jay Onchi"
     },
@@ -6973,7 +7609,11 @@
         "Name": "Michael Yee",
         "Average": 183,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            201,
+            218,
+            205
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Michael Yee"
     },
@@ -6982,7 +7622,11 @@
         "Name": "Darrin Wong",
         "Average": 194,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            192,
+            207,
+            175
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Darrin Wong"
     },
@@ -6991,7 +7635,11 @@
         "Name": "John Neishi",
         "Average": 193,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            169,
+            228,
+            154
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_John Neishi"
     },
@@ -7000,7 +7648,11 @@
         "Name": "Randy Pearson",
         "Average": 167,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            194,
+            183,
+            141
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Randy Pearson"
     },
@@ -7009,7 +7661,11 @@
         "Name": "Jun Kataoka",
         "Average": 186,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            163,
+            160,
+            176
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jun Kataoka"
     },
@@ -7018,7 +7674,11 @@
         "Name": "Keith Sasada",
         "Average": 178,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            176,
+            170,
+            158
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Keith Sasada"
     },
@@ -7027,7 +7687,11 @@
         "Name": "Bill Kitagawa",
         "Average": 166,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            163,
+            146,
+            179
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Bill Kitagawa"
     },
@@ -7036,7 +7700,11 @@
         "Name": "Jody Tao",
         "Average": 186,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            167,
+            162,
+            189
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jody Tao"
     },
@@ -7045,7 +7713,11 @@
         "Name": "Goodman Ng",
         "Average": 203,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            172,
+            195,
+            230
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Goodman Ng"
     },
@@ -7054,7 +7726,11 @@
         "Name": "Michael Brewster",
         "Average": 192,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            144,
+            123,
+            146
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Michael Brewster"
     },
@@ -7063,7 +7739,11 @@
         "Name": "Ken Murakami",
         "Average": 194,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            162,
+            202,
+            125
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ken Murakami"
     },
@@ -7072,7 +7752,11 @@
         "Name": "Kevin Nishikawa",
         "Average": 203,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            208,
+            196,
+            237
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kevin Nishikawa"
     },
@@ -7081,7 +7765,11 @@
         "Name": "Marcelo Mitre",
         "Average": 149,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            134,
+            162,
+            128
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Marcelo Mitre"
     },
@@ -7090,7 +7778,11 @@
         "Name": "Jeff Komatsu",
         "Average": 185,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            175,
+            213,
+            236
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jeff Komatsu"
     },
@@ -7099,7 +7791,11 @@
         "Name": "Kevin Nagasawa",
         "Average": 214,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            231,
+            158,
+            203
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kevin Nagasawa"
     },
@@ -7108,7 +7804,11 @@
         "Name": "Jeff Mitre",
         "Average": 190,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            170,
+            177,
+            194
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jeff Mitre"
     },
@@ -7117,7 +7817,11 @@
         "Name": "Kaz Sato",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            161,
+            167,
+            177
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kaz Sato"
     },
@@ -7126,7 +7830,11 @@
         "Name": "Craig Terashima",
         "Average": 124,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            137,
+            136,
+            125
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Craig Terashima"
     },
@@ -7135,7 +7843,11 @@
         "Name": "Kevin Sato",
         "Average": 120,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            132,
+            147,
+            136
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kevin Sato"
     },
@@ -7144,7 +7856,11 @@
         "Name": "Dean Sato",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            142,
+            203,
+            147
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dean Sato"
     },
@@ -7153,7 +7869,11 @@
         "Name": "Kirk Terashima",
         "Average": 171,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            179,
+            146,
+            134
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kirk Terashima"
     },
@@ -7162,7 +7882,11 @@
         "Name": "Patrick Oki",
         "Average": 158,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            209,
+            136,
+            199
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Patrick Oki"
     },
@@ -7171,7 +7895,11 @@
         "Name": "Michael Anzivino",
         "Average": 141,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            167,
+            136,
+            131
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Michael Anzivino"
     },
@@ -7180,7 +7908,11 @@
         "Name": "Ray Tsuchida",
         "Average": 154,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            119,
+            133,
+            125
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ray Tsuchida"
     },
@@ -7189,7 +7921,11 @@
         "Name": "Tyler Uyeda",
         "Average": 167,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            201,
+            166,
+            191
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Tyler Uyeda"
     },
@@ -7198,7 +7934,11 @@
         "Name": "Richard Uyeda",
         "Average": 191,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            187,
+            162,
+            157
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Richard Uyeda"
     },
@@ -7207,7 +7947,11 @@
         "Name": "Tyler Haller",
         "Average": 140,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            177,
+            130,
+            137
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Tyler Haller"
     },
@@ -7216,7 +7960,11 @@
         "Name": "Andy Kiyokawa",
         "Average": 174,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            170,
+            165,
+            208
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Andy Kiyokawa"
     },
@@ -7225,7 +7973,11 @@
         "Name": "Garrett Yoshimoto",
         "Average": 159,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            118,
+            138,
+            159
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Garrett Yoshimoto"
     },
@@ -7234,7 +7986,11 @@
         "Name": "Wayne Mayeda",
         "Average": 169,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            215,
+            169,
+            200
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Wayne Mayeda"
     },
@@ -7243,7 +7999,11 @@
         "Name": "Matt Masukawa",
         "Average": 186,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            205,
+            118,
+            149
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Matt Masukawa"
     },
@@ -7252,7 +8012,11 @@
         "Name": "Reid Shishido",
         "Average": 203,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            191,
+            190,
+            213
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Reid Shishido"
     },
@@ -7261,7 +8025,11 @@
         "Name": "Garrick Shishido",
         "Average": 136,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            161,
+            120,
+            152
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Garrick Shishido"
     },
@@ -7270,7 +8038,11 @@
         "Name": "Wayne Nagasawa",
         "Average": 156,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            159,
+            171,
+            160
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Wayne Nagasawa"
     },
@@ -7279,25 +8051,37 @@
         "Name": "Russell Horikawa",
         "Average": 182,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            157,
+            172,
+            149
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Russell Horikawa"
     },
     {
         "Lane": 16,
-        "Name": "Ryan Tamura",
+        "Name": "Robert Schmaling",
         "Average": 165,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            147,
+            167,
+            132
+        ],
         "Event": "Men's Team",
-        "_id": "Men's Team_Ryan Tamura"
+        "_id": "Men's Team_Robert Schmaling"
     },
     {
         "Lane": 1,
         "Name": "Dale Okazaki",
         "Average": 173,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            167,
+            164,
+            196
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dale Okazaki"
     },
@@ -7306,7 +8090,11 @@
         "Name": "Dwayn Kim",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            145,
+            183,
+            203
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dwayn Kim"
     },
@@ -7315,7 +8103,11 @@
         "Name": "Waimun Yee",
         "Average": 195,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            161,
+            193,
+            168
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Waimun Yee"
     },
@@ -7324,7 +8116,11 @@
         "Name": "Kay Yamanaka",
         "Average": 194,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            148,
+            199,
+            220
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kay Yamanaka"
     },
@@ -7333,7 +8129,11 @@
         "Name": "Kihei Kim",
         "Average": 210,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            137,
+            212,
+            181
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kihei Kim"
     },
@@ -7342,7 +8142,11 @@
         "Name": "Ryan Ho",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            152,
+            161,
+            189
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ryan Ho"
     },
@@ -7351,7 +8155,11 @@
         "Name": "Marcus Heresa",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            137,
+            175,
+            202
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Marcus Heresa"
     },
@@ -7360,7 +8168,11 @@
         "Name": "Dereck Heresa",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            153,
+            204,
+            149
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dereck Heresa"
     },
@@ -7369,7 +8181,11 @@
         "Name": "Jay Mullen",
         "Average": 223,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            280,
+            221,
+            172
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jay Mullen"
     },
@@ -7378,7 +8194,11 @@
         "Name": "Bryson Heresa",
         "Average": 200,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            201,
+            212,
+            193
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Bryson Heresa"
     },
@@ -7387,7 +8207,11 @@
         "Name": "Kurt Arakaki",
         "Average": 220,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            257,
+            226,
+            202
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kurt Arakaki"
     },
@@ -7396,7 +8220,11 @@
         "Name": "Jeff Okumura",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            169,
+            180,
+            178
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jeff Okumura"
     },
@@ -7405,7 +8233,11 @@
         "Name": "Bradley Kitaoka",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            201,
+            179,
+            212
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Bradley Kitaoka"
     },
@@ -7414,7 +8246,11 @@
         "Name": "John Vargas",
         "Average": 180,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            180,
+            159,
+            206
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_John Vargas"
     },
@@ -7423,7 +8259,11 @@
         "Name": "Craig Kitaoka",
         "Average": 200,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            203,
+            227,
+            245
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Craig Kitaoka"
     },
@@ -7432,7 +8272,11 @@
         "Name": "Kento Hirata",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            213,
+            217,
+            154
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kento Hirata"
     },
@@ -7441,7 +8285,11 @@
         "Name": "Lincoln Hirata",
         "Average": 190,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            174,
+            191,
+            144
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Lincoln Hirata"
     },
@@ -7450,7 +8298,11 @@
         "Name": "Kevin Quan",
         "Average": 196,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            226,
+            233,
+            201
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kevin Quan"
     },
@@ -7459,7 +8311,11 @@
         "Name": "Brandon Hirata",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            166,
+            246,
+            218
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brandon Hirata"
     },
@@ -7468,7 +8324,11 @@
         "Name": "Jeffrey Hirata",
         "Average": 201,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            185,
+            241,
+            278
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jeffrey Hirata"
     },
@@ -7477,7 +8337,11 @@
         "Name": "Michael Shimotsu",
         "Average": 206,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            193,
+            146,
+            214
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Michael Shimotsu"
     },
@@ -7486,7 +8350,11 @@
         "Name": "Craig Sumida",
         "Average": 190,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            180,
+            129,
+            114
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Craig Sumida"
     },
@@ -7495,7 +8363,11 @@
         "Name": "Jonathan Tamayose",
         "Average": 186,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            162,
+            180,
+            235
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jonathan Tamayose"
     },
@@ -7504,7 +8376,11 @@
         "Name": "Corey Taniguchi",
         "Average": 201,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            199,
+            227,
+            218
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Corey Taniguchi"
     },
@@ -7513,7 +8389,11 @@
         "Name": "Ray Nakagawa",
         "Average": 181,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            162,
+            180,
+            158
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ray Nakagawa"
     },
@@ -7522,7 +8402,11 @@
         "Name": "Ron Yamashiro",
         "Average": 204,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            242,
+            185,
+            211
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ron Yamashiro"
     },
@@ -7531,7 +8415,11 @@
         "Name": "Anthony Madrona",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            206,
+            158,
+            217
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Anthony Madrona"
     },
@@ -7540,7 +8428,11 @@
         "Name": "Don Furuya",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            229,
+            166,
+            200
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Don Furuya"
     },
@@ -7549,7 +8441,11 @@
         "Name": "Mike Asuncion",
         "Average": 218,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            209,
+            189,
+            183
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mike Asuncion"
     },
@@ -7558,7 +8454,11 @@
         "Name": "Russ Furuya",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            179,
+            160,
+            170
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Russ Furuya"
     },
@@ -7567,25 +8467,37 @@
         "Name": "Darren Tsumura",
         "Average": 210,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            259,
+            206,
+            228
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Darren Tsumura"
     },
     {
         "Lane": 7,
-        "Name": "Robert Chuck",
-        "Average": 182,
+        "Name": "Ryan Tamura",
+        "Average": 165,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            160,
+            187,
+            176
+        ],
         "Event": "Men's Team",
-        "_id": "Men's Team_Robert Chuck"
+        "_id": "Men's Team_Ryan Tamura"
     },
     {
         "Lane": 7,
         "Name": "Jay Tsutsui",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            131,
+            136,
+            145
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jay Tsutsui"
     },
@@ -7594,7 +8506,11 @@
         "Name": "Ray Tamura",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            246,
+            172,
+            180
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ray Tamura"
     },
@@ -7603,7 +8519,11 @@
         "Name": "Marc Tsuchiya",
         "Average": 210,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            220,
+            186,
+            182
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Marc Tsuchiya"
     },
@@ -7612,7 +8532,11 @@
         "Name": "Vince Itatani",
         "Average": 210,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            176,
+            176,
+            246
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Vince Itatani"
     },
@@ -7621,7 +8545,11 @@
         "Name": "Duane Sakoda",
         "Average": 191,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            205,
+            203,
+            160
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Duane Sakoda"
     },
@@ -7630,7 +8558,11 @@
         "Name": "Steve Itatani",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            158,
+            148,
+            171
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Steve Itatani"
     },
@@ -7639,7 +8571,11 @@
         "Name": "Mark Yoshinaka",
         "Average": 188,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            181,
+            203,
+            223
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mark Yoshinaka"
     },
@@ -7648,7 +8584,11 @@
         "Name": "Glenn Tsuchiya",
         "Average": 199,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            191,
+            237,
+            179
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Glenn Tsuchiya"
     },
@@ -7657,7 +8597,11 @@
         "Name": "Jim Yokomizo",
         "Average": 215,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            199,
+            212,
+            183
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jim Yokomizo"
     },
@@ -7666,7 +8610,11 @@
         "Name": "Henry Isefuku",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            147,
+            174,
+            193
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Henry Isefuku"
     },
@@ -7675,7 +8623,11 @@
         "Name": "Craig Horita",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            171,
+            171,
+            167
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Craig Horita"
     },
@@ -7684,7 +8636,11 @@
         "Name": "Mike Smith",
         "Average": 196,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            190,
+            225,
+            234
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mike Smith"
     },
@@ -7693,7 +8649,11 @@
         "Name": "Brian Hara",
         "Average": 201,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            166,
+            195,
+            165
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brian Hara"
     },
@@ -7702,7 +8662,11 @@
         "Name": "Stephen Yamasaki",
         "Average": 184,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            213,
+            213,
+            166
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Stephen Yamasaki"
     },
@@ -7711,7 +8675,11 @@
         "Name": "James Kahuhu",
         "Average": 177,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            202,
+            158,
+            129
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_James Kahuhu"
     },
@@ -7720,7 +8688,11 @@
         "Name": "Kevin Kawaoka",
         "Average": 194,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            175,
+            209,
+            169
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kevin Kawaoka"
     },
@@ -7729,7 +8701,11 @@
         "Name": "Rodney Carillo",
         "Average": 199,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            186,
+            177,
+            193
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Rodney Carillo"
     },
@@ -7738,7 +8714,11 @@
         "Name": "Ashton Yamasaki",
         "Average": 229,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            268,
+            187,
+            224
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ashton Yamasaki"
     },
@@ -7747,7 +8727,11 @@
         "Name": "Owen Kuribayashi",
         "Average": 207,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            172,
+            137,
+            133
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Owen Kuribayashi"
     },
@@ -7756,7 +8740,11 @@
         "Name": "Chris Yoshida",
         "Average": 185,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            173,
+            188,
+            215
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Chris Yoshida"
     },
@@ -7765,7 +8753,11 @@
         "Name": "Bryant Fukui",
         "Average": 181,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            161,
+            158,
+            144
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Bryant Fukui"
     },
@@ -7774,7 +8766,11 @@
         "Name": "Justin Uyemura",
         "Average": 203,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            193,
+            202,
+            191
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Justin Uyemura"
     },
@@ -7783,7 +8779,11 @@
         "Name": "Bruce Sunada",
         "Average": 211,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            224,
+            202,
+            196
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Bruce Sunada"
     },
@@ -7792,7 +8792,11 @@
         "Name": "Daryl Kurihara",
         "Average": 186,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            189,
+            193,
+            167
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Daryl Kurihara"
     },
@@ -7801,7 +8805,11 @@
         "Name": "Devin Tsumura",
         "Average": 190,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            157,
+            215,
+            189
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Devin Tsumura"
     },
@@ -7810,7 +8818,11 @@
         "Name": "Keith Kurihara",
         "Average": 189,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            127,
+            159,
+            134
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Keith Kurihara"
     },
@@ -7819,7 +8831,11 @@
         "Name": "Ryan Yee",
         "Average": 205,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            149,
+            237,
+            193
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ryan Yee"
     },
@@ -7828,7 +8844,11 @@
         "Name": "Ryan Wong",
         "Average": 220,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            148,
+            164,
+            212
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ryan Wong"
     },
@@ -7837,7 +8857,11 @@
         "Name": "Aki Kim",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            177,
+            167,
+            180
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Aki Kim"
     },
@@ -7846,7 +8870,11 @@
         "Name": "Steve Doi",
         "Average": 184,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            165,
+            198,
+            151
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Steve Doi"
     },
@@ -7855,7 +8883,11 @@
         "Name": "Mike Uyekubo",
         "Average": 199,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            195,
+            168,
+            195
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mike Uyekubo"
     },
@@ -7864,7 +8896,11 @@
         "Name": "Brian Uchino",
         "Average": 199,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            161,
+            178,
+            192
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brian Uchino"
     },
@@ -7873,7 +8909,11 @@
         "Name": "Dale Ando",
         "Average": 189,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            182,
+            186,
+            210
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dale Ando"
     },
@@ -7882,25 +8922,37 @@
         "Name": "Bruce Akau",
         "Average": 189,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            201,
+            227,
+            242
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Bruce Akau"
     },
     {
         "Lane": 14,
-        "Name": "Lon Handa",
-        "Average": 175,
+        "Name": "Stan Eshima",
+        "Average": 194,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            164,
+            185,
+            153
+        ],
         "Event": "Men's Team",
-        "_id": "Men's Team_Lon Handa"
+        "_id": "Men's Team_Stan Eshima"
     },
     {
         "Lane": 14,
         "Name": "Matthew Ogata",
         "Average": 186,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            172,
+            155,
+            145
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Matthew Ogata"
     },
@@ -7909,7 +8961,11 @@
         "Name": "T.J. Yanuska",
         "Average": 198,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            249,
+            268,
+            166
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_T.J. Yanuska"
     },
@@ -7918,7 +8974,11 @@
         "Name": "Mikel Onaka",
         "Average": 198,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            220,
+            211,
+            222
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mikel Onaka"
     },
@@ -7927,7 +8987,11 @@
         "Name": "Dewaine Higa",
         "Average": 178,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            191,
+            179,
+            124
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dewaine Higa"
     },
@@ -7936,7 +9000,11 @@
         "Name": "Doug Muneta",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            203,
+            159,
+            139
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Doug Muneta"
     },
@@ -7945,7 +9013,11 @@
         "Name": "Rob Yano",
         "Average": 189,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            173,
+            164,
+            179
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Rob Yano"
     },
@@ -7954,7 +9026,11 @@
         "Name": "Alan Tosaya",
         "Average": 192,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            179,
+            118,
+            158
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Alan Tosaya"
     },
@@ -7963,7 +9039,11 @@
         "Name": "Gary Tosaya",
         "Average": 212,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            172,
+            176,
+            203
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Gary Tosaya"
     },
@@ -7972,7 +9052,11 @@
         "Name": "Morgan Kimoto",
         "Average": 201,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            193,
+            176,
+            147
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Morgan Kimoto"
     },
@@ -7981,7 +9065,11 @@
         "Name": "Gordon Terakami",
         "Average": 198,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            183,
+            173,
+            236
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Gordon Terakami"
     },
@@ -7990,7 +9078,11 @@
         "Name": "Michael Yoshihara",
         "Average": 207,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            244,
+            158,
+            198
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Michael Yoshihara"
     },
@@ -7999,7 +9091,11 @@
         "Name": "Keiji Kubo",
         "Average": 209,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            140,
+            199,
+            165
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Keiji Kubo"
     },
@@ -8008,7 +9104,11 @@
         "Name": "Ron Montano",
         "Average": 209,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            209,
+            181,
+            175
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ron Montano"
     },
@@ -8017,7 +9117,11 @@
         "Name": "Kyle Fujimoto",
         "Average": 211,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            253,
+            193,
+            170
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kyle Fujimoto"
     },
@@ -8026,7 +9130,11 @@
         "Name": "Everett Nishikawa",
         "Average": 177,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            139,
+            191,
+            157
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Everett Nishikawa"
     },
@@ -8035,7 +9143,11 @@
         "Name": "Glenn Wada",
         "Average": 211,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            166,
+            249,
+            241
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Glenn Wada"
     },
@@ -8044,7 +9156,11 @@
         "Name": "Danny Hirota",
         "Average": 211,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            172,
+            189,
+            177
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Danny Hirota"
     },
@@ -8053,7 +9169,11 @@
         "Name": "Duane Koyano",
         "Average": 216,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            203,
+            179,
+            246
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Duane Koyano"
     },
@@ -8062,7 +9182,11 @@
         "Name": "Jaaycob Okumura",
         "Average": 202,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            191,
+            188,
+            186
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jaaycob Okumura"
     },
@@ -8071,7 +9195,11 @@
         "Name": "Josh Uyeda",
         "Average": 209,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            279,
+            190,
+            165
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Josh Uyeda"
     },
@@ -8080,7 +9208,11 @@
         "Name": "Blaine Yoshimura",
         "Average": 208,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            215,
+            237,
+            199
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Blaine Yoshimura"
     },
@@ -8089,7 +9221,11 @@
         "Name": "Eric Tsuchida",
         "Average": 212,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            196,
+            192,
+            191
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Eric Tsuchida"
     },
@@ -8098,7 +9234,11 @@
         "Name": "Gary Okumura",
         "Average": 228,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            216,
+            214,
+            185
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Gary Okumura"
     },
@@ -8107,7 +9247,11 @@
         "Name": "Michael Lo",
         "Average": 199,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            166,
+            179,
+            147
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Michael Lo"
     },
@@ -8116,7 +9260,11 @@
         "Name": "Rickey Goishi",
         "Average": 202,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            181,
+            140,
+            166
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Rickey Goishi"
     },
@@ -8125,7 +9273,11 @@
         "Name": "Wesley Fujii",
         "Average": 218,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            225,
+            148,
+            147
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Wesley Fujii"
     },
@@ -8134,7 +9286,11 @@
         "Name": "Rick Goishi",
         "Average": 230,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            234,
+            244,
+            184
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Rick Goishi"
     },
@@ -8143,7 +9299,11 @@
         "Name": "Ray Valdovino",
         "Average": 227,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            216,
+            196,
+            155
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ray Valdovino"
     },
@@ -8152,7 +9312,11 @@
         "Name": "Brian Davis",
         "Average": 219,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            199,
+            235,
+            216
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brian Davis"
     },
@@ -8161,7 +9325,11 @@
         "Name": "Derek Lee",
         "Average": 201,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            207,
+            181,
+            180
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Derek Lee"
     },
@@ -8170,7 +9338,11 @@
         "Name": "Mike Tratnik",
         "Average": 225,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            172,
+            190,
+            243
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mike Tratnik"
     },
@@ -8179,7 +9351,11 @@
         "Name": "Jason Jones",
         "Average": 227,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            182,
+            188,
+            218
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jason Jones"
     },
@@ -8188,7 +9364,11 @@
         "Name": "Dan Sasaki",
         "Average": 205,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            227,
+            255,
+            194
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dan Sasaki"
     },
@@ -8197,7 +9377,11 @@
         "Name": "Bernard Factora",
         "Average": 211,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            207,
+            221,
+            259
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Bernard Factora"
     },
@@ -8206,7 +9390,11 @@
         "Name": "Kyle Ortiz",
         "Average": 201,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            171,
+            189,
+            132
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kyle Ortiz"
     },
@@ -8215,7 +9403,11 @@
         "Name": "Ken Hayase-Fong",
         "Average": 233,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            196,
+            158,
+            195
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ken Hayase-Fong"
     },
@@ -8224,7 +9416,11 @@
         "Name": "Joshua Tajiri",
         "Average": 213,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            188,
+            193,
+            212
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Joshua Tajiri"
     },
@@ -8233,7 +9429,11 @@
         "Name": "Dallas Leong",
         "Average": 233,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            214,
+            233,
+            190
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dallas Leong"
     },
@@ -8242,7 +9442,11 @@
         "Name": "Lane Ochikubo",
         "Average": 229,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            190,
+            187,
+            234
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Lane Ochikubo"
     },
@@ -8251,7 +9455,11 @@
         "Name": "Andy Warren",
         "Average": 217,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            257,
+            214,
+            182
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Andy Warren"
     },
@@ -8260,7 +9468,11 @@
         "Name": "Tyler Wilson",
         "Average": 206,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            190,
+            235,
+            224
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Tyler Wilson"
     },
@@ -8269,7 +9481,11 @@
         "Name": "Dave Shoji",
         "Average": 235,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            223,
+            208,
+            201
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Dave Shoji"
     },
@@ -8278,7 +9494,11 @@
         "Name": "Steve DeSordi",
         "Average": 218,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            160,
+            161,
+            196
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Steve DeSordi"
     },
@@ -8287,7 +9507,11 @@
         "Name": "Sean Early",
         "Average": 225,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            196,
+            204,
+            202
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Sean Early"
     },
@@ -8296,7 +9520,11 @@
         "Name": "Sakae Watanabe",
         "Average": 215,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            268,
+            170,
+            208
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Sakae Watanabe"
     },
@@ -8305,7 +9533,11 @@
         "Name": "Cy Hiyane",
         "Average": 229,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            258,
+            228,
+            182
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Cy Hiyane"
     },
@@ -8314,7 +9546,11 @@
         "Name": "Chad Uyehara",
         "Average": 224,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            237,
+            180,
+            222
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Chad Uyehara"
     },
@@ -8323,7 +9559,11 @@
         "Name": "Ivan Miyasato",
         "Average": 216,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            217,
+            210,
+            200
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ivan Miyasato"
     },
@@ -8332,7 +9572,11 @@
         "Name": "Anthony Santos",
         "Average": 232,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            223,
+            178,
+            207
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Anthony Santos"
     },
@@ -8341,7 +9585,11 @@
         "Name": "Marc Sanwo",
         "Average": 220,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            205,
+            220,
+            256
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Marc Sanwo"
     },
@@ -8350,7 +9598,11 @@
         "Name": "Brian Mar",
         "Average": 208,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            183,
+            190,
+            191
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brian Mar"
     },
@@ -8359,7 +9611,11 @@
         "Name": "Nate Pearson",
         "Average": 225,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            216,
+            145,
+            193
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Nate Pearson"
     },
@@ -8368,7 +9624,11 @@
         "Name": "Mike Sagers",
         "Average": 229,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            213,
+            257,
+            207
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mike Sagers"
     },
@@ -8377,7 +9637,11 @@
         "Name": "Travis Hewitt",
         "Average": 229,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            211,
+            190,
+            232
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Travis Hewitt"
     },
@@ -8386,7 +9650,11 @@
         "Name": "Peter Mochizuki",
         "Average": 209,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            246,
+            184,
+            188
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Peter Mochizuki"
     },
@@ -8395,7 +9663,11 @@
         "Name": "Michael Fujita",
         "Average": 233,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            185,
+            195,
+            175
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Michael Fujita"
     },
@@ -8404,7 +9676,11 @@
         "Name": "Brandon Kring",
         "Average": 240,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            231,
+            234,
+            178
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brandon Kring"
     },
@@ -8413,7 +9689,11 @@
         "Name": "Ronnie Fujita",
         "Average": 237,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            233,
+            256,
+            245
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Ronnie Fujita"
     },
@@ -8422,7 +9702,11 @@
         "Name": "Brad Uyemura",
         "Average": 205,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            248,
+            210,
+            182
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brad Uyemura"
     },
@@ -8431,7 +9715,11 @@
         "Name": "Mason McCool",
         "Average": 173,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            199,
+            131,
+            181
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Mason McCool"
     },
@@ -8440,7 +9728,11 @@
         "Name": "Robert Wada",
         "Average": 190,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            172,
+            166,
+            191
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Robert Wada"
     },
@@ -8449,7 +9741,11 @@
         "Name": "Austin Hogan-McCool",
         "Average": 204,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            185,
+            158,
+            220
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Austin Hogan-McCool"
     },
@@ -8458,7 +9754,11 @@
         "Name": "Corey Tokunaga-Reichert",
         "Average": 223,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            252,
+            211,
+            226
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Corey Tokunaga-Reichert"
     },
@@ -8467,7 +9767,11 @@
         "Name": "Brian Kaneshige",
         "Average": 211,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            212,
+            247,
+            187
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Brian Kaneshige"
     },
@@ -8476,7 +9780,11 @@
         "Name": "Kurt Nakashima",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            209,
+            180,
+            205
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Kurt Nakashima"
     },
@@ -8485,7 +9793,11 @@
         "Name": "Jeff Kaneshige",
         "Average": 199,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            242,
+            175,
+            153
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jeff Kaneshige"
     },
@@ -8494,7 +9806,11 @@
         "Name": "Chad Itami",
         "Average": 199,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            213,
+            245,
+            200
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Chad Itami"
     },
@@ -8503,7 +9819,11 @@
         "Name": "Chris Springfels",
         "Average": 208,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            223,
+            156,
+            219
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Chris Springfels"
     },
@@ -8512,7 +9832,11 @@
         "Name": "Max Onoe",
         "Average": 207,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            202,
+            207,
+            149
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Max Onoe"
     },
@@ -8521,7 +9845,11 @@
         "Name": "Greg Mayeda",
         "Average": 196,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            184,
+            239,
+            221
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Greg Mayeda"
     },
@@ -8530,7 +9858,11 @@
         "Name": "Jordan Mayeda",
         "Average": 204,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            183,
+            200,
+            188
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jordan Mayeda"
     },
@@ -8539,7 +9871,11 @@
         "Name": "Chris Heins",
         "Average": 202,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            201,
+            243,
+            176
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Chris Heins"
     },
@@ -8548,7 +9884,11 @@
         "Name": "Chuck King",
         "Average": 201,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            152,
+            178,
+            187
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Chuck King"
     },
@@ -8557,7 +9897,11 @@
         "Name": "Jason Mayeda",
         "Average": 190,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            189,
+            206,
+            226
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jason Mayeda"
     },
@@ -8566,7 +9910,11 @@
         "Name": "Greg Mori",
         "Average": 192,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            177,
+            192,
+            235
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Greg Mori"
     },
@@ -8575,7 +9923,11 @@
         "Name": "Craig Tsuchiya",
         "Average": 217,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            257,
+            222,
+            220
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Craig Tsuchiya"
     },
@@ -8584,7 +9936,11 @@
         "Name": "Jody Kawamura",
         "Average": 211,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            224,
+            204,
+            187
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jody Kawamura"
     },
@@ -8593,7 +9949,11 @@
         "Name": "Jonathan Kajihara",
         "Average": 201,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            238,
+            257,
+            195
+        ],
         "Event": "Men's Team",
         "_id": "Men's Team_Jonathan Kajihara"
     },
