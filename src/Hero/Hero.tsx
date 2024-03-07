@@ -29,11 +29,10 @@ function HeroAlert() {
         />
       </svg>
 
-      <AlertTitle className="font-bold">
-        SCORES AVAILABLE
-      </AlertTitle>
+      <AlertTitle className="font-bold">SCORES AVAILABLE</AlertTitle>
       <AlertDescription>
-        Unofficial scores for the Men's and Women's Classic events are available in the results section below!
+        Unofficial scores for Mixed Doubles are now available in the results
+        section below!
       </AlertDescription>
     </Alert>
   );
