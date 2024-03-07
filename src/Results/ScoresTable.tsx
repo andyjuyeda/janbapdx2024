@@ -60,7 +60,9 @@ const ScoresTable: React.FC<ScoresTableProps> = ({
         <BackButton setSelectedEvent={setSelectedEvent} />
         {/* Render your scores table here */}
         <div className="flex items-center gap-4 md:block">
-          <h2 className="text-center text-2xl font-bold md:mb-2">{eventName}</h2>
+          <h2 className="text-center text-2xl font-bold md:mb-2">
+            {eventName}
+          </h2>
           <Select value={selectedDivision} onValueChange={setSelectedDivision}>
             <SelectTrigger className="border-md flex-1 bg-slate-50">
               <SelectValue placeholder="All Divisions" />
@@ -238,7 +240,9 @@ const ScoresTable: React.FC<ScoresTableProps> = ({
                     {score.Score.join(", ")}
                   </span>{" "}
                   {/* Adjusted to display Score array */}
-                  <span className="font-bold">{score.Score.reduce((a, b) => a + b, 0)}</span>
+                  <span className="font-bold">
+                    {score.Score.reduce((a, b) => a + b, 0)}
+                  </span>
                 </li>
               ))}
           </ul>
