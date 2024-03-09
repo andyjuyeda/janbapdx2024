@@ -9962,7 +9962,11 @@
         "Name": "Staci Erickson",
         "Average": 120,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            115,
+            146,
+            153
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Staci Erickson"
     },
@@ -9971,7 +9975,11 @@
         "Name": "June Kurano",
         "Average": 154,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            127,
+            174,
+            152
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_June Kurano"
     },
@@ -9980,7 +9988,11 @@
         "Name": "Judy Kawabata",
         "Average": 131,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            104,
+            122,
+            143
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Judy Kawabata"
     },
@@ -9989,7 +10001,11 @@
         "Name": "Linda Okuda",
         "Average": 143,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            148,
+            122,
+            141
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Linda Okuda"
     },
@@ -9998,7 +10014,11 @@
         "Name": "Danielle Kitaoka",
         "Average": 114,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            157,
+            118,
+            134
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Danielle Kitaoka"
     },
@@ -10007,7 +10027,11 @@
         "Name": "Casey Mori",
         "Average": 162,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            225,
+            188,
+            183
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Casey Mori"
     },
@@ -10016,7 +10040,11 @@
         "Name": "Cynthia Yamamoto",
         "Average": 139,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            132,
+            97,
+            117
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Cynthia Yamamoto"
     },
@@ -10025,7 +10053,11 @@
         "Name": "Audrey Ho",
         "Average": 137,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            135,
+            150,
+            128
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Audrey Ho"
     },
@@ -10034,7 +10066,11 @@
         "Name": "Fran Ellis",
         "Average": 120,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            117,
+            151,
+            159
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Fran Ellis"
     },
@@ -10043,7 +10079,11 @@
         "Name": "Lolly Mayeda",
         "Average": 159,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            141,
+            148,
+            173
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Lolly Mayeda"
     },
@@ -10052,7 +10092,11 @@
         "Name": "Lillian Higa",
         "Average": 136,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            160,
+            134,
+            142
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Lillian Higa"
     },
@@ -10061,7 +10105,11 @@
         "Name": "Cheyna Heresa-Peace",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            138,
+            168,
+            162
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Cheyna Heresa-Peace"
     },
@@ -10070,7 +10118,11 @@
         "Name": "Raiko Haller",
         "Average": 134,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            154,
+            127,
+            162
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Raiko Haller"
     },
@@ -10079,7 +10131,11 @@
         "Name": "Kori Kajitsu",
         "Average": 156,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            160,
+            130,
+            161
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kori Kajitsu"
     },
@@ -10088,7 +10144,11 @@
         "Name": "Melody Hirata",
         "Average": 137,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            111,
+            154,
+            130
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Melody Hirata"
     },
@@ -10097,7 +10157,11 @@
         "Name": "Karyl DeWitt",
         "Average": 159,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            123,
+            173,
+            180
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Karyl DeWitt"
     },
@@ -10106,7 +10170,11 @@
         "Name": "Jamie Chiara",
         "Average": 141,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            146,
+            176,
+            159
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jamie Chiara"
     },
@@ -10115,7 +10183,11 @@
         "Name": "Sherri Lee",
         "Average": 159,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            156,
+            163,
+            151
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Sherri Lee"
     },
@@ -10124,7 +10196,11 @@
         "Name": "Patti Hashimoto",
         "Average": 147,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            117,
+            130,
+            183
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Patti Hashimoto"
     },
@@ -10133,7 +10209,11 @@
         "Name": "Janet Shibuya",
         "Average": 153,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            155,
+            134,
+            146
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Janet Shibuya"
     },
@@ -10142,7 +10222,11 @@
         "Name": "Tena Miya",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            125,
+            190,
+            160
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Tena Miya"
     },
@@ -10151,7 +10235,11 @@
         "Name": "Suzan Yoshimura",
         "Average": 157,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            182,
+            157,
+            149
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Suzan Yoshimura"
     },
@@ -10160,7 +10248,11 @@
         "Name": "Terri Wong-Shoji",
         "Average": 149,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            122,
+            156,
+            104
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Terri Wong-Shoji"
     },
@@ -10169,7 +10261,11 @@
         "Name": "April Okazaki",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            152,
+            134,
+            139
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_April Okazaki"
     },
@@ -10178,7 +10274,11 @@
         "Name": "Rhonda Kaneshige",
         "Average": 153,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            171,
+            164,
+            167
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Rhonda Kaneshige"
     },
@@ -10187,7 +10287,11 @@
         "Name": "Sandy Kaneshige",
         "Average": 150,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            183,
+            181,
+            179
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Sandy Kaneshige"
     },
@@ -10196,7 +10300,11 @@
         "Name": "Brittany Mochizuki",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            171,
+            190,
+            190
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Brittany Mochizuki"
     },
@@ -10205,7 +10313,11 @@
         "Name": "Jean Sato",
         "Average": 142,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            158,
+            144,
+            168
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jean Sato"
     },
@@ -10214,7 +10326,11 @@
         "Name": "Mer Nagae",
         "Average": 121,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            76,
+            129,
+            146
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Mer Nagae"
     },
@@ -10223,7 +10339,11 @@
         "Name": "Amy Teragawa",
         "Average": 135,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            58,
+            96,
+            112
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Amy Teragawa"
     },
@@ -10232,7 +10352,11 @@
         "Name": "Lorraine Sakuma",
         "Average": 138,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            139,
+            111,
+            115
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Lorraine Sakuma"
     },
@@ -10241,7 +10365,11 @@
         "Name": "Nora Gono",
         "Average": 133,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            143,
+            144,
+            113
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Nora Gono"
     },
@@ -10250,7 +10378,11 @@
         "Name": "Julianne Tosaya",
         "Average": 149,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            207,
+            146,
+            134
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Julianne Tosaya"
     },
@@ -10259,7 +10391,11 @@
         "Name": "Zoe Hung",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            171,
+            145,
+            146
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Zoe Hung"
     },
@@ -10268,7 +10404,11 @@
         "Name": "Pam Uyemura",
         "Average": 154,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            184,
+            173,
+            130
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Pam Uyemura"
     },
@@ -10277,34 +10417,24 @@
         "Name": "Sharon Eshima",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            123,
+            174,
+            187
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Sharon Eshima"
-    },
-    {
-        "Lane": 3,
-        "Name": "Donna Nakayama",
-        "Average": 152,
-        "Division": 2,
-        "Score": [],
-        "Event": "Women's Doubles",
-        "_id": "Women's Doubles_Donna Nakayama"
-    },
-    {
-        "Lane": 3,
-        "Name": "Glenice Bowman",
-        "Average": 161,
-        "Division": 2,
-        "Score": [],
-        "Event": "Women's Doubles",
-        "_id": "Women's Doubles_Glenice Bowman"
     },
     {
         "Lane": 4,
         "Name": "Lori Carillo",
         "Average": 155,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            163,
+            102,
+            129
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Lori Carillo"
     },
@@ -10313,7 +10443,11 @@
         "Name": "Iris Umehira",
         "Average": 158,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            193,
+            173,
+            156
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Iris Umehira"
     },
@@ -10322,7 +10456,11 @@
         "Name": "Nancy Kajitsu",
         "Average": 158,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            164,
+            154,
+            129
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Nancy Kajitsu"
     },
@@ -10331,7 +10469,11 @@
         "Name": "Barbara Takahashi",
         "Average": 161,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            165,
+            157,
+            163
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Barbara Takahashi"
     },
@@ -10340,7 +10482,11 @@
         "Name": "Mary Imori",
         "Average": 146,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            170,
+            103,
+            170
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Mary Imori"
     },
@@ -10349,7 +10495,11 @@
         "Name": "Tracey Wandler",
         "Average": 174,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            222,
+            201,
+            177
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Tracey Wandler"
     },
@@ -10358,7 +10508,11 @@
         "Name": "Janet Kawachi",
         "Average": 150,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            164,
+            170,
+            156
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Janet Kawachi"
     },
@@ -10367,7 +10521,11 @@
         "Name": "Kristen Kawachi",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            157,
+            209,
+            214
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kristen Kawachi"
     },
@@ -10376,7 +10534,11 @@
         "Name": "Angelina Yokoyama",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            140,
+            174,
+            152
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Angelina Yokoyama"
     },
@@ -10385,7 +10547,11 @@
         "Name": "Anne Hidaka",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            153,
+            147,
+            146
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Anne Hidaka"
     },
@@ -10394,7 +10560,11 @@
         "Name": "Brittney Taylor",
         "Average": 197,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            196,
+            171,
+            170
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Brittney Taylor"
     },
@@ -10403,7 +10573,11 @@
         "Name": "Sandra Pearson",
         "Average": 132,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            162,
+            113,
+            164
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Sandra Pearson"
     },
@@ -10412,7 +10586,11 @@
         "Name": "Shiho Kubo",
         "Average": 172,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            179,
+            201,
+            173
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Shiho Kubo"
     },
@@ -10421,7 +10599,11 @@
         "Name": "Marion Yee",
         "Average": 157,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            162,
+            165,
+            123
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Marion Yee"
     },
@@ -10430,7 +10612,11 @@
         "Name": "Betty Kinoshita",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            148,
+            161,
+            177
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Betty Kinoshita"
     },
@@ -10439,7 +10625,11 @@
         "Name": "Linda Uyeda",
         "Average": 168,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            168,
+            128,
+            148
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Linda Uyeda"
     },
@@ -10448,7 +10638,11 @@
         "Name": "Chris Brewster",
         "Average": 156,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            155,
+            165,
+            150
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Chris Brewster"
     },
@@ -10457,7 +10651,11 @@
         "Name": "Diane Fujii",
         "Average": 179,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            175,
+            183,
+            155
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Diane Fujii"
     },
@@ -10466,7 +10664,11 @@
         "Name": "Miya Tsumura",
         "Average": 144,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            137,
+            153,
+            102
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Miya Tsumura"
     },
@@ -10475,7 +10677,11 @@
         "Name": "Denise Quan",
         "Average": 164,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            189,
+            146,
+            170
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Denise Quan"
     },
@@ -10484,7 +10690,11 @@
         "Name": "Victoria Tamabayashi",
         "Average": 152,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            153,
+            179,
+            126
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Victoria Tamabayashi"
     },
@@ -10493,7 +10703,11 @@
         "Name": "Alisa Oba",
         "Average": 158,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            103,
+            155,
+            187
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Alisa Oba"
     },
@@ -10502,7 +10716,11 @@
         "Name": "Wendy Nagasawa",
         "Average": 155,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            145,
+            179,
+            138
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Wendy Nagasawa"
     },
@@ -10511,7 +10729,11 @@
         "Name": "Krissy Nagasawa",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            171,
+            186,
+            143
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Krissy Nagasawa"
     },
@@ -10520,7 +10742,11 @@
         "Name": "Holly Itami-Springfels",
         "Average": 161,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            194,
+            187,
+            172
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Holly Itami-Springfels"
     },
@@ -10529,7 +10755,11 @@
         "Name": "Kimberly Walker",
         "Average": 179,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            156,
+            164,
+            222
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kimberly Walker"
     },
@@ -10538,7 +10768,11 @@
         "Name": "Rumi Marsh",
         "Average": 166,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            179,
+            154,
+            202
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Rumi Marsh"
     },
@@ -10547,7 +10781,11 @@
         "Name": "Ayame Yokomizo",
         "Average": 175,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            214,
+            194,
+            161
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Ayame Yokomizo"
     },
@@ -10556,7 +10794,11 @@
         "Name": "Kristi Thompson",
         "Average": 166,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            176,
+            168,
+            186
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kristi Thompson"
     },
@@ -10565,7 +10807,11 @@
         "Name": "Nikka Lee",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            163,
+            157,
+            191
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Nikka Lee"
     },
@@ -10574,7 +10820,11 @@
         "Name": "Renee Matsutani",
         "Average": 162,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            157,
+            138,
+            131
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Renee Matsutani"
     },
@@ -10583,7 +10833,11 @@
         "Name": "Yako McDonnell",
         "Average": 182,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            114,
+            177,
+            204
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Yako McDonnell"
     },
@@ -10592,7 +10846,11 @@
         "Name": "Monica Tajiri",
         "Average": 172,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            180,
+            188,
+            171
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Monica Tajiri"
     },
@@ -10601,7 +10859,11 @@
         "Name": "Tarika Onishi",
         "Average": 175,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            208,
+            199,
+            213
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Tarika Onishi"
     },
@@ -10610,7 +10872,11 @@
         "Name": "Lauren DeSordi",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            151,
+            149,
+            182
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Lauren DeSordi"
     },
@@ -10619,7 +10885,11 @@
         "Name": "Nikki Horita",
         "Average": 169,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            173,
+            160,
+            148
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Nikki Horita"
     },
@@ -10628,7 +10898,11 @@
         "Name": "Jami Tanihana",
         "Average": 162,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            205,
+            209,
+            203
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jami Tanihana"
     },
@@ -10637,7 +10911,11 @@
         "Name": "Jeannie Sakoda",
         "Average": 189,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            159,
+            193,
+            178
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jeannie Sakoda"
     },
@@ -10646,7 +10924,11 @@
         "Name": "Cindi Kaneshige",
         "Average": 177,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            214,
+            178,
+            181
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Cindi Kaneshige"
     },
@@ -10655,7 +10937,11 @@
         "Name": "Mindy Kondo",
         "Average": 174,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            159,
+            185,
+            223
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Mindy Kondo"
     },
@@ -10664,7 +10950,11 @@
         "Name": "Kasie Perreira",
         "Average": 172,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            172,
+            182,
+            146
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kasie Perreira"
     },
@@ -10673,7 +10963,11 @@
         "Name": "Nicole Flannigan",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            175,
+            163,
+            194
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Nicole Flannigan"
     },
@@ -10682,7 +10976,11 @@
         "Name": "Sheri DeWitt",
         "Average": 172,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            203,
+            181,
+            172
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Sheri DeWitt"
     },
@@ -10691,7 +10989,11 @@
         "Name": "Colleen Goto-Ono",
         "Average": 192,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            156,
+            201,
+            152
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Colleen Goto-Ono"
     },
@@ -10700,7 +11002,11 @@
         "Name": "Karen Adolphson",
         "Average": 192,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            169,
+            180,
+            223
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Karen Adolphson"
     },
@@ -10709,7 +11015,11 @@
         "Name": "Kimi Adolphson",
         "Average": 175,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            121,
+            148,
+            129
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kimi Adolphson"
     },
@@ -10718,7 +11028,11 @@
         "Name": "Katie Onoe",
         "Average": 167,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            128,
+            187,
+            169
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Katie Onoe"
     },
@@ -10727,7 +11041,11 @@
         "Name": "Mayumi Florek",
         "Average": 173,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            170,
+            158,
+            161
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Mayumi Florek"
     },
@@ -10736,7 +11054,11 @@
         "Name": "Frances Tanaka",
         "Average": 164,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            168,
+            150,
+            148
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Frances Tanaka"
     },
@@ -10745,7 +11067,11 @@
         "Name": "Sherri Schmaling",
         "Average": 176,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            135,
+            173,
+            163
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Sherri Schmaling"
     },
@@ -10754,7 +11080,11 @@
         "Name": "Karen Onaka",
         "Average": 185,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            173,
+            177,
+            211
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Karen Onaka"
     },
@@ -10763,7 +11093,11 @@
         "Name": "Lori Sagers",
         "Average": 198,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            206,
+            145,
+            201
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Lori Sagers"
     },
@@ -10772,7 +11106,11 @@
         "Name": "Lauren Takahashi",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            195,
+            224,
+            162
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Lauren Takahashi"
     },
@@ -10781,7 +11119,11 @@
         "Name": "Alecia Kanazawa",
         "Average": 193,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            192,
+            177,
+            154
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Alecia Kanazawa"
     },
@@ -10790,7 +11132,11 @@
         "Name": "Brynn Yoshida",
         "Average": 176,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            112,
+            147,
+            145
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Brynn Yoshida"
     },
@@ -10799,7 +11145,11 @@
         "Name": "Ashley Muraoka",
         "Average": 219,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            206,
+            189,
+            179
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Ashley Muraoka"
     },
@@ -10808,7 +11158,11 @@
         "Name": "Darlee Horiuchi",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            165,
+            178,
+            204
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Darlee Horiuchi"
     },
@@ -10817,7 +11171,11 @@
         "Name": "Erin Ohta",
         "Average": 197,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            159,
+            189,
+            179
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Erin Ohta"
     },
@@ -10826,7 +11184,11 @@
         "Name": "Michelle Shimada",
         "Average": 199,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            197,
+            192,
+            178
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Michelle Shimada"
     },
@@ -10835,7 +11197,11 @@
         "Name": "Stefanie Hirata",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            184,
+            234,
+            189
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Stefanie Hirata"
     },
@@ -10844,7 +11210,11 @@
         "Name": "Tamlyn Murata",
         "Average": 207,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            213,
+            191,
+            203
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Tamlyn Murata"
     },
@@ -10853,7 +11223,11 @@
         "Name": "Tracey Kitaoka",
         "Average": 196,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            199,
+            199,
+            198
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Tracey Kitaoka"
     },
@@ -10862,7 +11236,11 @@
         "Name": "Coryn Watanabe",
         "Average": 192,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            202,
+            207,
+            223
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Coryn Watanabe"
     },
@@ -10871,7 +11249,11 @@
         "Name": "Christine Kato Asuncion",
         "Average": 214,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            209,
+            194,
+            182
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Christine Kato Asuncion"
     },
@@ -10880,7 +11262,11 @@
         "Name": "Julie Kawaye",
         "Average": 194,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            210,
+            193,
+            122
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Julie Kawaye"
     },
@@ -10889,7 +11275,11 @@
         "Name": "Jennifer Reven",
         "Average": 213,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            159,
+            198,
+            175
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jennifer Reven"
     },
@@ -10898,7 +11288,11 @@
         "Name": "Jodi Hiraoka",
         "Average": 197,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            214,
+            144,
+            174
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jodi Hiraoka"
     },
@@ -10907,7 +11301,11 @@
         "Name": "Nichole Hiraoka",
         "Average": 212,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            235,
+            221,
+            235
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Nichole Hiraoka"
     },
@@ -10916,7 +11314,11 @@
         "Name": "Alix Oike",
         "Average": 200,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            178,
+            206,
+            225
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Alix Oike"
     },
@@ -10925,7 +11327,11 @@
         "Name": "Leanna Harada",
         "Average": 214,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            165,
+            199,
+            205
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Leanna Harada"
     },
@@ -10934,7 +11340,11 @@
         "Name": "Jory Koizumi-Miyashiro",
         "Average": 213,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            193,
+            200,
+            200
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jory Koizumi-Miyashiro"
     },
@@ -10943,7 +11353,11 @@
         "Name": "Christalynn Ortiz",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            177,
+            173,
+            201
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Christalynn Ortiz"
     },
@@ -10952,7 +11366,11 @@
         "Name": "Jackie Matsutani",
         "Average": 217,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            234,
+            176,
+            199
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jackie Matsutani"
     },
@@ -10961,7 +11379,11 @@
         "Name": "Kristy Coles",
         "Average": 213,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            207,
+            203,
+            237
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kristy Coles"
     },
@@ -10970,7 +11392,11 @@
         "Name": "Kelly Leger",
         "Average": 189,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            150,
+            182,
+            200
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Kelly Leger"
     },
@@ -10979,7 +11405,11 @@
         "Name": "Alex Leger",
         "Average": 181,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            160,
+            146,
+            176
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Alex Leger"
     },
@@ -10988,7 +11418,11 @@
         "Name": "Shannon Lee",
         "Average": 192,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            157,
+            152,
+            161
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Shannon Lee"
     },
@@ -10997,7 +11431,11 @@
         "Name": "Jennifer Uno",
         "Average": 183,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            168,
+            200,
+            189
+        ],
         "Event": "Women's Doubles",
         "_id": "Women's Doubles_Jennifer Uno"
     },
@@ -11006,7 +11444,11 @@
         "Name": "Wesley Smith",
         "Average": 140,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            153,
+            202,
+            149
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Wesley Smith"
     },
@@ -11015,7 +11457,11 @@
         "Name": "Bruce Hashimoto",
         "Average": 157,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            169,
+            182,
+            183
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bruce Hashimoto"
     },
@@ -11024,7 +11470,11 @@
         "Name": "Christopher Peace",
         "Average": 130,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            179,
+            134,
+            128
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Christopher Peace"
     },
@@ -11033,7 +11483,11 @@
         "Name": "Roy Umehira",
         "Average": 183,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            168,
+            157,
+            149
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Roy Umehira"
     },
@@ -11042,7 +11496,11 @@
         "Name": "Tyler Haller",
         "Average": 140,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            160,
+            117,
+            221
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Tyler Haller"
     },
@@ -11051,7 +11509,11 @@
         "Name": "Wayne Wakabayashi",
         "Average": 174,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            237,
+            141,
+            171
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Wayne Wakabayashi"
     },
@@ -11060,7 +11522,11 @@
         "Name": "Garrett Yoshimoto",
         "Average": 159,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            206,
+            168,
+            143
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Garrett Yoshimoto"
     },
@@ -11069,7 +11535,11 @@
         "Name": "Ryan Tamura",
         "Average": 165,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            230,
+            234,
+            155
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ryan Tamura"
     },
@@ -11078,7 +11548,11 @@
         "Name": "Randy Pearson",
         "Average": 167,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            181,
+            181,
+            172
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Randy Pearson"
     },
@@ -11087,7 +11561,11 @@
         "Name": "Patrick Oki",
         "Average": 158,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            157,
+            166,
+            158
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Patrick Oki"
     },
@@ -11096,7 +11574,11 @@
         "Name": "Ben E Yamamoto",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            199,
+            172,
+            187
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ben E Yamamoto"
     },
@@ -11105,7 +11587,11 @@
         "Name": "Ben I Yamamoto",
         "Average": 180,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            178,
+            164,
+            159
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ben I Yamamoto"
     },
@@ -11114,7 +11600,11 @@
         "Name": "Kaz Sato",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            153,
+            137,
+            172
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kaz Sato"
     },
@@ -11123,7 +11613,11 @@
         "Name": "Raymond Kinoshita",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            131,
+            168,
+            148
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Raymond Kinoshita"
     },
@@ -11132,7 +11626,11 @@
         "Name": "Aki Kim",
         "Average": 171,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            194,
+            185,
+            154
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Aki Kim"
     },
@@ -11141,7 +11639,11 @@
         "Name": "Uriel Engle",
         "Average": 164,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            120,
+            132,
+            168
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Uriel Engle"
     },
@@ -11150,7 +11652,11 @@
         "Name": "Michael Anzivino",
         "Average": 141,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            160,
+            125,
+            165
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Michael Anzivino"
     },
@@ -11159,7 +11665,11 @@
         "Name": "Mike Smith",
         "Average": 196,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            201,
+            190,
+            201
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mike Smith"
     },
@@ -11168,7 +11678,11 @@
         "Name": "Marcelo Mitre",
         "Average": 149,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            151,
+            147,
+            200
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Marcelo Mitre"
     },
@@ -11177,7 +11691,11 @@
         "Name": "Jeff Mitre",
         "Average": 190,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            171,
+            202,
+            214
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeff Mitre"
     },
@@ -11186,7 +11704,11 @@
         "Name": "Don Jordan",
         "Average": 160,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            161,
+            207,
+            169
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Don Jordan"
     },
@@ -11195,7 +11717,11 @@
         "Name": "Harold Okino",
         "Average": 180,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            194,
+            151,
+            203
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Harold Okino"
     },
@@ -11204,7 +11730,11 @@
         "Name": "Garrett Furuta",
         "Average": 147,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            179,
+            166,
+            146
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Garrett Furuta"
     },
@@ -11213,7 +11743,11 @@
         "Name": "Russell Kame",
         "Average": 193,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            199,
+            183,
+            203
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Russell Kame"
     },
@@ -11222,7 +11756,11 @@
         "Name": "Craig Terashima",
         "Average": 124,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            142,
+            146,
+            142
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Craig Terashima"
     },
@@ -11231,7 +11769,11 @@
         "Name": "Dean Sato",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            166,
+            141,
+            139
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dean Sato"
     },
@@ -11240,7 +11782,11 @@
         "Name": "Kevin Sato",
         "Average": 120,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            0,
+            0,
+            0
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kevin Sato"
     },
@@ -11249,7 +11795,11 @@
         "Name": "Kirk Terashima",
         "Average": 171,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            125,
+            157,
+            137
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kirk Terashima"
     },
@@ -11258,7 +11808,11 @@
         "Name": "Garrick Shishido",
         "Average": 136,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            159,
+            175,
+            145
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Garrick Shishido"
     },
@@ -11267,7 +11821,11 @@
         "Name": "Wayne Nagasawa",
         "Average": 156,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            165,
+            125,
+            177
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Wayne Nagasawa"
     },
@@ -11276,7 +11834,11 @@
         "Name": "Lucas Erickson",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            149,
+            203,
+            212
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Lucas Erickson"
     },
@@ -11285,7 +11847,11 @@
         "Name": "Kris Kato",
         "Average": 190,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            140,
+            151,
+            171
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kris Kato"
     },
@@ -11294,7 +11860,11 @@
         "Name": "Gary Sato",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            129,
+            189,
+            165
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gary Sato"
     },
@@ -11303,7 +11873,11 @@
         "Name": "Terry Matsumoto",
         "Average": 173,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            178,
+            136,
+            169
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Terry Matsumoto"
     },
@@ -11312,7 +11886,11 @@
         "Name": "Dan Nakamura",
         "Average": 166,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            183,
+            212,
+            215
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dan Nakamura"
     },
@@ -11321,7 +11899,11 @@
         "Name": "Stuart Kawachi",
         "Average": 183,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            143,
+            193,
+            176
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Stuart Kawachi"
     },
@@ -11330,7 +11912,11 @@
         "Name": "Stacy Sakumoto",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            179,
+            135,
+            180
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Stacy Sakumoto"
     },
@@ -11339,7 +11925,11 @@
         "Name": "Russell Horikawa",
         "Average": 182,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            183,
+            168,
+            204
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Russell Horikawa"
     },
@@ -11348,7 +11938,11 @@
         "Name": "Jeff Hasegawa",
         "Average": 179,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            167,
+            148,
+            154
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeff Hasegawa"
     },
@@ -11357,7 +11951,11 @@
         "Name": "Gordon Kiyokawa",
         "Average": 173,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            137,
+            138,
+            158
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gordon Kiyokawa"
     },
@@ -11366,7 +11964,11 @@
         "Name": "James Kahuhu",
         "Average": 177,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            139,
+            150,
+            122
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_James Kahuhu"
     },
@@ -11375,7 +11977,11 @@
         "Name": "Daron Sugiyama",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            169,
+            158,
+            202
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Daron Sugiyama"
     },
@@ -11384,7 +11990,11 @@
         "Name": "Wayne Mayeda",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            204,
+            139,
+            170
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Wayne Mayeda"
     },
@@ -11393,7 +12003,11 @@
         "Name": "Matt Masukawa",
         "Average": 186,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            222,
+            174,
+            152
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Matt Masukawa"
     },
@@ -11402,7 +12016,11 @@
         "Name": "Perry Kiyokawa",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            172,
+            169,
+            182
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Perry Kiyokawa"
     },
@@ -11411,7 +12029,11 @@
         "Name": "Stephen Yamasaki",
         "Average": 184,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            157,
+            180,
+            200
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Stephen Yamasaki"
     },
@@ -11420,7 +12042,11 @@
         "Name": "Robert Ho",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            157,
+            149,
+            183
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Robert Ho"
     },
@@ -11429,7 +12055,11 @@
         "Name": "John Mizutani",
         "Average": 181,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            235,
+            179,
+            153
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_John Mizutani"
     },
@@ -11438,7 +12068,11 @@
         "Name": "Andy Kiyokawa",
         "Average": 174,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            143,
+            161,
+            159
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Andy Kiyokawa"
     },
@@ -11447,25 +12081,37 @@
         "Name": "Michael Yee",
         "Average": 183,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            224,
+            277,
+            149
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Michael Yee"
     },
     {
         "Lane": 11,
-        "Name": "Kyle Lee",
-        "Average": 175,
-        "Division": 2,
-        "Score": [],
+        "Name": "Lincoln Hirata",
+        "Average": 190,
+        "Division": 0,
+        "Score": [
+            183,
+            180,
+            183
+        ],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kyle Lee"
+        "_id": "Men's Doubles_Lincoln Hirata"
     },
     {
         "Lane": 11,
         "Name": "Andy Uyeda",
         "Average": 183,
-        "Division": 2,
-        "Score": [],
+        "Division": 0,
+        "Score": [
+            190,
+            193,
+            265
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Andy Uyeda"
     },
@@ -11474,7 +12120,11 @@
         "Name": "Tyler Uyeda",
         "Average": 167,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            131,
+            131,
+            175
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Tyler Uyeda"
     },
@@ -11483,7 +12133,11 @@
         "Name": "Richard Uyeda",
         "Average": 191,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            138,
+            213,
+            140
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Richard Uyeda"
     },
@@ -11492,25 +12146,37 @@
         "Name": "Ken Kinoshita",
         "Average": 168,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            150,
+            203,
+            111
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ken Kinoshita"
     },
     {
         "Lane": 13,
-        "Name": "Ross Yamasaki",
-        "Average": 175,
+        "Name": "Ed Kajitsu",
+        "Average": 157,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            102,
+            161,
+            147
+        ],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Ross Yamasaki"
+        "_id": "Men's Doubles_Ed Kajitsu"
     },
     {
         "Lane": 14,
         "Name": "Dereck Heresa",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            149,
+            157,
+            178
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dereck Heresa"
     },
@@ -11519,7 +12185,11 @@
         "Name": "Marcus Heresa",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            145,
+            178,
+            165
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Marcus Heresa"
     },
@@ -11528,7 +12198,11 @@
         "Name": "Don Furuya",
         "Average": 162,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            134,
+            108,
+            195
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Don Furuya"
     },
@@ -11537,7 +12211,11 @@
         "Name": "Anthony Madrona",
         "Average": 197,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            171,
+            196,
+            180
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Anthony Madrona"
     },
@@ -11546,7 +12224,11 @@
         "Name": "Rick DeGuzman",
         "Average": 175,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            170,
+            174,
+            186
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Rick DeGuzman"
     },
@@ -11555,7 +12237,11 @@
         "Name": "Scott Miyamoto",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            155,
+            167,
+            142
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Scott Miyamoto"
     },
@@ -11564,7 +12250,11 @@
         "Name": "Johnny Uyeda",
         "Average": 183,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            212,
+            137,
+            186
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Johnny Uyeda"
     },
@@ -11573,7 +12263,11 @@
         "Name": "John Lee",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            194,
+            159,
+            181
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_John Lee"
     },
@@ -11582,7 +12276,11 @@
         "Name": "Wallace Yamamoto",
         "Average": 176,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            171,
+            201,
+            185
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Wallace Yamamoto"
     },
@@ -11591,7 +12289,11 @@
         "Name": "Ryan Ho",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            169,
+            226,
+            190
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ryan Ho"
     },
@@ -11600,7 +12302,11 @@
         "Name": "Richard Ho",
         "Average": 189,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            208,
+            171,
+            194
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Richard Ho"
     },
@@ -11609,7 +12315,11 @@
         "Name": "Dale Okazaki",
         "Average": 173,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            235,
+            144,
+            173
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dale Okazaki"
     },
@@ -11618,7 +12328,11 @@
         "Name": "Bradley Kitaoka",
         "Average": 162,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            159,
+            175,
+            181
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bradley Kitaoka"
     },
@@ -11627,7 +12341,11 @@
         "Name": "Craig Kitaoka",
         "Average": 200,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            215,
+            193,
+            249
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Craig Kitaoka"
     },
@@ -11636,7 +12354,11 @@
         "Name": "Gary Nishikawa",
         "Average": 186,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            151,
+            255,
+            190
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gary Nishikawa"
     },
@@ -11645,7 +12367,11 @@
         "Name": "Everett Nishikawa",
         "Average": 177,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            179,
+            171,
+            154
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Everett Nishikawa"
     },
@@ -11654,7 +12380,11 @@
         "Name": "Jun Kataoka",
         "Average": 186,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            169,
+            190,
+            168
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jun Kataoka"
     },
@@ -11663,7 +12393,11 @@
         "Name": "Keith Sasada",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            180,
+            202,
+            197
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Keith Sasada"
     },
@@ -11672,7 +12406,11 @@
         "Name": "Doug Muneta",
         "Average": 176,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            157,
+            206,
+            167
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Doug Muneta"
     },
@@ -11681,7 +12419,11 @@
         "Name": "Rob Yano",
         "Average": 189,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            233,
+            173,
+            140
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Rob Yano"
     },
@@ -11690,7 +12432,11 @@
         "Name": "Ray Tamura",
         "Average": 197,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            167,
+            224,
+            180
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ray Tamura"
     },
@@ -11699,7 +12445,11 @@
         "Name": "Jay Tsutsui",
         "Average": 169,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            199,
+            177,
+            132
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jay Tsutsui"
     },
@@ -11708,7 +12458,11 @@
         "Name": "Reid Shishido",
         "Average": 203,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            189,
+            245,
+            179
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Reid Shishido"
     },
@@ -11717,7 +12471,11 @@
         "Name": "Larry Flannigan",
         "Average": 163,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            169,
+            201,
+            166
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Larry Flannigan"
     },
@@ -11726,7 +12484,11 @@
         "Name": "Robert Schmaling",
         "Average": 166,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            100,
+            121,
+            157
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Robert Schmaling"
     },
@@ -11735,7 +12497,11 @@
         "Name": "Chuck King",
         "Average": 201,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            184,
+            183,
+            192
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Chuck King"
     },
@@ -11744,7 +12510,11 @@
         "Name": "Bill Kitagawa",
         "Average": 166,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            169,
+            158,
+            159
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bill Kitagawa"
     },
@@ -11753,7 +12523,11 @@
         "Name": "Michael Brewster",
         "Average": 192,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            146,
+            165,
+            154
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Michael Brewster"
     },
@@ -11762,7 +12536,11 @@
         "Name": "Bryant Fukui",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            154,
+            193,
+            231
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bryant Fukui"
     },
@@ -11771,7 +12549,11 @@
         "Name": "Dewaine Higa",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            134,
+            174,
+            197
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dewaine Higa"
     },
@@ -11780,7 +12562,11 @@
         "Name": "Scott Watanabe - SJ",
         "Average": 184,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            166,
+            164,
+            233
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Scott Watanabe - SJ"
     },
@@ -11789,25 +12575,37 @@
         "Name": "Dale Ando",
         "Average": 189,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            170,
+            177,
+            178
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dale Ando"
     },
     {
         "Lane": 2,
-        "Name": "Lon Handa",
-        "Average": 175,
+        "Name": "Ray Nakagawa",
+        "Average": 181,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            214,
+            196,
+            134
+        ],
         "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Lon Handa"
+        "_id": "Men's Doubles_Ray Nakagawa"
     },
     {
         "Lane": 2,
         "Name": "Mikel Onaka",
         "Average": 198,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            128,
+            213,
+            208
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mikel Onaka"
     },
@@ -11816,7 +12614,11 @@
         "Name": "Steve Itatani",
         "Average": 185,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            201,
+            160,
+            181
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Steve Itatani"
     },
@@ -11825,7 +12627,11 @@
         "Name": "Duane Sakoda",
         "Average": 191,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            159,
+            193,
+            230
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Duane Sakoda"
     },
@@ -11834,7 +12640,11 @@
         "Name": "Craig Sumida",
         "Average": 190,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            116,
+            158,
+            178
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Craig Sumida"
     },
@@ -11843,7 +12653,11 @@
         "Name": "Jonathan Tamayose",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            207,
+            196,
+            195
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jonathan Tamayose"
     },
@@ -11852,7 +12666,11 @@
         "Name": "Kurt Nakashima",
         "Average": 181,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            139,
+            189,
+            237
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kurt Nakashima"
     },
@@ -11861,7 +12679,11 @@
         "Name": "Kevin Quan",
         "Average": 196,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            192,
+            221,
+            237
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kevin Quan"
     },
@@ -11870,7 +12692,11 @@
         "Name": "Mason McCool",
         "Average": 173,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            167,
+            205,
+            187
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mason McCool"
     },
@@ -11879,7 +12705,11 @@
         "Name": "Austin Hogan-McCool",
         "Average": 204,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            169,
+            179,
+            227
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Austin Hogan-McCool"
     },
@@ -11888,7 +12718,11 @@
         "Name": "Jody Tao",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            145,
+            199,
+            169
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jody Tao"
     },
@@ -11897,7 +12731,11 @@
         "Name": "Ken Murakami",
         "Average": 194,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            213,
+            166,
+            179
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ken Murakami"
     },
@@ -11906,7 +12744,11 @@
         "Name": "Mike Nakamura",
         "Average": 181,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            158,
+            217,
+            123
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mike Nakamura"
     },
@@ -11915,7 +12757,11 @@
         "Name": "Derek Lee",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            169,
+            210,
+            188
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Derek Lee"
     },
@@ -11924,7 +12770,11 @@
         "Name": "Dwayn Kim",
         "Average": 175,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            147,
+            160,
+            208
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dwayn Kim"
     },
@@ -11933,7 +12783,11 @@
         "Name": "Kihei Kim",
         "Average": 210,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            200,
+            160,
+            117
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kihei Kim"
     },
@@ -11942,7 +12796,11 @@
         "Name": "Mark Yoshinaka",
         "Average": 188,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            205,
+            183,
+            175
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mark Yoshinaka"
     },
@@ -11951,7 +12809,11 @@
         "Name": "Glenn Tsuchiya",
         "Average": 199,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            198,
+            211,
+            203
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Glenn Tsuchiya"
     },
@@ -11960,7 +12822,11 @@
         "Name": "John Neishi",
         "Average": 193,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            181,
+            156,
+            146
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_John Neishi"
     },
@@ -11969,7 +12835,11 @@
         "Name": "Darrin Wong",
         "Average": 194,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            192,
+            210,
+            191
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Darrin Wong"
     },
@@ -11978,7 +12848,11 @@
         "Name": "Bruce Akau",
         "Average": 189,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            200,
+            186,
+            202
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bruce Akau"
     },
@@ -11987,7 +12861,11 @@
         "Name": "T.J. Yanuska",
         "Average": 198,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            255,
+            243,
+            245
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_T.J. Yanuska"
     },
@@ -11996,7 +12874,11 @@
         "Name": "Kyle Uno",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            170,
+            175,
+            149
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kyle Uno"
     },
@@ -12005,7 +12887,11 @@
         "Name": "Jeff Uno",
         "Average": 182,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            168,
+            161,
+            170
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeff Uno"
     },
@@ -12014,7 +12900,11 @@
         "Name": "Henry Isefuku",
         "Average": 185,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            186,
+            157,
+            183
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Henry Isefuku"
     },
@@ -12023,70 +12913,102 @@
         "Name": "Craig Horita",
         "Average": 185,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            144,
+            211,
+            249
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Craig Horita"
     },
     {
         "Lane": 15,
+        "Name": "Kay Yamanaka",
+        "Average": 194,
+        "Division": 5,
+        "Score": [
+            181,
+            212,
+            200
+        ],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Kay Yamanaka"
+    },
+    {
+        "Lane": 15,
+        "Name": "Waimun Yee",
+        "Average": 195,
+        "Division": 5,
+        "Score": [
+            160,
+            246,
+            222
+        ],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Waimun Yee"
+    },
+    {
+        "Lane": 16,
         "Name": "Daryl Kurihara",
         "Average": 186,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            197,
+            194,
+            178
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Daryl Kurihara"
     },
     {
-        "Lane": 15,
+        "Lane": 16,
         "Name": "Ryan Yee",
         "Average": 205,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            229,
+            159,
+            150
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ryan Yee"
     },
     {
-        "Lane": 16,
+        "Lane": 17,
         "Name": "Jason Mayeda",
         "Average": 190,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            165,
+            177,
+            158
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jason Mayeda"
     },
     {
-        "Lane": 16,
+        "Lane": 17,
         "Name": "Jonathan Kajihara",
         "Average": 201,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            215,
+            209,
+            223
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jonathan Kajihara"
-    },
-    {
-        "Lane": 17,
-        "Name": "Robert Chuck",
-        "Average": 182,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Robert Chuck"
-    },
-    {
-        "Lane": 17,
-        "Name": "Marc Tsuchiya",
-        "Average": 210,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Marc Tsuchiya"
     },
     {
         "Lane": 18,
         "Name": "Brandon Hirata",
         "Average": 175,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            233,
+            181,
+            236
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brandon Hirata"
     },
@@ -12095,7 +13017,11 @@
         "Name": "Craig Tsuchiya",
         "Average": 217,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            227,
+            190,
+            241
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Craig Tsuchiya"
     },
@@ -12104,7 +13030,11 @@
         "Name": "Steve Doi",
         "Average": 184,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            169,
+            184,
+            171
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Steve Doi"
     },
@@ -12113,7 +13043,11 @@
         "Name": "Vince Itatani",
         "Average": 210,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            237,
+            200,
+            204
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Vince Itatani"
     },
@@ -12122,7 +13056,11 @@
         "Name": "Gary Yamashita",
         "Average": 198,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            179,
+            214,
+            202
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gary Yamashita"
     },
@@ -12131,7 +13069,11 @@
         "Name": "Harold Ogata Jr",
         "Average": 196,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            195,
+            171,
+            168
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Harold Ogata Jr"
     },
@@ -12140,7 +13082,11 @@
         "Name": "Dustin Hirata",
         "Average": 178,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            181,
+            163,
+            173
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dustin Hirata"
     },
@@ -12149,7 +13095,11 @@
         "Name": "Duane Koyano",
         "Average": 216,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            195,
+            208,
+            173
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Duane Koyano"
     },
@@ -12158,7 +13108,11 @@
         "Name": "Kento Hirata",
         "Average": 197,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            188,
+            152,
+            175
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kento Hirata"
     },
@@ -12167,7 +13121,11 @@
         "Name": "Jeffrey Hirata",
         "Average": 201,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            237,
+            235,
+            233
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeffrey Hirata"
     },
@@ -12176,7 +13134,11 @@
         "Name": "Ken Wing",
         "Average": 197,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            177,
+            213,
+            210
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ken Wing"
     },
@@ -12185,7 +13147,11 @@
         "Name": "Chuck Kimura",
         "Average": 201,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            236,
+            219,
+            202
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Chuck Kimura"
     },
@@ -12194,7 +13160,11 @@
         "Name": "Mike Uyekubo",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            171,
+            152,
+            232
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mike Uyekubo"
     },
@@ -12203,7 +13173,11 @@
         "Name": "Brian Uchino",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            177,
+            172,
+            201
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brian Uchino"
     },
@@ -12212,7 +13186,11 @@
         "Name": "Devin Tsumura",
         "Average": 190,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            164,
+            163,
+            198
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Devin Tsumura"
     },
@@ -12221,7 +13199,11 @@
         "Name": "Darren Tsumura",
         "Average": 210,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            189,
+            208,
+            182
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Darren Tsumura"
     },
@@ -12230,7 +13212,11 @@
         "Name": "Jordan Mayeda",
         "Average": 204,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            268,
+            247,
+            222
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jordan Mayeda"
     },
@@ -12239,7 +13225,11 @@
         "Name": "Greg Mayeda",
         "Average": 196,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            189,
+            164,
+            196
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Greg Mayeda"
     },
@@ -12248,7 +13238,11 @@
         "Name": "Jeff Komatsu",
         "Average": 185,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            209,
+            188,
+            223
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeff Komatsu"
     },
@@ -12257,34 +13251,24 @@
         "Name": "Kevin Nishikawa",
         "Average": 203,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            213,
+            235,
+            215
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kevin Nishikawa"
-    },
-    {
-        "Lane": 28,
-        "Name": "Kay Yamanaka",
-        "Average": 194,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kay Yamanaka"
-    },
-    {
-        "Lane": 28,
-        "Name": "Waimun Yee",
-        "Average": 195,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Waimun Yee"
     },
     {
         "Lane": 1,
         "Name": "Robert Wada",
         "Average": 190,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            176,
+            215,
+            205
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Robert Wada"
     },
@@ -12293,7 +13277,11 @@
         "Name": "Bruce Sunada",
         "Average": 211,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            213,
+            166,
+            170
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bruce Sunada"
     },
@@ -12302,7 +13290,11 @@
         "Name": "Goodman Ng",
         "Average": 203,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            196,
+            212,
+            189
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Goodman Ng"
     },
@@ -12311,7 +13303,11 @@
         "Name": "Gordon Terakami",
         "Average": 198,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            175,
+            266,
+            157
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gordon Terakami"
     },
@@ -12320,7 +13316,11 @@
         "Name": "Greg Mori",
         "Average": 192,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            215,
+            224,
+            170
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Greg Mori"
     },
@@ -12329,7 +13329,11 @@
         "Name": "Jody Kawamura",
         "Average": 211,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            201,
+            200,
+            242
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jody Kawamura"
     },
@@ -12338,7 +13342,11 @@
         "Name": "Mike Asuncion",
         "Average": 218,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            143,
+            237,
+            159
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mike Asuncion"
     },
@@ -12347,7 +13355,11 @@
         "Name": "Russ Furuya",
         "Average": 185,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            148,
+            223,
+            168
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Russ Furuya"
     },
@@ -12356,7 +13368,11 @@
         "Name": "Ron Yamashiro",
         "Average": 204,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            256,
+            212,
+            205
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ron Yamashiro"
     },
@@ -12365,7 +13381,11 @@
         "Name": "Michael Lo",
         "Average": 199,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            214,
+            180,
+            179
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Michael Lo"
     },
@@ -12374,7 +13394,11 @@
         "Name": "Alan Tosaya",
         "Average": 192,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            199,
+            196,
+            284
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Alan Tosaya"
     },
@@ -12383,7 +13407,11 @@
         "Name": "Gary Tosaya",
         "Average": 212,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            235,
+            279,
+            170
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gary Tosaya"
     },
@@ -12392,7 +13420,11 @@
         "Name": "Jeff Okumura",
         "Average": 197,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            169,
+            210,
+            175
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeff Okumura"
     },
@@ -12401,7 +13433,11 @@
         "Name": "Blaine Yoshimura",
         "Average": 208,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            216,
+            213,
+            169
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Blaine Yoshimura"
     },
@@ -12410,7 +13446,11 @@
         "Name": "Kevin Kawaoka",
         "Average": 194,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            191,
+            172,
+            182
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kevin Kawaoka"
     },
@@ -12419,7 +13459,11 @@
         "Name": "Danny Hirota",
         "Average": 211,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            191,
+            204,
+            200
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Danny Hirota"
     },
@@ -12428,7 +13472,11 @@
         "Name": "Corey Taniguchi",
         "Average": 201,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            183,
+            215,
+            212
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Corey Taniguchi"
     },
@@ -12437,7 +13485,11 @@
         "Name": "Michael Shimotsu",
         "Average": 206,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            215,
+            196,
+            191
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Michael Shimotsu"
     },
@@ -12446,7 +13498,11 @@
         "Name": "Chad Itami",
         "Average": 199,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            188,
+            180,
+            204
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Chad Itami"
     },
@@ -12455,7 +13511,11 @@
         "Name": "Chris Springfels",
         "Average": 208,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            202,
+            204,
+            195
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Chris Springfels"
     },
@@ -12464,7 +13524,11 @@
         "Name": "Justin Uyemura",
         "Average": 203,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            213,
+            203,
+            235
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Justin Uyemura"
     },
@@ -12473,7 +13537,11 @@
         "Name": "Brad Uyemura",
         "Average": 205,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            179,
+            182,
+            216
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brad Uyemura"
     },
@@ -12482,7 +13550,11 @@
         "Name": "Chris Yoshida",
         "Average": 185,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            166,
+            143,
+            193
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Chris Yoshida"
     },
@@ -12491,7 +13563,11 @@
         "Name": "Corey Tokunaga-Reichert",
         "Average": 223,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            226,
+            192,
+            247
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Corey Tokunaga-Reichert"
     },
@@ -12500,7 +13576,11 @@
         "Name": "John Vargas",
         "Average": 180,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            170,
+            133,
+            189
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_John Vargas"
     },
@@ -12509,7 +13589,11 @@
         "Name": "Kurt Arakaki",
         "Average": 220,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            139,
+            215,
+            203
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kurt Arakaki"
     },
@@ -12518,7 +13602,11 @@
         "Name": "Stan Eshima",
         "Average": 194,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            188,
+            180,
+            192
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Stan Eshima"
     },
@@ -12527,7 +13615,11 @@
         "Name": "Owen Kuribayashi",
         "Average": 207,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            164,
+            184,
+            228
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Owen Kuribayashi"
     },
@@ -12536,7 +13628,11 @@
         "Name": "Jeff Kaneshige",
         "Average": 199,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            197,
+            220,
+            170
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jeff Kaneshige"
     },
@@ -12545,7 +13641,11 @@
         "Name": "Brian Kaneshige",
         "Average": 211,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            194,
+            202,
+            176
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brian Kaneshige"
     },
@@ -12554,7 +13654,11 @@
         "Name": "Morgan Kimoto",
         "Average": 201,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            175,
+            222,
+            183
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Morgan Kimoto"
     },
@@ -12563,7 +13667,11 @@
         "Name": "Ron Montano",
         "Average": 209,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            269,
+            203,
+            172
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ron Montano"
     },
@@ -12572,7 +13680,11 @@
         "Name": "Kyle Ortiz",
         "Average": 201,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            225,
+            221,
+            223
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kyle Ortiz"
     },
@@ -12581,7 +13693,11 @@
         "Name": "Bernard Factora",
         "Average": 211,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            191,
+            218,
+            223
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bernard Factora"
     },
@@ -12590,7 +13706,11 @@
         "Name": "Jim Yokomizo",
         "Average": 215,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            213,
+            190,
+            160
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jim Yokomizo"
     },
@@ -12599,7 +13719,11 @@
         "Name": "Brian Hara",
         "Average": 201,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            161,
+            174,
+            161
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brian Hara"
     },
@@ -12608,7 +13732,11 @@
         "Name": "Michael Yoshihara",
         "Average": 207,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            215,
+            214,
+            248
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Michael Yoshihara"
     },
@@ -12617,7 +13745,11 @@
         "Name": "Keiji Kubo",
         "Average": 209,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            179,
+            223,
+            278
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Keiji Kubo"
     },
@@ -12626,7 +13758,11 @@
         "Name": "Gary Fujii",
         "Average": 192,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            200,
+            226,
+            159
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gary Fujii"
     },
@@ -12635,7 +13771,11 @@
         "Name": "Mike Tratnik",
         "Average": 225,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            266,
+            181,
+            197
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mike Tratnik"
     },
@@ -12644,7 +13784,11 @@
         "Name": "Kevin Nagasawa",
         "Average": 214,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            171,
+            170,
+            182
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kevin Nagasawa"
     },
@@ -12653,7 +13797,11 @@
         "Name": "Dan Sasaki",
         "Average": 205,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            173,
+            216,
+            224
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dan Sasaki"
     },
@@ -12662,7 +13810,11 @@
         "Name": "Wesley Fujii",
         "Average": 218,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            147,
+            180,
+            166
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Wesley Fujii"
     },
@@ -12671,7 +13823,11 @@
         "Name": "Rickey Goishi",
         "Average": 202,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            183,
+            162,
+            180
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Rickey Goishi"
     },
@@ -12680,7 +13836,11 @@
         "Name": "Josh Uyeda",
         "Average": 209,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            234,
+            197,
+            172
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Josh Uyeda"
     },
@@ -12689,7 +13849,11 @@
         "Name": "Eric Tsuchida",
         "Average": 212,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            209,
+            237,
+            267
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Eric Tsuchida"
     },
@@ -12698,7 +13862,11 @@
         "Name": "Bryson Heresa",
         "Average": 200,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            130,
+            249,
+            204
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Bryson Heresa"
     },
@@ -12707,7 +13875,11 @@
         "Name": "Jay Mullen",
         "Average": 223,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            183,
+            199,
+            269
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jay Mullen"
     },
@@ -12716,7 +13888,11 @@
         "Name": "Rodney Carillo",
         "Average": 199,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            246,
+            206,
+            279
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Rodney Carillo"
     },
@@ -12725,7 +13901,11 @@
         "Name": "Ashton Yamasaki",
         "Average": 229,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            215,
+            184,
+            181
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ashton Yamasaki"
     },
@@ -12734,7 +13914,11 @@
         "Name": "Jaaycob Okumura",
         "Average": 202,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            153,
+            195,
+            180
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jaaycob Okumura"
     },
@@ -12743,7 +13927,11 @@
         "Name": "Gary Okumura",
         "Average": 228,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            175,
+            269,
+            215
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Gary Okumura"
     },
@@ -12752,7 +13940,11 @@
         "Name": "Keith Kurihara",
         "Average": 189,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            153,
+            199,
+            182
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Keith Kurihara"
     },
@@ -12761,7 +13953,11 @@
         "Name": "Ryan Wong",
         "Average": 220,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            172,
+            192,
+            208
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ryan Wong"
     },
@@ -12770,7 +13966,11 @@
         "Name": "Chris Heins",
         "Average": 202,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            171,
+            177,
+            249
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Chris Heins"
     },
@@ -12779,7 +13979,11 @@
         "Name": "Max Onoe",
         "Average": 207,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            218,
+            188,
+            223
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Max Onoe"
     },
@@ -12788,7 +13992,11 @@
         "Name": "Chad Uyehara",
         "Average": 224,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            245,
+            258,
+            214
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Chad Uyehara"
     },
@@ -12797,7 +14005,11 @@
         "Name": "Ivan Miyasato",
         "Average": 216,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            182,
+            215,
+            220
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ivan Miyasato"
     },
@@ -12806,7 +14018,11 @@
         "Name": "Tyler Wilson",
         "Average": 206,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            245,
+            257,
+            214
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Tyler Wilson"
     },
@@ -12815,7 +14031,11 @@
         "Name": "Dave Shoji",
         "Average": 235,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            237,
+            246,
+            247
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dave Shoji"
     },
@@ -12824,7 +14044,11 @@
         "Name": "Ken Hayase-Fong",
         "Average": 233,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            254,
+            211,
+            202
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ken Hayase-Fong"
     },
@@ -12833,7 +14057,11 @@
         "Name": "Peter Mochizuki",
         "Average": 209,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            190,
+            189,
+            235
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Peter Mochizuki"
     },
@@ -12842,7 +14070,11 @@
         "Name": "Glenn Wada",
         "Average": 211,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            202,
+            207,
+            193
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Glenn Wada"
     },
@@ -12851,7 +14083,11 @@
         "Name": "Anthony Santos",
         "Average": 232,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            223,
+            156,
+            254
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Anthony Santos"
     },
@@ -12860,7 +14096,11 @@
         "Name": "Brian Davis",
         "Average": 219,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            205,
+            174,
+            223
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brian Davis"
     },
@@ -12869,7 +14109,11 @@
         "Name": "Jason Jones",
         "Average": 227,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            197,
+            245,
+            170
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Jason Jones"
     },
@@ -12878,7 +14122,11 @@
         "Name": "Lane Ochikubo",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            195,
+            188,
+            183
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Lane Ochikubo"
     },
@@ -12887,7 +14135,11 @@
         "Name": "Andy Warren",
         "Average": 217,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            194,
+            179,
+            205
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Andy Warren"
     },
@@ -12896,7 +14148,11 @@
         "Name": "Dallas Leong",
         "Average": 233,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            182,
+            188,
+            192
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Dallas Leong"
     },
@@ -12905,7 +14161,11 @@
         "Name": "Joshua Tajiri",
         "Average": 213,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            210,
+            200,
+            226
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Joshua Tajiri"
     },
@@ -12914,7 +14174,11 @@
         "Name": "Nate Pearson",
         "Average": 225,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            210,
+            264,
+            196
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Nate Pearson"
     },
@@ -12923,7 +14187,11 @@
         "Name": "Mike Sagers",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            112,
+            237,
+            217
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Mike Sagers"
     },
@@ -12932,7 +14200,11 @@
         "Name": "Cy Hiyane",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            245,
+            257,
+            203
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Cy Hiyane"
     },
@@ -12941,7 +14213,11 @@
         "Name": "Sean Early",
         "Average": 225,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            241,
+            217,
+            177
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Sean Early"
     },
@@ -12950,7 +14226,11 @@
         "Name": "Rick Goishi",
         "Average": 230,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            213,
+            224,
+            234
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Rick Goishi"
     },
@@ -12959,7 +14239,11 @@
         "Name": "Ray Valdovino",
         "Average": 227,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            201,
+            194,
+            214
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ray Valdovino"
     },
@@ -12968,7 +14252,11 @@
         "Name": "Travis Hewitt",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            237,
+            166,
+            173
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Travis Hewitt"
     },
@@ -12977,7 +14265,11 @@
         "Name": "Brandon Kring",
         "Average": 240,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            193,
+            257,
+            216
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brandon Kring"
     },
@@ -12986,7 +14278,11 @@
         "Name": "Michael Fujita",
         "Average": 233,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            245,
+            224,
+            200
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Michael Fujita"
     },
@@ -12995,7 +14291,11 @@
         "Name": "Ronnie Fujita",
         "Average": 237,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            219,
+            242,
+            179
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Ronnie Fujita"
     },
@@ -13004,7 +14304,11 @@
         "Name": "Brian Mar",
         "Average": 208,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            216,
+            235,
+            213
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Brian Mar"
     },
@@ -13013,7 +14317,11 @@
         "Name": "Steve DeSordi",
         "Average": 218,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            258,
+            217,
+            234
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Steve DeSordi"
     },
@@ -13022,7 +14330,11 @@
         "Name": "Marc Sanwo",
         "Average": 220,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            264,
+            201,
+            265
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Marc Sanwo"
     },
@@ -13031,7 +14343,11 @@
         "Name": "Sakae Watanabe",
         "Average": 215,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            238,
+            172,
+            233
+        ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Sakae Watanabe"
     },
