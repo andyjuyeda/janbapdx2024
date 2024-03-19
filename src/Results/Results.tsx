@@ -79,10 +79,10 @@ const Results = () => {
   return (
     <div className="mx-auto h-[800px] max-w-[800px] md:h-screen md:min-h-[900px]">
       <h1
-        id="results"
+        id="scores"
         className="mt-10 text-center text-2xl font-bold uppercase text-slate-50 xl:text-5xl"
       >
-        Results
+        Scores
       </h1>
       <div className="mt-5 h-3/4 rounded-xl bg-slate-50 px-3 pt-2 text-sm md:pt-5 lg:px-20">
         <ResultsPanel />

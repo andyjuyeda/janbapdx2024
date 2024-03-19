@@ -13,6 +13,7 @@ import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
 import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
 import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
+import resultsPDF from "@/assets/doc/janba2024results.pdf";
 
 type NavLinkProps = {
   link: string;
@@ -33,6 +34,11 @@ function NavLink({ link, onClick }: NavLinkProps & { onClick: () => void }) {
 function FormsMenu() {
   return (
     <DropdownMenuContent className="">
+      <DropdownMenuItem>
+        <a href={resultsPDF} target="_blank" rel="noopener noreferrer">
+          Final Results
+        </a>
+      </DropdownMenuItem>
       <DropdownMenuItem>
         <a href={rulesForm} target="_blank" rel="noopener noreferrer">
           Tournament Rules
@@ -93,7 +99,7 @@ export default function Header() {
       >
         <nav className="flex flex-col gap-7 place-self-center text-center text-lg font-bold uppercase text-slate-50">
           <NavLink link="home" onClick={closeMenu} />
-          <NavLink link="results" onClick={closeMenu} />
+          <NavLink link="scores" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
           <DropdownMenu>
             <DropdownMenuTrigger className="text-lg font-bold uppercase text-slate-50">
@@ -124,7 +130,7 @@ export default function Header() {
           JANBA 2024
         </a>
         <nav className="hidden w-4/5 justify-evenly place-self-center font-semibold uppercase text-slate-50 md:flex">
-          <NavLink link="results" onClick={closeMenu} />
+          <NavLink link="scores" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
         </nav>
         <div className="col-start-3 mx-3 hidden justify-self-end md:block">

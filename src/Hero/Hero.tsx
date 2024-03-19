@@ -30,10 +30,11 @@ function HeroAlert() {
         />
       </svg>
 
-      <AlertTitle className="font-bold">SCORES AVAILABLE</AlertTitle>
+      <AlertTitle className="font-bold">RESULTS AVAILABLE</AlertTitle>
       <AlertDescription>
-        Results for this year's tournament are available below! Thank you for
-        joining us in Portland and we hope to see you next year in Las Vegas!
+        Scores and final results for this year's tournament are available below!
+        Thank you for joining us in Portland and we hope to see you next year in
+        Las Vegas!
       </AlertDescription>
     </Alert>
   );
@@ -75,7 +76,7 @@ export default function Hero() {
           <HeroAlert />
           <div className="flex flex-col gap-3 md:flex-row md:gap-3">
             <a
-              href="#results"
+              href="#scores"
               className={`${buttonVariants({
                 variant: "default",
               })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
