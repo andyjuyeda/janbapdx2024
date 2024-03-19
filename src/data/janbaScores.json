@@ -2622,7 +2622,7 @@
             192,
             205,
             201,
-            201
+            235
         ],
         "Event": "Men's Classic",
         "_id": "Men's Classic_Ray Valdovino"
@@ -4461,7 +4461,7 @@
     {
         "Lane": 25,
         "Name": "Kento Hirata",
-        "Average": 196,
+        "Average": 197,
         "Division": 5,
         "Score": [
             198,
@@ -8062,7 +8062,7 @@
     {
         "Lane": 16,
         "Name": "Robert Schmaling",
-        "Average": 165,
+        "Average": 166,
         "Division": 1,
         "Score": [
             147,
@@ -12923,32 +12923,6 @@
     },
     {
         "Lane": 15,
-        "Name": "Kay Yamanaka",
-        "Average": 194,
-        "Division": 5,
-        "Score": [
-            181,
-            212,
-            200
-        ],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Kay Yamanaka"
-    },
-    {
-        "Lane": 15,
-        "Name": "Waimun Yee",
-        "Average": 195,
-        "Division": 5,
-        "Score": [
-            160,
-            246,
-            222
-        ],
-        "Event": "Men's Doubles",
-        "_id": "Men's Doubles_Waimun Yee"
-    },
-    {
-        "Lane": 16,
         "Name": "Daryl Kurihara",
         "Average": 186,
         "Division": 5,
@@ -12961,7 +12935,7 @@
         "_id": "Men's Doubles_Daryl Kurihara"
     },
     {
-        "Lane": 16,
+        "Lane": 15,
         "Name": "Ryan Yee",
         "Average": 205,
         "Division": 5,
@@ -12974,7 +12948,7 @@
         "_id": "Men's Doubles_Ryan Yee"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Jason Mayeda",
         "Average": 190,
         "Division": 5,
@@ -12987,7 +12961,7 @@
         "_id": "Men's Doubles_Jason Mayeda"
     },
     {
-        "Lane": 17,
+        "Lane": 16,
         "Name": "Jonathan Kajihara",
         "Average": 201,
         "Division": 5,
@@ -13258,6 +13232,32 @@
         ],
         "Event": "Men's Doubles",
         "_id": "Men's Doubles_Kevin Nishikawa"
+    },
+    {
+        "Lane": 28,
+        "Name": "Kay Yamanaka",
+        "Average": 194,
+        "Division": 5,
+        "Score": [
+            181,
+            212,
+            200
+        ],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Kay Yamanaka"
+    },
+    {
+        "Lane": 28,
+        "Name": "Waimun Yee",
+        "Average": 195,
+        "Division": 5,
+        "Score": [
+            160,
+            246,
+            222
+        ],
+        "Event": "Men's Doubles",
+        "_id": "Men's Doubles_Waimun Yee"
     },
     {
         "Lane": 1,
@@ -14356,7 +14356,11 @@
         "Name": "Melody Hirata",
         "Average": 137,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            133,
+            110,
+            117
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Melody Hirata"
     },
@@ -14365,7 +14369,11 @@
         "Name": "Lillian Higa",
         "Average": 136,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            120,
+            138,
+            139
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Lillian Higa"
     },
@@ -14374,7 +14382,11 @@
         "Name": "Jean Sato",
         "Average": 142,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            146,
+            127,
+            107
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jean Sato"
     },
@@ -14383,7 +14395,11 @@
         "Name": "Lorraine Sakuma",
         "Average": 138,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            148,
+            159,
+            154
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Lorraine Sakuma"
     },
@@ -14392,7 +14408,11 @@
         "Name": "Miya Tsumura",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            117,
+            104,
+            156
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Miya Tsumura"
     },
@@ -14401,7 +14421,11 @@
         "Name": "Linda Okuda",
         "Average": 143,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            122,
+            148,
+            199
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Linda Okuda"
     },
@@ -14410,7 +14434,11 @@
         "Name": "Tena Miya",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            161,
+            181,
+            172
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Tena Miya"
     },
@@ -14419,7 +14447,11 @@
         "Name": "Cheyna Heresa-Peace",
         "Average": 144,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            135,
+            176,
+            158
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Cheyna Heresa-Peace"
     },
@@ -14428,7 +14460,11 @@
         "Name": "Mary Imori",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            151,
+            120,
+            116
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Mary Imori"
     },
@@ -14437,7 +14473,11 @@
         "Name": "Patti Hashimoto",
         "Average": 147,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            101,
+            139,
+            146
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Patti Hashimoto"
     },
@@ -14446,7 +14486,11 @@
         "Name": "Janet Kawachi",
         "Average": 150,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            128,
+            160,
+            181
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Janet Kawachi"
     },
@@ -14455,7 +14499,11 @@
         "Name": "Julianne Tosaya",
         "Average": 149,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            200,
+            147,
+            149
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Julianne Tosaya"
     },
@@ -14464,7 +14512,11 @@
         "Name": "Arlene Kato",
         "Average": 150,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            144,
+            156,
+            134
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Arlene Kato"
     },
@@ -14473,7 +14525,11 @@
         "Name": "Sandy Kaneshige",
         "Average": 150,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            181,
+            143,
+            159
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Sandy Kaneshige"
     },
@@ -14482,7 +14538,11 @@
         "Name": "April Okazaki",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            143,
+            167,
+            140
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_April Okazaki"
     },
@@ -14491,7 +14551,11 @@
         "Name": "Donna Nakayama",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            167,
+            155,
+            150
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Donna Nakayama"
     },
@@ -14500,7 +14564,11 @@
         "Name": "Rhonda Kaneshige",
         "Average": 153,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            145,
+            154,
+            200
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Rhonda Kaneshige"
     },
@@ -14509,7 +14577,11 @@
         "Name": "Victoria Tamabayashi",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            135,
+            196,
+            159
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Victoria Tamabayashi"
     },
@@ -14518,7 +14590,11 @@
         "Name": "Pam Uyemura",
         "Average": 154,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            146,
+            178,
+            171
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Pam Uyemura"
     },
@@ -14527,7 +14603,11 @@
         "Name": "Janet Shibuya",
         "Average": 153,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            139,
+            169,
+            118
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Janet Shibuya"
     },
@@ -14536,7 +14616,11 @@
         "Name": "Danielle Kitaoka",
         "Average": 114,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            130,
+            133,
+            188
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Danielle Kitaoka"
     },
@@ -14545,7 +14629,11 @@
         "Name": "Fran Ellis",
         "Average": 120,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            119,
+            134,
+            144
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Fran Ellis"
     },
@@ -14554,7 +14642,11 @@
         "Name": "Mer Nagae",
         "Average": 121,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            130,
+            103,
+            139
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Mer Nagae"
     },
@@ -14563,25 +14655,24 @@
         "Name": "Judy Kawabata",
         "Average": 131,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            113,
+            139,
+            136
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Judy Kawabata"
-    },
-    {
-        "Lane": 13,
-        "Name": "Sandra Pearson",
-        "Average": 132,
-        "Division": 1,
-        "Score": [],
-        "Event": "Women's Singles",
-        "_id": "Women's Singles_Sandra Pearson"
     },
     {
         "Lane": 13,
         "Name": "Carol Mizutani",
         "Average": 133,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            152,
+            127,
+            140
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Carol Mizutani"
     },
@@ -14590,7 +14681,11 @@
         "Name": "Amy Teragawa",
         "Average": 135,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            107,
+            111,
+            104
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Amy Teragawa"
     },
@@ -14599,7 +14694,11 @@
         "Name": "Nora Gono",
         "Average": 133,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            154,
+            134,
+            120
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Nora Gono"
     },
@@ -14608,7 +14707,11 @@
         "Name": "Sherri Lee",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            148,
+            112,
+            143
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Sherri Lee"
     },
@@ -14617,7 +14720,11 @@
         "Name": "Lolly Mayeda",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            171,
+            159,
+            134
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Lolly Mayeda"
     },
@@ -14626,7 +14733,11 @@
         "Name": "Angelina Yokoyama",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            152,
+            173,
+            153
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Angelina Yokoyama"
     },
@@ -14635,7 +14746,11 @@
         "Name": "Karyl DeWitt",
         "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            153,
+            166,
+            161
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Karyl DeWitt"
     },
@@ -14644,7 +14759,11 @@
         "Name": "Holly Itami-Springfels",
         "Average": 161,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            200,
+            153,
+            178
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Holly Itami-Springfels"
     },
@@ -14653,7 +14772,11 @@
         "Name": "Barbara Takahashi",
         "Average": 161,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            166,
+            164,
+            188
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Barbara Takahashi"
     },
@@ -14662,7 +14785,11 @@
         "Name": "Jami Tanihana",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            188,
+            160,
+            198
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jami Tanihana"
     },
@@ -14671,7 +14798,11 @@
         "Name": "Casey Mori",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            108,
+            225,
+            246
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Casey Mori"
     },
@@ -14680,7 +14811,11 @@
         "Name": "Zoe Hung",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            102,
+            153,
+            191
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Zoe Hung"
     },
@@ -14689,7 +14824,11 @@
         "Name": "Renee Matsutani",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            140,
+            152,
+            172
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Renee Matsutani"
     },
@@ -14698,7 +14837,11 @@
         "Name": "Brittany Mochizuki",
         "Average": 163,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            137,
+            178,
+            190
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Brittany Mochizuki"
     },
@@ -14707,7 +14850,11 @@
         "Name": "Betty Kinoshita",
         "Average": 162,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            194,
+            125,
+            191
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Betty Kinoshita"
     },
@@ -14716,7 +14863,11 @@
         "Name": "Frances Tanaka",
         "Average": 164,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            158,
+            188,
+            145
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Frances Tanaka"
     },
@@ -14725,7 +14876,11 @@
         "Name": "Denise Quan",
         "Average": 164,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            153,
+            200,
+            164
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Denise Quan"
     },
@@ -14734,7 +14889,11 @@
         "Name": "Kristi Thompson",
         "Average": 166,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            182,
+            195,
+            167
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Kristi Thompson"
     },
@@ -14743,7 +14902,11 @@
         "Name": "Rumi Marsh",
         "Average": 166,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            197,
+            162,
+            181
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Rumi Marsh"
     },
@@ -14752,7 +14915,11 @@
         "Name": "Katie Onoe",
         "Average": 167,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            222,
+            167,
+            202
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Katie Onoe"
     },
@@ -14761,7 +14928,11 @@
         "Name": "Linda Uyeda",
         "Average": 168,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            149,
+            155,
+            197
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Linda Uyeda"
     },
@@ -14770,7 +14941,11 @@
         "Name": "Nikki Horita",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            223,
+            190,
+            158
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Nikki Horita"
     },
@@ -14779,7 +14954,11 @@
         "Name": "Anne Hidaka",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            141,
+            200,
+            175
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Anne Hidaka"
     },
@@ -14788,7 +14967,11 @@
         "Name": "Lori Carillo",
         "Average": 155,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            149,
+            150,
+            155
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Lori Carillo"
     },
@@ -14797,7 +14980,11 @@
         "Name": "June Kurano",
         "Average": 154,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            125,
+            152,
+            148
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_June Kurano"
     },
@@ -14806,25 +14993,37 @@
         "Name": "Suzan Yoshimura",
         "Average": 157,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            133,
+            171,
+            156
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Suzan Yoshimura"
     },
     {
         "Lane": 26,
-        "Name": "Marion Yee",
-        "Average": 157,
+        "Name": "Staci Erickson",
+        "Average": 120,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            154,
+            160,
+            191
+        ],
         "Event": "Women's Singles",
-        "_id": "Women's Singles_Marion Yee"
+        "_id": "Women's Singles_Staci Erickson"
     },
     {
         "Lane": 27,
         "Name": "Nancy Kajitsu",
         "Average": 158,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            151,
+            181,
+            159
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Nancy Kajitsu"
     },
@@ -14833,7 +15032,11 @@
         "Name": "Alisa Oba",
         "Average": 158,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            172,
+            99,
+            221
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Alisa Oba"
     },
@@ -14842,7 +15045,11 @@
         "Name": "Iris Umehira",
         "Average": 158,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            186,
+            170,
+            134
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Iris Umehira"
     },
@@ -14851,7 +15058,11 @@
         "Name": "Tarika Onishi",
         "Average": 175,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            164,
+            195,
+            171
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Tarika Onishi"
     },
@@ -14860,7 +15071,11 @@
         "Name": "Ayame Yokomizo",
         "Average": 175,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            160,
+            168,
+            190
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Ayame Yokomizo"
     },
@@ -14869,7 +15084,11 @@
         "Name": "Cindi Kaneshige",
         "Average": 177,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            175,
+            208,
+            167
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Cindi Kaneshige"
     },
@@ -14878,7 +15097,11 @@
         "Name": "Sherri Schmaling",
         "Average": 176,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            177,
+            150,
+            171
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Sherri Schmaling"
     },
@@ -14887,7 +15110,11 @@
         "Name": "Nikka Lee",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            159,
+            178,
+            188
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Nikka Lee"
     },
@@ -14896,7 +15123,11 @@
         "Name": "Lauren DeSordi",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            228,
+            180,
+            152
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Lauren DeSordi"
     },
@@ -14905,7 +15136,11 @@
         "Name": "Alex Leger",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            198,
+            159,
+            211
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Alex Leger"
     },
@@ -14914,7 +15149,11 @@
         "Name": "Kimberly Walker",
         "Average": 179,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            222,
+            161,
+            147
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Kimberly Walker"
     },
@@ -14923,7 +15162,11 @@
         "Name": "Jennifer Uno",
         "Average": 183,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            168,
+            182,
+            153
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jennifer Uno"
     },
@@ -14932,7 +15175,11 @@
         "Name": "Yako McDonnell",
         "Average": 182,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            223,
+            184,
+            195
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Yako McDonnell"
     },
@@ -14941,7 +15188,11 @@
         "Name": "Krissy Nagasawa",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            182,
+            191,
+            163
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Krissy Nagasawa"
     },
@@ -14950,7 +15201,11 @@
         "Name": "Nicole Flannigan",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            183,
+            160,
+            167
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Nicole Flannigan"
     },
@@ -14959,7 +15214,11 @@
         "Name": "Jeannie Sakoda",
         "Average": 189,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            149,
+            184,
+            148
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jeannie Sakoda"
     },
@@ -14968,7 +15227,11 @@
         "Name": "Kelly Leger",
         "Average": 189,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            188,
+            211,
+            140
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Kelly Leger"
     },
@@ -14977,7 +15240,11 @@
         "Name": "Coryn Watanabe",
         "Average": 192,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            229,
+            203,
+            155
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Coryn Watanabe"
     },
@@ -14986,7 +15253,11 @@
         "Name": "Shannon Lee",
         "Average": 192,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            195,
+            156,
+            202
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Shannon Lee"
     },
@@ -14995,7 +15266,11 @@
         "Name": "Kristen Kawachi",
         "Average": 171,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            166,
+            178,
+            204
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Kristen Kawachi"
     },
@@ -15004,7 +15279,11 @@
         "Name": "Monica Tajiri",
         "Average": 172,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            176,
+            147,
+            175
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Monica Tajiri"
     },
@@ -15013,7 +15292,11 @@
         "Name": "Sheri DeWitt",
         "Average": 172,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            203,
+            182,
+            167
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Sheri DeWitt"
     },
@@ -15022,7 +15305,11 @@
         "Name": "Kasie Perreira",
         "Average": 172,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            189,
+            197,
+            194
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Kasie Perreira"
     },
@@ -15031,7 +15318,11 @@
         "Name": "Mindy Kondo",
         "Average": 174,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            167,
+            180,
+            170
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Mindy Kondo"
     },
@@ -15040,7 +15331,11 @@
         "Name": "Mayumi Florek",
         "Average": 173,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            166,
+            152,
+            178
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Mayumi Florek"
     },
@@ -15049,7 +15344,11 @@
         "Name": "Kimi Adolphson",
         "Average": 175,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            115,
+            88,
+            130
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Kimi Adolphson"
     },
@@ -15058,25 +15357,24 @@
         "Name": "Tracey Wandler",
         "Average": 174,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            211,
+            166,
+            257
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Tracey Wandler"
-    },
-    {
-        "Lane": 13,
-        "Name": "Lori Sagers",
-        "Average": 198,
-        "Division": 4,
-        "Score": [],
-        "Event": "Women's Singles",
-        "_id": "Women's Singles_Lori Sagers"
     },
     {
         "Lane": 13,
         "Name": "Brittney Taylor",
         "Average": 197,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            166,
+            199,
+            162
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Brittney Taylor"
     },
@@ -15085,7 +15383,11 @@
         "Name": "Michelle Shimada",
         "Average": 199,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            213,
+            238,
+            244
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Michelle Shimada"
     },
@@ -15094,7 +15396,11 @@
         "Name": "Nancy Asai",
         "Average": 198,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            244,
+            175,
+            147
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Nancy Asai"
     },
@@ -15103,7 +15409,11 @@
         "Name": "Lauren Takahashi",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            244,
+            204,
+            234
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Lauren Takahashi"
     },
@@ -15112,7 +15422,11 @@
         "Name": "Alix Oike",
         "Average": 200,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            149,
+            210,
+            175
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Alix Oike"
     },
@@ -15121,7 +15435,11 @@
         "Name": "Darlee Horiuchi",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            195,
+            225,
+            195
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Darlee Horiuchi"
     },
@@ -15130,7 +15448,11 @@
         "Name": "Christalynn Ortiz",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            188,
+            158,
+            167
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Christalynn Ortiz"
     },
@@ -15139,7 +15461,11 @@
         "Name": "Stefanie Hirata",
         "Average": 201,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            204,
+            207,
+            169
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Stefanie Hirata"
     },
@@ -15148,7 +15474,11 @@
         "Name": "Tamlyn Murata",
         "Average": 207,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            220,
+            204,
+            216
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Tamlyn Murata"
     },
@@ -15157,7 +15487,11 @@
         "Name": "Nichole Hiraoka",
         "Average": 212,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            243,
+            246,
+            233
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Nichole Hiraoka"
     },
@@ -15166,7 +15500,11 @@
         "Name": "Jennifer Reven",
         "Average": 213,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            188,
+            217,
+            170
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jennifer Reven"
     },
@@ -15175,7 +15513,11 @@
         "Name": "Jory Koizumi-Miyashiro",
         "Average": 213,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            195,
+            235,
+            246
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jory Koizumi-Miyashiro"
     },
@@ -15184,7 +15526,11 @@
         "Name": "Kristy Coles",
         "Average": 213,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            234,
+            201,
+            172
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Kristy Coles"
     },
@@ -15193,7 +15539,11 @@
         "Name": "Christine Kato Asuncion",
         "Average": 214,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            203,
+            183,
+            203
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Christine Kato Asuncion"
     },
@@ -15202,7 +15552,11 @@
         "Name": "Leanna Harada",
         "Average": 214,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            157,
+            198,
+            179
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Leanna Harada"
     },
@@ -15211,7 +15565,11 @@
         "Name": "Ashley Muraoka",
         "Average": 219,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            224,
+            231,
+            221
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Ashley Muraoka"
     },
@@ -15220,7 +15578,11 @@
         "Name": "Jackie Matsutani",
         "Average": 217,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            168,
+            182,
+            170
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jackie Matsutani"
     },
@@ -15229,7 +15591,11 @@
         "Name": "Alecia Kanazawa",
         "Average": 193,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            201,
+            144,
+            144
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Alecia Kanazawa"
     },
@@ -15238,7 +15604,11 @@
         "Name": "Karen Adolphson",
         "Average": 192,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            203,
+            156,
+            200
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Karen Adolphson"
     },
@@ -15247,7 +15617,11 @@
         "Name": "Tracey Kitaoka",
         "Average": 196,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            211,
+            218,
+            201
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Tracey Kitaoka"
     },
@@ -15256,7 +15630,11 @@
         "Name": "Julie Kawaye",
         "Average": 194,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            143,
+            196,
+            172
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Julie Kawaye"
     },
@@ -15265,7 +15643,11 @@
         "Name": "Erin Ohta",
         "Average": 197,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            187,
+            214,
+            204
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Erin Ohta"
     },
@@ -15274,7 +15656,11 @@
         "Name": "Jodi Hiraoka",
         "Average": 197,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            138,
+            154,
+            154
+        ],
         "Event": "Women's Singles",
         "_id": "Women's Singles_Jodi Hiraoka"
     },
@@ -15283,7 +15669,11 @@
         "Name": "Garrett Furuta",
         "Average": 147,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            144,
+            118,
+            120
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Garrett Furuta"
     },
@@ -15292,7 +15682,11 @@
         "Name": "Dean Sato",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            119,
+            142,
+            167
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dean Sato"
     },
@@ -15301,43 +15695,37 @@
         "Name": "Brent Onchi",
         "Average": 152,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            156,
+            178,
+            145
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brent Onchi"
-    },
-    {
-        "Lane": 2,
-        "Name": "Marcelo Mitre",
-        "Average": 149,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Marcelo Mitre"
     },
     {
         "Lane": 3,
         "Name": "Ray Tsuchida",
         "Average": 154,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            142,
+            137,
+            128
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ray Tsuchida"
-    },
-    {
-        "Lane": 3,
-        "Name": "Wayne Nagasawa",
-        "Average": 156,
-        "Division": 1,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Wayne Nagasawa"
     },
     {
         "Lane": 4,
         "Name": "Patrick Oki",
         "Average": 158,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            195,
+            171,
+            161
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Patrick Oki"
     },
@@ -15346,7 +15734,11 @@
         "Name": "Bruce Hashimoto",
         "Average": 157,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            147,
+            157,
+            190
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bruce Hashimoto"
     },
@@ -15355,7 +15747,11 @@
         "Name": "Don Jordan",
         "Average": 160,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            178,
+            120,
+            178
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Don Jordan"
     },
@@ -15364,7 +15760,11 @@
         "Name": "Garrett Yoshimoto",
         "Average": 159,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            175,
+            169,
+            194
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Garrett Yoshimoto"
     },
@@ -15373,7 +15773,11 @@
         "Name": "Bradley Kitaoka",
         "Average": 162,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            147,
+            186,
+            202
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bradley Kitaoka"
     },
@@ -15382,7 +15786,11 @@
         "Name": "Don Furuya",
         "Average": 162,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            136,
+            148,
+            144
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Don Furuya"
     },
@@ -15391,7 +15799,11 @@
         "Name": "Kaz Sato",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            154,
+            150,
+            192
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kaz Sato"
     },
@@ -15400,7 +15812,11 @@
         "Name": "Larry Flannigan",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            177,
+            163,
+            158
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Larry Flannigan"
     },
@@ -15409,7 +15825,11 @@
         "Name": "Uriel Engle",
         "Average": 164,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            164,
+            157,
+            201
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Uriel Engle"
     },
@@ -15418,7 +15838,11 @@
         "Name": "Raymond Kinoshita",
         "Average": 163,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            130,
+            138,
+            201
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Raymond Kinoshita"
     },
@@ -15427,7 +15851,11 @@
         "Name": "Ryan Tamura",
         "Average": 165,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            177,
+            152,
+            145
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ryan Tamura"
     },
@@ -15436,7 +15864,11 @@
         "Name": "Dan Nakamura",
         "Average": 166,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            216,
+            171,
+            178
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dan Nakamura"
     },
@@ -15445,7 +15877,11 @@
         "Name": "Randy Pearson",
         "Average": 167,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            154,
+            170,
+            174
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Randy Pearson"
     },
@@ -15454,7 +15890,11 @@
         "Name": "Tyler Uyeda",
         "Average": 167,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            117,
+            190,
+            213
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Tyler Uyeda"
     },
@@ -15463,7 +15903,11 @@
         "Name": "Craig Terashima",
         "Average": 124,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            130,
+            141,
+            123
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Craig Terashima"
     },
@@ -15472,7 +15916,11 @@
         "Name": "Kevin Sato",
         "Average": 120,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            168,
+            139,
+            127
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kevin Sato"
     },
@@ -15481,7 +15929,11 @@
         "Name": "Christopher Peace",
         "Average": 130,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            126,
+            170,
+            143
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Christopher Peace"
     },
@@ -15490,7 +15942,11 @@
         "Name": "Garrick Shishido",
         "Average": 136,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            131,
+            142,
+            124
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Garrick Shishido"
     },
@@ -15499,7 +15955,11 @@
         "Name": "Tyler Haller",
         "Average": 140,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            169,
+            162,
+            146
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Tyler Haller"
     },
@@ -15508,7 +15968,11 @@
         "Name": "Wesley Smith",
         "Average": 140,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            137,
+            154,
+            162
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Wesley Smith"
     },
@@ -15517,7 +15981,11 @@
         "Name": "Michael Anzivino",
         "Average": 141,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            180,
+            123,
+            162
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Michael Anzivino"
     },
@@ -15526,7 +15994,11 @@
         "Name": "Ben E Yamamoto",
         "Average": 146,
         "Division": 1,
-        "Score": [],
+        "Score": [
+            151,
+            171,
+            133
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ben E Yamamoto"
     },
@@ -15535,7 +16007,11 @@
         "Name": "Dale Okazaki",
         "Average": 173,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            170,
+            146,
+            229
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dale Okazaki"
     },
@@ -15544,7 +16020,11 @@
         "Name": "Mason McCool",
         "Average": 173,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            205,
+            152,
+            203
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mason McCool"
     },
@@ -15553,7 +16033,11 @@
         "Name": "Terry Matsumoto",
         "Average": 173,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            149,
+            152,
+            198
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Terry Matsumoto"
     },
@@ -15562,7 +16046,11 @@
         "Name": "Gordon Kiyokawa",
         "Average": 173,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            165,
+            119,
+            178
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gordon Kiyokawa"
     },
@@ -15571,7 +16059,11 @@
         "Name": "Wayne Wakabayashi",
         "Average": 174,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            162,
+            185,
+            182
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Wayne Wakabayashi"
     },
@@ -15580,34 +16072,50 @@
         "Name": "Andy Kiyokawa",
         "Average": 174,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            174,
+            162,
+            200
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Andy Kiyokawa"
     },
     {
         "Lane": 18,
-        "Name": "Kyle Lee",
-        "Average": 175,
+        "Name": "Lucas Erickson",
+        "Average": 159,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            149,
+            157,
+            174
+        ],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Kyle Lee"
+        "_id": "Men's Singles_Lucas Erickson"
     },
     {
         "Lane": 18,
-        "Name": "Ross Yamasaki",
-        "Average": 175,
-        "Division": 2,
-        "Score": [],
+        "Name": "Lincoln Hirata",
+        "Average": 190,
+        "Division": 0,
+        "Score": [
+            194,
+            174,
+            171
+        ],
         "Event": "Men's Singles",
-        "_id": "Men's Singles_Ross Yamasaki"
+        "_id": "Men's Singles_Lincoln Hirata"
     },
     {
         "Lane": 19,
         "Name": "Marcus Heresa",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            157,
+            192,
+            146
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Marcus Heresa"
     },
@@ -15616,7 +16124,11 @@
         "Name": "Dwayn Kim",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            151,
+            192,
+            168
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dwayn Kim"
     },
@@ -15625,7 +16137,11 @@
         "Name": "Robert Ho",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            135,
+            192,
+            190
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Robert Ho"
     },
@@ -15634,25 +16150,24 @@
         "Name": "Rick DeGuzman",
         "Average": 175,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            144,
+            161,
+            164
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Rick DeGuzman"
-    },
-    {
-        "Lane": 21,
-        "Name": "Daron Sugiyama",
-        "Average": 176,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Daron Sugiyama"
     },
     {
         "Lane": 21,
         "Name": "Doug Muneta",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            225,
+            156,
+            171
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Doug Muneta"
     },
@@ -15661,7 +16176,11 @@
         "Name": "Gary Sato",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            178,
+            178,
+            115
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gary Sato"
     },
@@ -15670,25 +16189,24 @@
         "Name": "Wallace Yamamoto",
         "Average": 176,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            161,
+            181,
+            149
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Wallace Yamamoto"
-    },
-    {
-        "Lane": 23,
-        "Name": "James Kahuhu",
-        "Average": 177,
-        "Division": 2,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_James Kahuhu"
     },
     {
         "Lane": 23,
         "Name": "Everett Nishikawa",
         "Average": 177,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            203,
+            183,
+            155
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Everett Nishikawa"
     },
@@ -15697,7 +16215,11 @@
         "Name": "Keith Sasada",
         "Average": 178,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            201,
+            138,
+            147
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Keith Sasada"
     },
@@ -15706,7 +16228,11 @@
         "Name": "Dustin Hirata",
         "Average": 178,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            158,
+            173,
+            186
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dustin Hirata"
     },
@@ -15715,7 +16241,11 @@
         "Name": "Jay Tsutsui",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            135,
+            167,
+            143
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jay Tsutsui"
     },
@@ -15724,7 +16254,11 @@
         "Name": "Ken Kinoshita",
         "Average": 168,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            161,
+            186,
+            176
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ken Kinoshita"
     },
@@ -15733,7 +16267,11 @@
         "Name": "Silas Wilson",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            138,
+            169,
+            185
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Silas Wilson"
     },
@@ -15742,7 +16280,11 @@
         "Name": "Wayne Mayeda",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            156,
+            158,
+            171
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Wayne Mayeda"
     },
@@ -15751,7 +16293,11 @@
         "Name": "Kirk Terashima",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            181,
+            169,
+            154
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kirk Terashima"
     },
@@ -15760,7 +16306,11 @@
         "Name": "Stacy Sakumoto",
         "Average": 169,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            153,
+            155,
+            147
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Stacy Sakumoto"
     },
@@ -15769,7 +16319,11 @@
         "Name": "Aki Kim",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            125,
+            172,
+            168
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Aki Kim"
     },
@@ -15778,7 +16332,11 @@
         "Name": "Dereck Heresa",
         "Average": 171,
         "Division": 2,
-        "Score": [],
+        "Score": [
+            135,
+            123,
+            168
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dereck Heresa"
     },
@@ -15787,7 +16345,11 @@
         "Name": "Ray Nakagawa",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            188,
+            216,
+            218
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ray Nakagawa"
     },
@@ -15796,7 +16358,11 @@
         "Name": "Mike Nakamura",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            201,
+            162,
+            150
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mike Nakamura"
     },
@@ -15805,7 +16371,11 @@
         "Name": "Kurt Nakashima",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            147,
+            245,
+            183
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kurt Nakashima"
     },
@@ -15814,7 +16384,11 @@
         "Name": "Jeff Uno",
         "Average": 182,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            203,
+            194,
+            223
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Uno"
     },
@@ -15823,7 +16397,11 @@
         "Name": "Stuart Kawachi",
         "Average": 183,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            183,
+            181,
+            135
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Stuart Kawachi"
     },
@@ -15832,7 +16410,11 @@
         "Name": "Russell Horikawa",
         "Average": 182,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            151,
+            169,
+            171
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Russell Horikawa"
     },
@@ -15841,7 +16423,11 @@
         "Name": "Andy Uyeda",
         "Average": 183,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            165,
+            125,
+            149
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Andy Uyeda"
     },
@@ -15850,7 +16436,11 @@
         "Name": "Johnny Uyeda",
         "Average": 183,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            173,
+            149,
+            204
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Johnny Uyeda"
     },
@@ -15859,7 +16449,11 @@
         "Name": "Michael Yee",
         "Average": 183,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            196,
+            214,
+            257
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Michael Yee"
     },
@@ -15868,7 +16462,11 @@
         "Name": "Roy Umehira",
         "Average": 183,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            182,
+            174,
+            178
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Roy Umehira"
     },
@@ -15877,7 +16475,11 @@
         "Name": "Steve Doi",
         "Average": 184,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            185,
+            183,
+            245
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Steve Doi"
     },
@@ -15886,7 +16488,11 @@
         "Name": "Stephen Yamasaki",
         "Average": 184,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            145,
+            160,
+            202
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Stephen Yamasaki"
     },
@@ -15895,7 +16501,11 @@
         "Name": "Steve Itatani",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            176,
+            133,
+            172
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Steve Itatani"
     },
@@ -15904,7 +16514,11 @@
         "Name": "Scott Watanabe - SJ",
         "Average": 184,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            171,
+            180,
+            191
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Scott Watanabe - SJ"
     },
@@ -15913,7 +16527,11 @@
         "Name": "Craig Horita",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            157,
+            179,
+            161
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Craig Horita"
     },
@@ -15922,7 +16540,11 @@
         "Name": "Henry Isefuku",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            203,
+            153,
+            212
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Henry Isefuku"
     },
@@ -15931,7 +16553,11 @@
         "Name": "Russ Furuya",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            194,
+            208,
+            187
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Russ Furuya"
     },
@@ -15940,7 +16566,11 @@
         "Name": "Jeff Komatsu",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            198,
+            191,
+            213
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Komatsu"
     },
@@ -15949,7 +16579,11 @@
         "Name": "Kyle Uno",
         "Average": 186,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            191,
+            178,
+            175
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kyle Uno"
     },
@@ -15958,7 +16592,11 @@
         "Name": "Scott Miyamoto",
         "Average": 185,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            136,
+            184,
+            222
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Scott Miyamoto"
     },
@@ -15967,7 +16605,11 @@
         "Name": "John Lee",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            182,
+            264,
+            129
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_John Lee"
     },
@@ -15976,7 +16618,11 @@
         "Name": "Dewaine Higa",
         "Average": 178,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            113,
+            135,
+            194
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dewaine Higa"
     },
@@ -15985,7 +16631,11 @@
         "Name": "Harold Okino",
         "Average": 180,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            179,
+            162,
+            181
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Harold Okino"
     },
@@ -15994,7 +16644,11 @@
         "Name": "Jeff Hasegawa",
         "Average": 179,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            170,
+            167,
+            209
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Hasegawa"
     },
@@ -16003,7 +16657,11 @@
         "Name": "John Vargas",
         "Average": 180,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            191,
+            198,
+            156
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_John Vargas"
     },
@@ -16012,7 +16670,11 @@
         "Name": "Ben I Yamamoto",
         "Average": 180,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            180,
+            139,
+            126
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ben I Yamamoto"
     },
@@ -16021,7 +16683,11 @@
         "Name": "Bryant Fukui",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            127,
+            145,
+            156
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bryant Fukui"
     },
@@ -16030,7 +16696,11 @@
         "Name": "John Mizutani",
         "Average": 181,
         "Division": 3,
-        "Score": [],
+        "Score": [
+            170,
+            182,
+            204
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_John Mizutani"
     },
@@ -16039,7 +16709,11 @@
         "Name": "Devin Tsumura",
         "Average": 190,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            194,
+            179,
+            182
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Devin Tsumura"
     },
@@ -16048,7 +16722,11 @@
         "Name": "Rob Yano",
         "Average": 189,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            212,
+            153,
+            224
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Rob Yano"
     },
@@ -16057,7 +16735,11 @@
         "Name": "Craig Sumida",
         "Average": 190,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            181,
+            208,
+            170
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Craig Sumida"
     },
@@ -16066,7 +16748,11 @@
         "Name": "Kris Kato",
         "Average": 190,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            186,
+            212,
+            257
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kris Kato"
     },
@@ -16075,7 +16761,11 @@
         "Name": "Robert Wada",
         "Average": 190,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            169,
+            191,
+            162
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Robert Wada"
     },
@@ -16084,7 +16774,11 @@
         "Name": "Jason Mayeda",
         "Average": 190,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            258,
+            169,
+            219
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jason Mayeda"
     },
@@ -16093,7 +16787,11 @@
         "Name": "Duane Sakoda",
         "Average": 191,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            164,
+            172,
+            160
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Duane Sakoda"
     },
@@ -16102,7 +16800,11 @@
         "Name": "Jeff Mitre",
         "Average": 190,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            222,
+            191,
+            180
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Mitre"
     },
@@ -16111,7 +16813,11 @@
         "Name": "Richard Uyeda",
         "Average": 191,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            201,
+            147,
+            208
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Richard Uyeda"
     },
@@ -16120,7 +16826,11 @@
         "Name": "Alan Tosaya",
         "Average": 192,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            158,
+            224,
+            225
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Alan Tosaya"
     },
@@ -16129,7 +16839,11 @@
         "Name": "John Neishi",
         "Average": 193,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            169,
+            174,
+            190
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_John Neishi"
     },
@@ -16138,25 +16852,24 @@
         "Name": "Russell Kame",
         "Average": 193,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            221,
+            165,
+            255
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Russell Kame"
-    },
-    {
-        "Lane": 21,
-        "Name": "Darrin Wong",
-        "Average": 194,
-        "Division": 4,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Darrin Wong"
     },
     {
         "Lane": 21,
         "Name": "Kay Yamanaka",
         "Average": 194,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            208,
+            176,
+            177
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kay Yamanaka"
     },
@@ -16165,7 +16878,11 @@
         "Name": "Waimun Yee",
         "Average": 195,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            146,
+            197,
+            168
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Waimun Yee"
     },
@@ -16174,7 +16891,11 @@
         "Name": "Kevin Kawaoka",
         "Average": 194,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            229,
+            232,
+            211
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kevin Kawaoka"
     },
@@ -16183,7 +16904,11 @@
         "Name": "Jonathan Tamayose",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            227,
+            201,
+            174
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jonathan Tamayose"
     },
@@ -16192,7 +16917,11 @@
         "Name": "Jun Kataoka",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            126,
+            123,
+            0
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jun Kataoka"
     },
@@ -16201,7 +16930,11 @@
         "Name": "Matt Masukawa",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            159,
+            132,
+            188
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Matt Masukawa"
     },
@@ -16210,7 +16943,11 @@
         "Name": "Gary Nishikawa",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            224,
+            220,
+            155
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gary Nishikawa"
     },
@@ -16219,7 +16956,11 @@
         "Name": "Keith Kurihara",
         "Average": 189,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            156,
+            212,
+            181
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Keith Kurihara"
     },
@@ -16228,7 +16969,11 @@
         "Name": "Brandon Jue",
         "Average": 186,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            216,
+            201,
+            193
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brandon Jue"
     },
@@ -16237,7 +16982,11 @@
         "Name": "Richard Ho",
         "Average": 189,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            194,
+            178,
+            165
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Richard Ho"
     },
@@ -16246,7 +16995,11 @@
         "Name": "Bruce Akau",
         "Average": 189,
         "Division": 4,
-        "Score": [],
+        "Score": [
+            182,
+            212,
+            200
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bruce Akau"
     },
@@ -16255,7 +17008,11 @@
         "Name": "Ken Wing",
         "Average": 197,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            173,
+            186,
+            175
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ken Wing"
     },
@@ -16264,7 +17021,11 @@
         "Name": "Mikel Onaka",
         "Average": 198,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            145,
+            207,
+            194
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mikel Onaka"
     },
@@ -16273,7 +17034,11 @@
         "Name": "Gordon Terakami",
         "Average": 198,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            196,
+            193,
+            238
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gordon Terakami"
     },
@@ -16282,7 +17047,11 @@
         "Name": "Gary Yamashita",
         "Average": 198,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            158,
+            154,
+            175
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gary Yamashita"
     },
@@ -16291,7 +17060,11 @@
         "Name": "Glenn Tsuchiya",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            191,
+            237,
+            185
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Glenn Tsuchiya"
     },
@@ -16300,7 +17073,11 @@
         "Name": "Jeff Kaneshige",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            247,
+            208,
+            185
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Kaneshige"
     },
@@ -16309,7 +17086,11 @@
         "Name": "Chad Itami",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            133,
+            196,
+            176
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Chad Itami"
     },
@@ -16318,7 +17099,11 @@
         "Name": "Rodney Carillo",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            200,
+            178,
+            257
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Rodney Carillo"
     },
@@ -16327,7 +17112,11 @@
         "Name": "Michael Lo",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            254,
+            206,
+            220
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Michael Lo"
     },
@@ -16336,7 +17125,11 @@
         "Name": "Mike Uyekubo",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            225,
+            172,
+            199
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mike Uyekubo"
     },
@@ -16345,7 +17138,11 @@
         "Name": "Craig Kitaoka",
         "Average": 200,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            214,
+            154,
+            109
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Craig Kitaoka"
     },
@@ -16354,7 +17151,11 @@
         "Name": "Brian Uchino",
         "Average": 199,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            190,
+            201,
+            158
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brian Uchino"
     },
@@ -16363,7 +17164,11 @@
         "Name": "Corey Taniguchi",
         "Average": 201,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            226,
+            181,
+            191
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Corey Taniguchi"
     },
@@ -16372,7 +17177,11 @@
         "Name": "Bryson Heresa",
         "Average": 200,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            211,
+            242,
+            183
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bryson Heresa"
     },
@@ -16381,7 +17190,11 @@
         "Name": "Jeffrey Hirata",
         "Average": 201,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            178,
+            212,
+            179
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeffrey Hirata"
     },
@@ -16390,25 +17203,24 @@
         "Name": "Kyle Ortiz",
         "Average": 201,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            177,
+            234,
+            165
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kyle Ortiz"
-    },
-    {
-        "Lane": 9,
-        "Name": "Kevin Quan",
-        "Average": 196,
-        "Division": 5,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Kevin Quan"
     },
     {
         "Lane": 9,
         "Name": "Mike Smith",
         "Average": 196,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            156,
+            166,
+            223
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mike Smith"
     },
@@ -16417,7 +17229,11 @@
         "Name": "Harold Ogata Jr",
         "Average": 196,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            202,
+            207,
+            215
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Harold Ogata Jr"
     },
@@ -16426,7 +17242,11 @@
         "Name": "Greg Mayeda",
         "Average": 196,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            214,
+            204,
+            160
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Greg Mayeda"
     },
@@ -16435,7 +17255,11 @@
         "Name": "Anthony Madrona",
         "Average": 197,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            172,
+            150,
+            153
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Anthony Madrona"
     },
@@ -16444,7 +17268,11 @@
         "Name": "Ray Tamura",
         "Average": 197,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            168,
+            226,
+            212
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ray Tamura"
     },
@@ -16453,7 +17281,11 @@
         "Name": "Kento Hirata",
         "Average": 197,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            190,
+            227,
+            177
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kento Hirata"
     },
@@ -16462,7 +17294,11 @@
         "Name": "Jeff Okumura",
         "Average": 197,
         "Division": 5,
-        "Score": [],
+        "Score": [
+            190,
+            192,
+            187
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jeff Okumura"
     },
@@ -16471,7 +17307,11 @@
         "Name": "Goodman Ng",
         "Average": 203,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            169,
+            202,
+            221
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Goodman Ng"
     },
@@ -16480,7 +17320,11 @@
         "Name": "Chris Heins",
         "Average": 202,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            176,
+            235,
+            241
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Chris Heins"
     },
@@ -16489,7 +17333,11 @@
         "Name": "Justin Uyemura",
         "Average": 203,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            236,
+            195,
+            174
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Justin Uyemura"
     },
@@ -16498,7 +17346,11 @@
         "Name": "Kevin Nishikawa",
         "Average": 203,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            195,
+            177,
+            203
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kevin Nishikawa"
     },
@@ -16507,7 +17359,11 @@
         "Name": "Jordan Mayeda",
         "Average": 204,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            192,
+            176,
+            212
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jordan Mayeda"
     },
@@ -16516,7 +17372,11 @@
         "Name": "Reid Shishido",
         "Average": 203,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            205,
+            184,
+            201
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Reid Shishido"
     },
@@ -16525,7 +17385,11 @@
         "Name": "Brad Uyemura",
         "Average": 205,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            184,
+            170,
+            148
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brad Uyemura"
     },
@@ -16534,7 +17398,11 @@
         "Name": "Austin Hogan-McCool",
         "Average": 204,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            229,
+            163,
+            208
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Austin Hogan-McCool"
     },
@@ -16543,7 +17411,11 @@
         "Name": "Michael Shimotsu",
         "Average": 206,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            276,
+            212,
+            189
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Michael Shimotsu"
     },
@@ -16552,7 +17424,11 @@
         "Name": "Dan Sasaki",
         "Average": 205,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            180,
+            163,
+            149
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dan Sasaki"
     },
@@ -16561,7 +17437,11 @@
         "Name": "Max Onoe",
         "Average": 207,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            199,
+            180,
+            207
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Max Onoe"
     },
@@ -16570,7 +17450,11 @@
         "Name": "Tyler Wilson",
         "Average": 206,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            231,
+            254,
+            223
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Tyler Wilson"
     },
@@ -16579,7 +17463,11 @@
         "Name": "Owen Kuribayashi",
         "Average": 207,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            197,
+            190,
+            183
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Owen Kuribayashi"
     },
@@ -16588,7 +17476,11 @@
         "Name": "Michael Yoshihara",
         "Average": 207,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            243,
+            214,
+            268
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Michael Yoshihara"
     },
@@ -16597,7 +17489,11 @@
         "Name": "Chris Springfels",
         "Average": 208,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            183,
+            221,
+            217
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Chris Springfels"
     },
@@ -16606,7 +17502,11 @@
         "Name": "Brian Mar",
         "Average": 208,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            181,
+            204,
+            217
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brian Mar"
     },
@@ -16615,7 +17515,11 @@
         "Name": "Derek Lee",
         "Average": 201,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            214,
+            198,
+            223
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Derek Lee"
     },
@@ -16624,7 +17528,11 @@
         "Name": "Brian Hara",
         "Average": 201,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            168,
+            172,
+            141
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brian Hara"
     },
@@ -16633,7 +17541,11 @@
         "Name": "Chuck Kimura",
         "Average": 201,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            172,
+            177,
+            187
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Chuck Kimura"
     },
@@ -16642,7 +17554,11 @@
         "Name": "Jonathan Kajihara",
         "Average": 201,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            214,
+            204,
+            232
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jonathan Kajihara"
     },
@@ -16651,7 +17567,11 @@
         "Name": "Morgan Kimoto",
         "Average": 201,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            204,
+            238,
+            200
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Morgan Kimoto"
     },
@@ -16660,7 +17580,11 @@
         "Name": "Chuck King",
         "Average": 201,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            134,
+            202,
+            147
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Chuck King"
     },
@@ -16669,7 +17593,11 @@
         "Name": "Jaaycob Okumura",
         "Average": 202,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            209,
+            202,
+            218
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jaaycob Okumura"
     },
@@ -16678,7 +17606,11 @@
         "Name": "Rickey Goishi",
         "Average": 202,
         "Division": 6,
-        "Score": [],
+        "Score": [
+            158,
+            192,
+            168
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Rickey Goishi"
     },
@@ -16687,7 +17619,11 @@
         "Name": "Bruce Sunada",
         "Average": 211,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            168,
+            216,
+            246
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bruce Sunada"
     },
@@ -16696,7 +17632,11 @@
         "Name": "Brian Kaneshige",
         "Average": 211,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            175,
+            191,
+            233
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brian Kaneshige"
     },
@@ -16705,7 +17645,11 @@
         "Name": "Jody Kawamura",
         "Average": 211,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            212,
+            171,
+            214
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jody Kawamura"
     },
@@ -16714,7 +17658,11 @@
         "Name": "Glenn Wada",
         "Average": 211,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            246,
+            168,
+            212
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Glenn Wada"
     },
@@ -16723,7 +17671,11 @@
         "Name": "Eric Tsuchida",
         "Average": 212,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            236,
+            188,
+            188
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Eric Tsuchida"
     },
@@ -16732,7 +17684,11 @@
         "Name": "Bernard Factora",
         "Average": 211,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            197,
+            223,
+            197
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Bernard Factora"
     },
@@ -16741,7 +17697,11 @@
         "Name": "Gary Tosaya",
         "Average": 212,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            168,
+            163,
+            195
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gary Tosaya"
     },
@@ -16750,7 +17710,11 @@
         "Name": "Joshua Tajiri",
         "Average": 213,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            207,
+            199,
+            205
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Joshua Tajiri"
     },
@@ -16759,7 +17723,11 @@
         "Name": "Sakae Watanabe",
         "Average": 215,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            174,
+            238,
+            181
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Sakae Watanabe"
     },
@@ -16768,7 +17736,11 @@
         "Name": "Kevin Nagasawa",
         "Average": 214,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            193,
+            183,
+            158
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Kevin Nagasawa"
     },
@@ -16777,7 +17749,11 @@
         "Name": "Jim Yokomizo",
         "Average": 215,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            219,
+            214,
+            228
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jim Yokomizo"
     },
@@ -16786,7 +17762,11 @@
         "Name": "Ivan Miyasato",
         "Average": 216,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            205,
+            206,
+            241
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ivan Miyasato"
     },
@@ -16795,7 +17775,11 @@
         "Name": "Craig Tsuchiya",
         "Average": 217,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            205,
+            180,
+            278
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Craig Tsuchiya"
     },
@@ -16804,7 +17788,11 @@
         "Name": "Andy Warren",
         "Average": 217,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            238,
+            171,
+            196
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Andy Warren"
     },
@@ -16813,7 +17801,11 @@
         "Name": "Brian Davis",
         "Average": 219,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            202,
+            224,
+            265
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brian Davis"
     },
@@ -16822,7 +17814,11 @@
         "Name": "Mike Asuncion",
         "Average": 218,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            174,
+            157,
+            199
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mike Asuncion"
     },
@@ -16831,7 +17827,11 @@
         "Name": "Josh Uyeda",
         "Average": 209,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            169,
+            199,
+            245
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Josh Uyeda"
     },
@@ -16840,7 +17840,11 @@
         "Name": "Blaine Yoshimura",
         "Average": 208,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            148,
+            201,
+            193
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Blaine Yoshimura"
     },
@@ -16849,7 +17853,11 @@
         "Name": "Keiji Kubo",
         "Average": 209,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            219,
+            181,
+            157
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Keiji Kubo"
     },
@@ -16858,52 +17866,37 @@
         "Name": "Ron Montano",
         "Average": 209,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            256,
+            177,
+            206
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ron Montano"
-    },
-    {
-        "Lane": 11,
-        "Name": "Darren Tsumura",
-        "Average": 210,
-        "Division": 7,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Darren Tsumura"
     },
     {
         "Lane": 11,
         "Name": "Peter Mochizuki",
         "Average": 209,
         "Division": 7,
-        "Score": [],
+        "Score": [
+            137,
+            160,
+            151
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Peter Mochizuki"
-    },
-    {
-        "Lane": 12,
-        "Name": "Vince Itatani",
-        "Average": 210,
-        "Division": 7,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Vince Itatani"
-    },
-    {
-        "Lane": 12,
-        "Name": "Kihei Kim",
-        "Average": 210,
-        "Division": 7,
-        "Score": [],
-        "Event": "Men's Singles",
-        "_id": "Men's Singles_Kihei Kim"
     },
     {
         "Lane": 13,
         "Name": "Sean Early",
         "Average": 225,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            198,
+            205,
+            205
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Sean Early"
     },
@@ -16912,7 +17905,11 @@
         "Name": "Jason Jones",
         "Average": 227,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            173,
+            170,
+            178
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jason Jones"
     },
@@ -16921,7 +17918,11 @@
         "Name": "Gary Okumura",
         "Average": 228,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            233,
+            237,
+            269
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Gary Okumura"
     },
@@ -16930,7 +17931,11 @@
         "Name": "Ray Valdovino",
         "Average": 227,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            174,
+            236,
+            208
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ray Valdovino"
     },
@@ -16939,7 +17944,11 @@
         "Name": "Ashton Yamasaki",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            198,
+            246,
+            244
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ashton Yamasaki"
     },
@@ -16948,7 +17957,11 @@
         "Name": "Mike Sagers",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            246,
+            255,
+            220
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mike Sagers"
     },
@@ -16957,7 +17970,11 @@
         "Name": "Cy Hiyane",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            223,
+            278,
+            234
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Cy Hiyane"
     },
@@ -16966,7 +17983,11 @@
         "Name": "Lane Ochikubo",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            202,
+            207,
+            201
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Lane Ochikubo"
     },
@@ -16975,7 +17996,11 @@
         "Name": "Rick Goishi",
         "Average": 230,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            257,
+            265,
+            190
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Rick Goishi"
     },
@@ -16984,7 +18009,11 @@
         "Name": "Travis Hewitt",
         "Average": 229,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            227,
+            200,
+            205
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Travis Hewitt"
     },
@@ -16993,7 +18022,11 @@
         "Name": "Anthony Santos",
         "Average": 232,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            245,
+            184,
+            212
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Anthony Santos"
     },
@@ -17002,7 +18035,11 @@
         "Name": "Michael Fujita",
         "Average": 233,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            189,
+            191,
+            194
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Michael Fujita"
     },
@@ -17011,7 +18048,11 @@
         "Name": "Dave Shoji",
         "Average": 235,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            182,
+            181,
+            214
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dave Shoji"
     },
@@ -17020,7 +18061,11 @@
         "Name": "Dallas Leong",
         "Average": 233,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            248,
+            210,
+            225
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Dallas Leong"
     },
@@ -17029,7 +18074,11 @@
         "Name": "Ronnie Fujita",
         "Average": 237,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            279,
+            222,
+            247
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ronnie Fujita"
     },
@@ -17038,7 +18087,11 @@
         "Name": "Brandon Kring",
         "Average": 240,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            265,
+            300,
+            239
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Brandon Kring"
     },
@@ -17047,7 +18100,11 @@
         "Name": "Marc Sanwo",
         "Average": 220,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            214,
+            224,
+            182
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Marc Sanwo"
     },
@@ -17056,7 +18113,11 @@
         "Name": "Steve DeSordi",
         "Average": 218,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            224,
+            200,
+            212
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Steve DeSordi"
     },
@@ -17065,7 +18126,11 @@
         "Name": "Ryan Wong",
         "Average": 220,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            217,
+            194,
+            181
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Ryan Wong"
     },
@@ -17074,7 +18139,11 @@
         "Name": "Corey Tokunaga-Reichert",
         "Average": 223,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            213,
+            279,
+            175
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Corey Tokunaga-Reichert"
     },
@@ -17083,7 +18152,11 @@
         "Name": "Chad Uyehara",
         "Average": 224,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            245,
+            214,
+            187
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Chad Uyehara"
     },
@@ -17092,7 +18165,11 @@
         "Name": "Jay Mullen",
         "Average": 223,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            209,
+            246,
+            181
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Jay Mullen"
     },
@@ -17101,7 +18178,11 @@
         "Name": "Mike Tratnik",
         "Average": 225,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            211,
+            158,
+            162
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Mike Tratnik"
     },
@@ -17110,7 +18191,11 @@
         "Name": "Nate Pearson",
         "Average": 225,
         "Division": 8,
-        "Score": [],
+        "Score": [
+            203,
+            265,
+            210
+        ],
         "Event": "Men's Singles",
         "_id": "Men's Singles_Nate Pearson"
     }

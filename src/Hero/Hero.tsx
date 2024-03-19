@@ -31,8 +31,7 @@ function HeroAlert() {
 
       <AlertTitle className="font-bold">SCORES AVAILABLE</AlertTitle>
       <AlertDescription>
-        Unofficial scores for Men's and Women's Doubles events are now available
-        in the results section below!
+        Results for this year's tournament are available below! Thank you for joining us in Portland and we hope to see you next year in Las Vegas!
       </AlertDescription>
     </Alert>
   );

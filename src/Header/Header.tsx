@@ -10,14 +10,10 @@ import styles from "./header.module.css";
 
 import rulesForm from "@/assets/doc/2024 JANBA Tournament Rules.pdf";
 import advertisingForm from "@/assets/doc/2024 JANBA Advertising Form.pdf";
-import monteCarloForm from "@/assets/doc/CV LH Monte Carlo Flyer-min.pdf";
-import proAmForm from "@/assets/doc/CV LH Pro Am Flyer-min.pdf";
-import proShopForm from "@/assets/doc/JANBA Pro Shop Specials 2024-min.pdf";
 import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
 import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
-import nikeFlyer from "@/assets/doc/Nike Employee Store-min.pdf";
-import ragtimeFlyer from "@/assets/doc/JANBA 2024 - Ragtime-min.pdf";
+
 
 type NavLinkProps = {
   link: string;
@@ -49,36 +45,6 @@ function FormsMenu() {
         </a>
       </DropdownMenuItem>
       <DropdownMenuItem>
-        <a
-          href={monteCarloForm}
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-disabled
-        >
-          Monte Carlo
-        </a>
-      </DropdownMenuItem>
-      <DropdownMenuItem>
-        <a
-          href={proAmForm}
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-disabled
-        >
-          Pro-Am
-        </a>
-      </DropdownMenuItem>
-      <DropdownMenuItem>
-        <a
-          href={proShopForm}
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-disabled
-        >
-          Pro Shop Specials
-        </a>
-      </DropdownMenuItem>
-      <DropdownMenuItem>
         <a href={advertisingForm} target="_blank" rel="noopener noreferrer">
           Advertising
         </a>
@@ -91,16 +57,6 @@ function FormsMenu() {
       <DropdownMenuItem>
         <a href={womensEntryForm} target="_blank" rel="noopener noreferrer">
           Women's Entry Form
-        </a>
-      </DropdownMenuItem>
-      <DropdownMenuItem>
-        <a href={nikeFlyer} target="_blank" rel="noopener noreferrer">
-          Nike Store Information
-        </a>
-      </DropdownMenuItem>
-      <DropdownMenuItem>
-        <a href={ragtimeFlyer} target="_blank" rel="noopener noreferrer">
-          Ragtime Signup
         </a>
       </DropdownMenuItem>
     </DropdownMenuContent>
@@ -138,8 +94,6 @@ export default function Header() {
       >
         <nav className="flex flex-col gap-7 place-self-center text-center text-lg font-bold uppercase text-slate-50">
           <NavLink link="home" onClick={closeMenu} />
-          <NavLink link="information" onClick={closeMenu} />
-          <NavLink link="schedule" onClick={closeMenu} />
           <NavLink link="results" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
           <DropdownMenu>
@@ -171,8 +125,6 @@ export default function Header() {
           JANBA 2024
         </a>
         <nav className="hidden w-4/5 justify-evenly place-self-center font-semibold uppercase text-slate-50 md:flex">
-          <NavLink link="information" onClick={closeMenu} />
-          <NavLink link="schedule" onClick={closeMenu} />
           <NavLink link="results" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
         </nav>
