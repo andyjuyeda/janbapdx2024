@@ -53,7 +53,7 @@ export default function Contact() {
       >
         Contact Us
       </h1>
-      <div className="my-5 grid grid-cols-12 gap-y-4 rounded-xl bg-slate-50 p-1 max-w-[800px] mx-auto">
+      <div className="mx-auto my-5 grid max-w-[800px] grid-cols-12 gap-y-4 rounded-xl bg-slate-50 p-1">
         <ContactCard />
       </div>
     </>

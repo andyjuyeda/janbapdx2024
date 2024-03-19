@@ -14,7 +14,6 @@ import mensEntryForm from "@/assets/doc/2024 Mens Team Entry.pdf";
 import womensEntryForm from "@/assets/doc/2024 Womens Team Entry.pdf";
 import schedulePdf from "@/assets/doc/janba-schedule-min.pdf";
 
-
 type NavLinkProps = {
   link: string;
 };

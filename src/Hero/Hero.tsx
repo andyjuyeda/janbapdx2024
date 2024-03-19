@@ -10,6 +10,7 @@ import mountainPeakImg from "@/assets/img/mountain-peak.png";
 import skyImg from "@/assets/img/sky.png";
 import janbaLogoTextImg from "@/assets/img/janba-logo-text-only.png";
 import { buttonVariants } from "@/components/ui/button";
+import resultsPDF from "@/assets/doc/janba2024results.pdf";
 
 function HeroAlert() {
   return (
@@ -31,7 +32,8 @@ function HeroAlert() {
 
       <AlertTitle className="font-bold">SCORES AVAILABLE</AlertTitle>
       <AlertDescription>
-        Results for this year's tournament are available below! Thank you for joining us in Portland and we hope to see you next year in Las Vegas!
+        Results for this year's tournament are available below! Thank you for
+        joining us in Portland and we hope to see you next year in Las Vegas!
       </AlertDescription>
     </Alert>
   );
@@ -78,7 +80,17 @@ export default function Hero() {
                 variant: "default",
               })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
             >
-              Results
+              View Scores
+            </a>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href={resultsPDF}
+              className={`${buttonVariants({
+                variant: "default",
+              })} min-w-[200px] border-2 border-dark-blue font-semibold shadow-md hover:shadow-none`}
+            >
+              Printable Results
             </a>
           </div>
         </div>
