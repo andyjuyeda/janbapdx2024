@@ -84,7 +84,6 @@ export default function Header() {
       document.body.style.overflow = "";
     }
 
-    // Clean up when the component is unmounted
     return () => {
       document.body.style.overflow = "";
     };
@@ -99,6 +98,8 @@ export default function Header() {
       >
         <nav className="flex flex-col gap-7 place-self-center text-center text-lg font-bold uppercase text-slate-50">
           <NavLink link="home" onClick={closeMenu} />
+          <NavLink link="information" onClick={closeMenu} />
+          <NavLink link="schedule" onClick={closeMenu} />
           <NavLink link="scores" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
           <DropdownMenu>
@@ -130,6 +131,8 @@ export default function Header() {
           JANBA 2024
         </a>
         <nav className="hidden w-4/5 justify-evenly place-self-center font-semibold uppercase text-slate-50 md:flex">
+          <NavLink link="information" onClick={closeMenu} />
+          <NavLink link="schedule" onClick={closeMenu} />
           <NavLink link="scores" onClick={closeMenu} />
           <NavLink link="contact" onClick={closeMenu} />
         </nav>
